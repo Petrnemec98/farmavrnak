@@ -1,6 +1,6 @@
 <?php
 
- include 'header.php';
+ include 'php/header.php';
 
 ?>
                 
@@ -14,6 +14,6 @@
 
 <?php
 
-include 'footer.php';
+include 'php/footer.php';
 
 ?>
