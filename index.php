@@ -4,13 +4,40 @@
 
 ?>
                 
-            <!-- Intro -->
-                <section class="prepering">
 
+                
+<div class="layout-line">
+                        
+</div>
 
                     <div class="content">   
 
-                        test
+                      
+
+                       <div class="content-container">
+                        <div class="logo">
+                          <img src="images/logo.png">
+
+                        </div>
+
+
+                          <div>
+                            <h1>web přiravujeme <h2>Farma Vrňák</h2></h1>
+                           
+                         
+
+                        
+
+
+                            <div class="layout-description">
+
+
+                              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam feugiat, turpis at pulvinar vulputate, erat libero tristique tellus, nec bibendum odio risus sit amet ante.</p>
+                            </div>
+                               <h2 id="demo"></h2>
+                          </div>
+                         
+                       </div>
 
                     </div>
 
@@ -38,7 +65,7 @@
 
                         
                
-                </section>
+
 
     <!-- Footer -->
 

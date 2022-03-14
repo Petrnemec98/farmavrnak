@@ -1,6 +1,5 @@
-
-
-</body>
+</section>
+	</body>
 
 <!-- JS slider-->
 
@@ -25,6 +24,8 @@
 		  }
 		  x[slideIndex[no]-1].style.display = "block";  
 		}
+
+
 
 	</script>
 
