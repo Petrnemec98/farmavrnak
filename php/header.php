@@ -4,6 +4,9 @@
 	$page_name = basename($_SERVER['SCRIPT_NAME'], '.php');
 
 
+	//admin
+	require "php/functions.php"; 
+
 
 ?>
 
@@ -50,7 +53,6 @@
 			//desc. 
 				if ( $page_name == 'index') echo 'Farma Vrňák';
 				if ( $page_name == 'maso') echo 'Maso - Farma Vrňák';
-
 		 	?>	
 
 		content="##">
@@ -91,6 +93,21 @@
 		  }
 		}, 1000);
 	</script>
+
+	<div class="layout-line">
+               <div class="circule-header">
+	 		</div>          
+	</div>
+	
+
+	 <div class="logo">
+
+           <img src="images/logo.png">
+
+	 </div>   
+
+       
+
 	<section
 		<?php
 			if ( $page_name == 'index') echo 'class="section--hp"';
@@ -98,7 +115,7 @@
 		?>
 	>
 
-	
+	<?php render_banner() ?>
 
 		
 

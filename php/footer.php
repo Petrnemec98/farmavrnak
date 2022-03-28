@@ -1,3 +1,43 @@
+<section class="footer-box">
+
+	 <div class="content">   
+
+                         
+
+                       <div class="content-container">
+                     
+
+
+                          <div class="box-h1-prepered">
+                           
+                            <div class="box-h2-title">
+                               <h2>Kde nás najdete</h2>
+                            </div>
+                             <h1>KONTAKTY</h1>
+
+
+                           
+                         
+
+                        
+
+
+                            <div class="layout-description">
+
+                             <p>Kontaktujte nás, pokud
+								máte dotazy.</p>
+
+                          
+                            </div>
+                              <!-- <h2 id="demo"></h2> -->
+                          </div>
+                         
+                       </div>
+
+                    </div >
+                         
+
+                    </div>
 </section>
 	</body>
 
