@@ -6,7 +6,7 @@
              	<h1>KONTAKTY</h1>
             <div class="layout-description">
              <p class="footer--desc">
-             Pro více informací nás můžete kontaktovat e&nbsp;-&nbsp;mailem nebo na našich sociálních sítích.
+             Pro více informací nás můžete kontaktovat emailem nebo na našich sociálních sítích.
            	</p>
             </div>
           </div>
@@ -53,6 +53,19 @@
     			<h4>FARMAVRNAK@GMAIL.COM</h4>
     		</div>
     	</a>
+
+     		<a class="soc" href="tel:123-456-7890">
+    			<div class="soc--icon">
+			    	<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 33 33">
+						  <circle cx="16.5" cy="16.5" r="16.5" fill="#F8F1EC"/>
+						  <path fill="#333" d="M16.596 18.3c-1.718-1.41-2.866-3.15-3.47-4.14l-.45-.847c.158-.168 1.358-1.45 1.878-2.146.654-.873-.294-1.662-.294-1.662s-2.666-2.661-3.273-3.189c-.608-.528-1.307-.235-1.307-.235-1.277.824-2.6 1.54-2.68 4.982-.003 3.223 2.449 6.547 5.1 9.12 2.656 2.907 6.302 5.82 9.827 5.817 3.45-.078 4.166-1.4 4.991-2.674 0 0 .295-.697-.234-1.304-.53-.606-3.196-3.267-3.196-3.267s-.79-.946-1.666-.293c-.652.487-1.824 1.57-2.106 1.832 0 0-1.96-1.042-3.12-1.994z"/>
+					</svg>
+    		</div>
+    		<div class="soc--desc">
+    			<h4>+420 777 719 388</h4>
+    		</div>
+    	</a>
+    	   	
     </div>
 
 
@@ -65,10 +78,9 @@
   </div>
 </section>
 
-	</body>
+</body>
 
-<!-- JS slider-->
-
+	<!-- JS slider-->
 	<script type="text/javascript">
 
 		var slideIndex = [1,1];
@@ -90,9 +102,6 @@
 		  }
 		  x[slideIndex[no]-1].style.display = "block";  
 		}
-
-
-
 	</script>
 
 </html>

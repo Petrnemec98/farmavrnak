@@ -37,6 +37,22 @@
         <div class="mySlides1">
           <img src="images/slider_hp_3.webp" style="width:100%">
         </div>
+
+        <div class="mySlides1">
+          <img src="images/slider_hp_4.webp" style="width:100%">
+        </div>
+
+        <div class="mySlides1">
+          <img src="images/slider_hp_5.webp" style="width:100%">
+        </div>
+
+        <div class="mySlides1">
+          <img src="images/slider_hp_6.webp" style="width:100%">
+        </div>
+
+        <div class="mySlides1">
+          <img src="images/slider_hp_7.webp" style="width:100%">
+        </div>
         <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
         <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
     </div>
@@ -56,7 +72,7 @@
             <h1>PRODUKTY</h1>
           <div class="layout-description">
             <p>
-              Zabýváme se produkcí bio hovězího masa, a včelího medu.
+              Zabýváme se produkcí bio hovězího masa a včelího medu.
             </p>
           </div>
         </div>
@@ -64,7 +80,7 @@
     </div>
     <div class="product--box">
       <div class="product--icon"> 
-         <a href="maso">                                     
+                                            
             <div class="icon icon--hover maso">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 198 161">
                 <path  stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M102.405 158.831c1.709.113 3.439.169 5.179.169 41.713 0 75.874-32.204 78.727-72.979M35.75 47.949C48.181 20.84 75.67 1.996 107.581 1.996a79.042 79.042 0 0129.789 5.791"/>
@@ -82,7 +98,7 @@
             <div class="porduct-desc-h3">
               <h3>MASO</h3>
             </div>
-        </a>
+        
       </div>
     <div class="product--icon" style="margin-letf:181px">                                      
       <div class="icon icon--hover med">

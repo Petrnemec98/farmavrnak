@@ -10,78 +10,57 @@
 
 ?>
 
-
 <!DOCTYPE html>
 <html lang="cs">
 <head>
-
-	
-
-		<title>
-			<?php
-			//Title 
-				if ( $page_name == 'index') echo 'Farma Vrňák';
-				if ( $page_name == 'maso') echo 'Maso - Farma Vrňák';
-
-		 	?>	
-		</title>
-
-
-
-		<link rel="icon" href="favicon.svg" type="image/x-icon"  sizes="32x32" >
+	<title>
+		<?php
+		//Title 
+			if ( $page_name == 'index') echo 'Farma Vrňák';
+			if ( $page_name == 'maso') echo 'Maso - Farma Vrňák';
+	 	?>	
+	</title>
 		
 		<!-- technické parametry -->
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="author" content="Petr Němec">
 		<meta name="robots" content="index, follow">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 		<!-- SEO -->
+		<?php
+		//Index
+		if ( $page_name == 'index') echo'
+				<link rel="icon" href="favicon1.svg" type="image/x-icon"  sizes="32x32" >
+				<meta name="title" content="Farma Vrňák">
+				<meta name="description" content="Na rodinné farmě Vrňák se zabýváme produkcí bio hovězího masa a včelího medu. Naším cílem jsou kvalitní životní podmínky zvířat, naše krávy plemene Limousine se celý rok pasou na loukách poblíž slapské přehrady.">
+				<meta name="keywords" content="hovězí, maso, včelí, med, bio, eko, rodinná, farma, Vrňák, krávy, Limousine, Blaženice, BigM450, stařené, statek, domácí, steak, Měřín, slapská, Jablonná">';
 
+		//MASO
+		if ( $page_name == 'maso') echo'
+			<link rel="icon" href="favicon1.svg" type="image/x-icon"  sizes="32x32" >
+				<meta name="title" content="Maso - Farma Vrňák">
+				<meta name="description" content="">
+				<meta name="keywords" content="">';
+		?>
 
-		<meta name="title" 
-		
-			<?php
-			if ( $page_name == 'index') echo 'content="Farma Vrňák"';
-			if ( $page_name == 'maso') echo 'content="Maso Farma Vrňák"';
-			?>
-		>
-
-		<meta name="description" 
-			<?php
-			//desc. 
-				if ( $page_name == 'index') echo 'Farma Vrňák';
-				if ( $page_name == 'maso') echo 'Maso - Farma Vrňák';
-		 	?>	
-
-		content="##">
-		<meta name="keywords" content="###">
 	
 		<!--Styly-->	
 		<link rel="stylesheet" href="assets/css/main.css" />
 
-		<!-- Hotjar Tracking Code for https://www.pnemec.cz/farmavrnak -->
-		<script>
-		    (function(h,o,t,j,a,r){
-		        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-		        h._hjSettings={hjid:2905975,hjsv:6};
-		        a=o.getElementsByTagName('head')[0];
-		        r=o.createElement('script');r.async=1;
-		        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-		        a.appendChild(r);
-		    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-		</script>
-
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-JX8XSFP2JF"></script>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
-
-		  gtag('config', 'G-JX8XSFP2JF');
-		</script>
+		<!-- Hotjar Tracking Code for https://farmavrnak.cz -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2906354,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
 
 <body>
 
