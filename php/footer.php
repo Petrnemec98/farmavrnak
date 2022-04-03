@@ -104,4 +104,22 @@
 		}
 	</script>
 
+	<script type="text/javascript">
+		
+	const navigation = document.getElementById("nav");
+	const menu = document.getElementById("menu");
+	const layout = document.getElementById("layout");
+	const circule = document.getElementById("circule")
+	menu.addEventListener("click", () => {
+  navigation.style.setProperty("--childenNumber", navigation.children.length);
+  navigation.classList.toggle("active");
+ 	layout.classList.toggle("active");
+ 	circule.classList.toggle("active");
+  menu.classList.toggle("active");
+});
+
+</script>
+
+
+
 </html>
