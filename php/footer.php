@@ -13,6 +13,7 @@
        </div>
     	</div>
 
+          <article id="kontkaty">
     	<div class="box--soc" >
 
     		<a class="soc" href="https://www.instagram.com/farmavrnak/" target="_blank">
@@ -67,7 +68,11 @@
     	</a>
     	   	
     </div>
-
+              <address style="visibility: hidden;">
+                  Blaženice 8
+                  Rabyně, 257 44
+              </address>
+          </article>
 
 
 	</section>

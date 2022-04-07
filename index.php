@@ -3,12 +3,14 @@
  include 'php/header.php';
 
 ?>
-     
-<section class="section-1box-hp">
+
+<section class="section-1box-hp" xmlns="http://www.w3.org/1999/html">
   <section class="defaul-max-wight">                       
     <div class="content">   
       <div class="content-container">                     
-        <div class="box-h1-prepered">       
+        <div class="box-h1-prepered">
+
+   <article>
           <div class="box-h2-title">
             <h2>Farma Vrňák</h2>
           </div>
@@ -22,36 +24,37 @@
               </p>
             </div>
         </div>
+      </article>
       </div>
     </div >
 
     <div class="slideshow-container">
         <div class="mySlides1">
-          <img src="images/slider_hp_1.webp" style="width:100%">
+          <img src="images/slider_hp_1.webp" alt="Farma Vrňák - kráva se senem " style="width:100%">
         </div>
 
         <div class="mySlides1">
-          <img src="images/slider_hp_2.webp" style="width:100%">
+          <img src="images/slider_hp_2.webp" alt="Farma Vrňák - telátko " style="width:100%">
         </div>
 
         <div class="mySlides1">
-          <img src="images/slider_hp_3.webp" style="width:100%">
+          <img src="images/slider_hp_3.webp" alt="Frama Vrňak - kráva s rohy" style="width:100%">
         </div>
 
         <div class="mySlides1">
-          <img src="images/slider_hp_4.webp" style="width:100%">
+          <img src="images/slider_hp_4.webp" alt="Farma Vrňák - Býka" style="width:100%">
         </div>
 
         <div class="mySlides1">
-          <img src="images/slider_hp_5.webp" style="width:100%">
+          <img src="images/slider_hp_5.webp" alt="Farma Vrňák - hovězí maso" style="width:100%">
         </div>
 
         <div class="mySlides1">
-          <img src="images/slider_hp_6.webp" style="width:100%">
+          <img src="images/slider_hp_6.webp" alt="Farma Vrňák - slepice" style="width:100%">
         </div>
 
         <div class="mySlides1">
-          <img src="images/slider_hp_7.webp" style="width:100%">
+          <img src="images/slider_hp_7.webp" alt="Farma Vrňák - traktor a pole" style="width:100%">
         </div>
         <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
         <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
@@ -66,6 +69,7 @@
     <div class="content">   
       <div class="content-container">
         <div class="box-h1-prepered">
+            <article>
           <div class="box-h2-title">
             <h2>Čím se zabýváme</h2>
           </div>
@@ -76,6 +80,7 @@
             </p>
           </div>
         </div>
+          </article>
       </div>                 
     </div>
     <div class="product--box">
