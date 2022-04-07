@@ -1,7 +1,5 @@
 <?php
-
- include 'php/header.php';
-
+  include 'php/header.php';
 ?>
 
 <section class="section-1box-hp" xmlns="http://www.w3.org/1999/html">
@@ -9,25 +7,23 @@
     <div class="content">   
       <div class="content-container">                     
         <div class="box-h1-prepered">
-
-   <article>
-          <div class="box-h2-title">
-            <h2>Farma Vrňák</h2>
-          </div>
-            <h1>náš příběh</h1>
-          <div class="layout-description">
-              <p>
-                Připravujeme pro Vás webové stránky, na kterých se Vám pokusíme přiblížit, jak probíhá hospodaření na naší farmě a jaký život mají naše zvířata. 
-              </p>
-              <p>
-                Naším cílem je především vysoká kvalita životních podmínek a welfare (tj. životní pohoda) zvířat. I díky tomu naše produkty dosahují certifikovaného označení pro produkty ekologického zemědělství. 
-              </p>
+          <article>
+            <div class="box-h2-title">
+              <h2>Farma Vrňák</h2>
             </div>
+              <h1>náš příběh</h1>
+            <div class="layout-description">
+                <p>
+                  Připravujeme pro Vás webové stránky, na kterých se Vám pokusíme přiblížit, jak probíhá hospodaření na naší farmě a jaký život mají naše zvířata. 
+                </p>
+                <p>
+                  Naším cílem je především vysoká kvalita životních podmínek a welfare (tj. životní pohoda) zvířat. I díky tomu naše produkty dosahují certifikovaného označení pro produkty ekologického zemědělství. 
+                </p>
+            </div>
+          </article>
         </div>
-      </article>
       </div>
     </div >
-
     <div class="slideshow-container">
         <div class="mySlides1">
           <img src="images/slider_hp_1.webp" alt="Farma Vrňák - kráva se senem " style="width:100%">
@@ -69,20 +65,21 @@
     <div class="content">   
       <div class="content-container">
         <div class="box-h1-prepered">
-            <article>
-          <div class="box-h2-title">
-            <h2>Čím se zabýváme</h2>
-          </div>
-            <h1>PRODUKTY</h1>
-          <div class="layout-description">
-            <p>
-              Zabýváme se produkcí bio hovězího masa a včelího medu.
-            </p>
-          </div>
-        </div>
+          <article>
+            <div class="box-h2-title">
+              <h2>Čím se zabýváme</h2>
+            </div>
+              <h1>PRODUKTY</h1>
+            <div class="layout-description">
+              <p>
+                Zabýváme se produkcí bio hovězího masa a včelího medu.
+              </p>
+            </div>
           </article>
+        </div>
       </div>                 
     </div>
+
     <div class="product--box">
       <div class="product--icon"> 
                                             
@@ -102,31 +99,31 @@
             </div>
             <div class="porduct-desc-h3">
               <h3>MASO</h3>
-            </div>
-        
+            </div>  
       </div>
-    <div class="product--icon" style="margin-letf:181px">                                      
-      <div class="icon icon--hover med">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 187 186">
-          <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M121.046 56.918c0 3.1-5.713 5.878-14.766 7.782-7.63 1.603-17.636 2.582-28.605 2.612-10.977-.03-20.976-1.012-28.61-2.612-9.049-1.913-14.762-4.692-14.762-7.782 0-5.704 19.382-10.324 43.372-10.385 23.985.06 43.371 4.68 43.371 10.385z"/>
-          <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M121.046 56.918v15.551c0 1.96-2.311 3.811-6.338 5.4-7.617 2.976-21.337 4.974-37.033 5.001-15.702-.027-29.421-2.032-37.039-5.001-4.022-1.589-6.333-3.433-6.333-5.4V56.918c0 3.1 5.713 5.878 14.762 7.782 7.634 1.603 17.633 2.582 28.61 2.612 10.969-.03 20.975-1.012 28.605-2.612 9.053-1.904 14.766-4.683 14.766-7.782z"/>
-          <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M30.82 87.847v-.016c.11-1.523.69-4.553 9.819-9.964 7.615 2.975 21.334 4.976 37.033 5.006 15.702-.03 29.418-2.038 37.036-5.006 10.425 6.18 10.253 13.653 10.253 13.653v76.338c0 5.739-21.179 16.142-47.289 16.142-26.11 0-47.288-10.403-47.288-16.142v-1.499"/>
-          <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M111.239 136.295c3.861 0 6.99-9.398 6.99-20.992 0-11.594-3.129-20.992-6.99-20.992s-6.99 9.398-6.99 20.992c0 11.594 3.129 20.992 6.99 20.992z"/>
-          <path fill="#333" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M27.416 92.942H9.806L1 108.138l8.805 15.197h17.61l8.806-15.197-8.805-15.196zM27.416 129.801H9.806L1 144.998l8.805 15.196h17.61l8.806-15.196-8.805-15.197zM58.798 111.197h-17.61l-8.806 15.196 8.806 15.197h17.61l8.805-15.197-8.805-15.196z"/>
-          <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M13.479 82.53a78.658 78.658 0 0122.08-40.637M157.767 140.846a78.325 78.325 0 0010.827-26.095M95.476 19.314a79.06 79.06 0 0149.498 20.913"/>
-          <path fill="#333" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M155.238 47.077h-12.416l-6.207 10.715 6.207 10.713h12.416l6.207-10.713-6.207-10.715zM155.238 73.96h-12.416l-6.207 10.714 6.207 10.712h12.416l6.207-10.712-6.207-10.715zM178.92 60.372h-12.416l-6.207 10.715 6.207 10.712h12.416l6.207-10.712-6.207-10.715zM178.92 87.226h-12.416l-6.207 10.715 6.207 10.712h12.416l6.207-10.712-6.207-10.715zM155.372 144.865h-12.415l-6.209 10.712 6.209 10.715h12.415l6.209-10.715-6.209-10.712zM56.154 15.622H43.738L37.53 26.335l6.207 10.715h12.416l6.207-10.715-6.207-10.713zM79.218 1.66H66.804l-6.21 10.712 6.21 10.715h12.414l6.21-10.715-6.21-10.712z"/>
-        </svg>
-      </div>
-      <div class="icon-med-backgroun">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 150 150">
-          <circle cx="74.759" cy="74.759" r="74.438" fill="#F2A679" fill-opacity=".15"/>
-        </svg>
+      <div class="product--icon" style="margin-letf:181px">                                      
+        <div class="icon icon--hover med">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 187 186">
+            <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M121.046 56.918c0 3.1-5.713 5.878-14.766 7.782-7.63 1.603-17.636 2.582-28.605 2.612-10.977-.03-20.976-1.012-28.61-2.612-9.049-1.913-14.762-4.692-14.762-7.782 0-5.704 19.382-10.324 43.372-10.385 23.985.06 43.371 4.68 43.371 10.385z"/>
+            <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M121.046 56.918v15.551c0 1.96-2.311 3.811-6.338 5.4-7.617 2.976-21.337 4.974-37.033 5.001-15.702-.027-29.421-2.032-37.039-5.001-4.022-1.589-6.333-3.433-6.333-5.4V56.918c0 3.1 5.713 5.878 14.762 7.782 7.634 1.603 17.633 2.582 28.61 2.612 10.969-.03 20.975-1.012 28.605-2.612 9.053-1.904 14.766-4.683 14.766-7.782z"/>
+            <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M30.82 87.847v-.016c.11-1.523.69-4.553 9.819-9.964 7.615 2.975 21.334 4.976 37.033 5.006 15.702-.03 29.418-2.038 37.036-5.006 10.425 6.18 10.253 13.653 10.253 13.653v76.338c0 5.739-21.179 16.142-47.289 16.142-26.11 0-47.288-10.403-47.288-16.142v-1.499"/>
+            <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M111.239 136.295c3.861 0 6.99-9.398 6.99-20.992 0-11.594-3.129-20.992-6.99-20.992s-6.99 9.398-6.99 20.992c0 11.594 3.129 20.992 6.99 20.992z"/>
+            <path fill="#333" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M27.416 92.942H9.806L1 108.138l8.805 15.197h17.61l8.806-15.197-8.805-15.196zM27.416 129.801H9.806L1 144.998l8.805 15.196h17.61l8.806-15.196-8.805-15.197zM58.798 111.197h-17.61l-8.806 15.196 8.806 15.197h17.61l8.805-15.197-8.805-15.196z"/>
+            <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M13.479 82.53a78.658 78.658 0 0122.08-40.637M157.767 140.846a78.325 78.325 0 0010.827-26.095M95.476 19.314a79.06 79.06 0 0149.498 20.913"/>
+            <path fill="#333" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M155.238 47.077h-12.416l-6.207 10.715 6.207 10.713h12.416l6.207-10.713-6.207-10.715zM155.238 73.96h-12.416l-6.207 10.714 6.207 10.712h12.416l6.207-10.712-6.207-10.715zM178.92 60.372h-12.416l-6.207 10.715 6.207 10.712h12.416l6.207-10.712-6.207-10.715zM178.92 87.226h-12.416l-6.207 10.715 6.207 10.712h12.416l6.207-10.712-6.207-10.715zM155.372 144.865h-12.415l-6.209 10.712 6.209 10.715h12.415l6.209-10.715-6.209-10.712zM56.154 15.622H43.738L37.53 26.335l6.207 10.715h12.416l6.207-10.715-6.207-10.713zM79.218 1.66H66.804l-6.21 10.712 6.21 10.715h12.414l6.21-10.715-6.21-10.712z"/>
+          </svg>
+        </div>
+        <div class="icon-med-backgroun">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 150 150">
+            <circle cx="74.759" cy="74.759" r="74.438" fill="#F2A679" fill-opacity=".15"/>
+          </svg>
         </div>   
-          <div class="porduct-desc-h3">
-            <h3>MED</h3>
-          </div>     
-       </div>    
-     </div>
+        <div class="porduct-desc-h3">
+          <h3>MED</h3>
+        </div>     
+      </div>    
+    </div>
+
   </section>  
 </section>
 

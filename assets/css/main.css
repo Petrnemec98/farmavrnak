@@ -356,7 +356,6 @@ p{
 
 	.layout-description{
 		width: 65%;
-		padding-left: 100px;
 		margin-top: 32px;
 	}
 
@@ -373,7 +372,6 @@ p{
 	.content{
 		width: 60%;
 		margin-bottom: 75px;
-		z-index: -1;
 	}
 
 	.content-container{
