@@ -83,7 +83,6 @@
 	   	 </a>
 	  </div>
 	</section>
-
 </body>
 
 	<!-- JS slider-->
