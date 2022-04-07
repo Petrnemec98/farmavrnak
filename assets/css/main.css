@@ -2,7 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&family=Montserrat:wght@100&display=swap');
 
+address{
+	visibility: hidden;
+}
 
+/*přesunout*/
+.content-container.first{
+	margin-top: 50px;
+}
 
 /* Defaul value */
 ul{
@@ -36,7 +43,7 @@ h1, h2, h3, h4, h5, p, a{
 .section-1box-hp > .defaul-max-wight{
 	margin-top: 50px;
 }
-h1{
+h2{
 	font-weight: 400;
 	font-size: 6.25rem;
 	color: #D9B596;
@@ -47,10 +54,12 @@ h1{
 	margin-bottom: 0px;
 	opacity: 30%;
 }
-h2{
+h1{
 	font-size: 3.625rem;
 	color: black;
 	font-family: 'Dancing Script', cursive;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
 }
 h3{
 	color: black;
@@ -58,7 +67,7 @@ h3{
 	font-size: 1.5rem;
 	font-weight: 700;
 }
-h4{
+.soc--desc p{
 	color: white;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 1.25rem;
@@ -83,12 +92,12 @@ p{
 
 @media only screen and (max-width: 1088px) {
 
-	h1{
+	h2{
 		font-size: 3.75rem;
 		line-height: 4.5rem;
 	}
 
-	h2{
+	h1{
 		font-size: 1.875rem;
 	}
 }
@@ -97,18 +106,18 @@ p{
 
 @media only screen and (max-width: 881px) {
 
-	h1{
+	h2{
 		font-size: 2.5rem;
 	}
 
-	h2{
+	h1{
 		font-size: 1.563rem;
 	}
 
 	p{
 		font-size: 1rem;
 	}
-			h4{
+	.soc--desc p{
 		font-size: 0.75rem;
 	}
 }

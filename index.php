@@ -5,13 +5,13 @@
 <section class="section-1box-hp" xmlns="http://www.w3.org/1999/html">
   <section class="defaul-max-wight">                       
     <div class="content">   
-      <div class="content-container">                     
+      <div class="content-container first">                     
         <div class="box-h1-prepered">
           <article>
             <div class="box-h2-title">
-              <h2>Farma Vrňák</h2>
+              <h1>Farma Vrňák</h1>
             </div>
-              <h1>náš příběh</h1>
+              <h2>náš příběh</h2>
             <div class="layout-description">
                 <p>
                   Připravujeme pro Vás webové stránky, na kterých se Vám pokusíme přiblížit, jak probíhá hospodaření na naší farmě a jaký život mají naše zvířata. 
@@ -63,13 +63,15 @@
 <section class="content-2-box">
   <section class="defaul-max-wight">  
     <div class="content">   
-      <div class="content-container">
+      <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-            <div class="box-h2-title">
-              <h2>Čím se zabýváme</h2>
+             <div class="box-h2-title">
+              <h1>Čím se zabýváme</h1>
             </div>
-              <h1>PRODUKTY</h1>
+            
+              <h2>PRODUKTY</h2>
+
             <div class="layout-description">
               <p>
                 Zabýváme se produkcí bio hovězího masa a včelího medu.
@@ -101,7 +103,7 @@
               <h3>MASO</h3>
             </div>  
       </div>
-      <div class="product--icon" style="margin-letf:181px">                                      
+      <div class="product--icon">                                      
         <div class="icon icon--hover med">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 187 186">
             <path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M121.046 56.918c0 3.1-5.713 5.878-14.766 7.782-7.63 1.603-17.636 2.582-28.605 2.612-10.977-.03-20.976-1.012-28.61-2.612-9.049-1.913-14.762-4.692-14.762-7.782 0-5.704 19.382-10.324 43.372-10.385 23.985.06 43.371 4.68 43.371 10.385z"/>

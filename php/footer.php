@@ -1,10 +1,10 @@
-	<section class="footer-box">
+	<footer class="footer-box">
 		<section class="defaul-max-wight"> 
 				<div class="content">        
 					<div class="content-container">
 	          <div class="box-h1-prepered">
 	          	<article>
-		             	<h1>KONTAKTY</h1>
+		             	<h2>KONTAKTY</h2>
 		            <div class="layout-description">
 		             <p class="footer--desc">
 		             Pro více informací nás můžete kontaktovat emailem nebo na našich sociálních sítích.
@@ -28,7 +28,7 @@
 								</svg>
 		    		</div>
 		    		<div class="soc--desc">
-		    			<h4>@FARMAVRNAK</h4>
+		    			<p>@FARMAVRNAK</p>
 		    		</div>
 		    	</a>
 
@@ -41,11 +41,11 @@
 	    			</div>
 
 		    		<div class="soc--desc">
-		    			<h4>@FARMAVRNAK</h4>
+		    			<p>@FARMAVRNAK</p>
 		    		</div>
 	    	 </a>
 
-	    		<a class="soc" href="mailto:faramavrnak@gmail.com?subject=Mám%20zájme%20o%20maso/med">
+	    		<a class="soc" href="mailto:farmavrnak@gmail.com?subject=Mám%20zájme%20o%20maso/med">
 	    			<div class="soc--icon">
 				    	<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 33 33">
 							  <circle cx="16.5" cy="16.5" r="16.5" fill="#F8F1EC"/>
@@ -54,7 +54,7 @@
 							</svg>
 	    			</div>
 	    			<div class="soc--desc">
-	    				<h4>FARMAVRNAK@GMAIL.COM</h4>
+	    				<p>FARMAVRNAK@GMAIL.COM</p>
 	    			</div>
 	    		</a>
 
@@ -66,11 +66,11 @@
 							</svg>
 	    			</div>
 	    			<div class="soc--desc">
-	    				<h4>+420 777 719 388</h4>
+	    				<p>+420 777 719 388</p>
 	    			</div>
 	    		</a> 	
 	    	</div>
-	      <address style="visibility: hidden;">
+	      <address>
 	                  Blaženice 8
 	                  Rabyně, 257 44
 	      </address>
@@ -82,7 +82,7 @@
 	    	<p>© <?php echo date("Y");?> Petr Němec</p>
 	   	 </a>
 	  </div>
-	</section>
+	</footer>
 </body>
 
 	<!-- JS slider-->

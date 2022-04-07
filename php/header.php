@@ -26,7 +26,7 @@
 	<title>
 		<?php
 		//Title 
-			if ( $page_name == 'index.php') echo 'Farma Vrňák';
+			if ( $page_name == 'index.php') echo 'Vítejte na Farma Vrňák';
 			//if ( $page_name == 'maso') echo 'Maso - Farma Vrňák';
 	 	?>	
 	</title>
@@ -36,20 +36,21 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="author" content="Petr Němec">
-		<!--NoSEO-->
-		<!--<meta name="robots" content="index, follow">-->
+		<meta name="robots" content="index, follow">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 		<!-- SEO -->
 		<?php
 		//Index
 		if ( $page_name == 'index.php') echo'
-				<link rel="icon" href="favicon.svg" type="image/x-icon"  sizes="32x32" >
+				<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+				<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+				<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+				<link rel="manifest" href="/site.webmanifest">
 				<meta name="title" content="Farma Vrňák">
-				<!--
 				<meta name="description" content="Na rodinné farmě Vrňák se zabýváme produkcí bio hovězího masa a včelího medu. Naším cílem jsou kvalitní životní podmínky zvířat, naše krávy plemene Limousine se celý rok pasou na loukách poblíž slapské přehrady.">
 				<meta name="keywords" content="hovězí, maso, včelí, med, bio, eko, rodinná, farma, Vrňák, krávy, Limousine, Blaženice, BigM450, stařené, statek, domácí, steak, Měřín, slapská, Jablonná">
-				-->';
+				';
 
 		//MASO
 		//if ( $page_name == 'maso') echo'
@@ -65,8 +66,7 @@
 
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<!--Noseo-->
-	<!--
+
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-JX8XSFP2JF"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
@@ -75,11 +75,10 @@
 
 	  gtag('config', 'G-JX8XSFP2JF');
 	</script>
-	-->
+
 
 	<!-- Hotjar Tracking Code for https://farmavrnak.cz -->
-	<!--Noseo-->
-	<!--
+
 	<script>
 	    (function(h,o,t,j,a,r){
 	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -90,7 +89,7 @@
 	        a.appendChild(r);
 	    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 	</script>
-	-->
+
 </head>
 
 <body>      
@@ -101,6 +100,7 @@
 			</svg>
 
 			<!--Menu-com-->
+			<!--
 				<ul id="nav" class="nav--bar nav--left">
 				<?php
 				$printNavItem($page_name, 'index.php', 'Úvod');
@@ -110,6 +110,7 @@
 				$printNavItem($page_name, 'kontakty', 'KONTAKTY');
 				?>
 				</ul>
+			-->
 
 			<div class="logo--cover">
 				<a href="index.php">
@@ -135,10 +136,11 @@
 				</a>
 			</div>
 		<!--Menu-com-->
-		  <div class="menu" id="menu">
+		<!-- <div class="menu" id="menu">
 		  	<span></span>
 
 		  </div>
+		-->
 		</nav>
 	</header>
 
