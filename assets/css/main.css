@@ -11,6 +11,11 @@ address{
 	margin-top: 50px;
 }
 
+.no-wrap{
+	white-space: nowrap;
+	font-family: 'Montserrat', sans-serif;
+}
+
 /* Defaul value */
 ul{
 	margin-block-start: 0em;
