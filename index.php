@@ -27,7 +27,7 @@
     </div >
     <div class="slideshow-container">
         <div class="mySlides1">
-          <img src="images/slider_hp_1.webp" alt="Farma Vrňák - kráva se senem " style="width:100%">
+          <img src="images/slider_hp_3.webp" alt="Frama Vrňak - kráva s rohy" style="width:100%">
         </div>
 
         <div class="mySlides1">
@@ -35,7 +35,7 @@
         </div>
 
         <div class="mySlides1">
-          <img src="images/slider_hp_3.webp" alt="Frama Vrňak - kráva s rohy" style="width:100%">
+          <img src="images/slider_hp_1.webp" alt="Frama Vrňak - traktor" style="width:100%">
         </div>
 
         <div class="mySlides1">

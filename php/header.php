@@ -23,6 +23,17 @@
 <!DOCTYPE html>
 <html lang="cs">
 <head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WZNPGTK');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-P5GVDR4"></script>
+
 	<title>
 		<?php
 		//Title 
@@ -99,7 +110,11 @@
 
 </head>
 
-<body>      
+<body> 
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZNPGTK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->    
 	<header>
 		<nav class="layout-line" id="layout">
 			<svg class="circule--1680" id="circule" xmlns="http://www.w3.org/2000/svg" width="362" height="262" fill="none" viewBox="0 0 362 262">
@@ -143,11 +158,11 @@
 				</a>
 			</div>
 		<!--Menu-com-->
-		 <div class="menu" id="menu">
+		<!-- <div class="menu" id="menu">
 		  	<span></span>
 
 		  </div>
-	
+		-->
 		</nav>
 	</header>
 
