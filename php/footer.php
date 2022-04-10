@@ -1,4 +1,35 @@
-	<footer class="footer-box">
+<section class="galery-bar">
+	<div class="galery-bar-positon">
+		<div class="galery-bar-photo">
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img href="https://www.instagram.com/p/CX6B3MHoplN/" src="images/slider_hp_2.webp"></a>
+			<div class="galery-bar-instagram"></div>
+		</div>
+		<div class="galery-bar-photo">
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_1.webp"></a>
+		</div>
+		<div class="galery-bar-photo">
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_3.webp"></a>
+		</div>
+		<div class="galery-bar-photo">
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_6.webp"></a>
+		</div>
+		<div class="galery-bar-photo">
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_4.webp"></a>
+		</div>
+		<div class="galery-bar-photo">
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_5.webp"></a>
+		</div>
+		<div class="galery-bar-photo">
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_7.webp"></a>
+		</div>
+		<div class="galery-bar-photo">
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_1.webp"></a>
+		</div>
+	</div>
+</section>
+
+
+<footer class="footer-box">
 		<div class="defaul-max-wight"> 
 				<div class="content">        
 					<div class="content-container">

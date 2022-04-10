@@ -25,19 +25,24 @@
 <head>
 
 <!-- Google Tag Manager -->
+<!--SEONO
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WZNPGTK');</script>
+-->
 <!-- End Google Tag Manager -->
 
+<!--SEONO
 <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P5GVDR4"></script>
+-->
 
 	<title>
 		<?php
 		//Title 
 			if ( $page_name == 'index.php') echo 'Vítejte na Farma Vrňák';
+			if ( $page_name == 'nas-pribeh') echo 'Náš příbeh - Farma Vrňak';
 			//if ( $page_name == 'maso') echo 'Maso - Farma Vrňák';
 	 	?>	
 	</title>
@@ -46,13 +51,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="author" content="Petr Němec">
-		<meta name="robots" content="index, follow">
+		<!--SEONO <meta name="robots" content="index, follow"> -->
 		<meta http-equiv="content-Type" content="text/html; charset=utf-8">
 
 		<!--Facebook-->
 		<meta property="og:title" content="Farma Vrňák" />
 		<meta property="og:description" content="Na Farmě Vrňák se zabýváme produkcí bio hovězího masa a včelího medu. Naším cílem je kvalitní život zvířat, naše krávy se pasou na loukách u slapské přehrady." />
-		
 		<meta property="og:image" content="https://www.farmavrnak.cz/images/slider_hp_1.webp" />
 
 		<!-- SEO -->
@@ -63,9 +67,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 				<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 				<link rel="manifest" href="/site.webmanifest">
-				<meta property="og:site_name" content="Farma Vrňák" />
+				<!--SEONO <meta property="og:site_name" content="Farma Vrňák" />
 				<meta name="keywords" content="hovězí, maso, hovězí maso, ekofarma, maso z farmy, domácí, ekologické zemědělství, farma Vrňák, farma, Blaženice, med, bio hovězí, maso na steak, guláš, Slapská přehrada, Měřín, plemeno Limousine, skot, kráva, welfare, svíčková, vysoký roštěnec, kližka">
-				<meta name="description" content="Na Farmě Vrňák se zabýváme produkcí bio hovězího masa a včelího medu. Naším cílem je kvalitní život zvířat, naše krávy se pasou na loukách u slapské přehrady.">'
+				<meta name="description" content="Na Farmě Vrňák se zabýváme produkcí bio hovězího masa a včelího medu. Naším cílem je kvalitní život zvířat, naše krávy se pasou na loukách u slapské přehrady."> -->'
 				;
 
 		//MASO
@@ -79,12 +83,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	
 	<!--Styly-->
 	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="stylesheet" href="assets/css/menu.css" />
 
 
 	<!--Scripty-->
 	
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<!--SEONO
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-JX8XSFP2JF"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
@@ -93,10 +99,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	  gtag('config', 'G-JX8XSFP2JF');
 	</script>
-
+	-->
 
 	<!-- Hotjar Tracking Code for https://farmavrnak.cz -->
-
+	<!--SEONO
 	<script>
 	    (function(h,o,t,j,a,r){
 	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -107,14 +113,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	        a.appendChild(r);
 	    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 	</script>
+	-->
 
 </head>
 
 <body> 
 <!-- Google Tag Manager (noscript) -->
+<!--SEONO
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZNPGTK"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->    
+-->
+<!-- End Google Tag Manager (noscript) -->
+
+<!--Button up-->
+<button onclick="topFunction()" id="myBtn" title="Go to top"></button>
+
 	<header>
 		<nav class="layout-line" id="layout">
 			<svg class="circule--1680" id="circule" xmlns="http://www.w3.org/2000/svg" width="362" height="262" fill="none" viewBox="0 0 362 262">
@@ -122,17 +135,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</svg>
 
 			<!--Menu-com-->
-			<!--
+			
 				<ul id="nav" class="nav--bar nav--left">
 				<?php
 				$printNavItem($page_name, 'index.php', 'Úvod');
 				$printNavItem($page_name, 'nas-pribeh', 'NÁŠ PŘÍBĚH');
+				echo '<div class="fake-logo-menu"></div>';
 				$printNavItem($page_name, 'maso', 'MASO');
 				$printNavItem($page_name, 'med', 'MED');
 				$printNavItem($page_name, 'kontakty', 'KONTAKTY');
 				?>
 				</ul>
-			-->
+		
 
 			<div class="logo--cover">
 				<a href="index.php">
@@ -158,11 +172,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</a>
 			</div>
 		<!--Menu-com-->
-		<!-- <div class="menu" id="menu">
+		<div class="menu" id="menu">
 		  	<span></span>
 
 		  </div>
-		-->
+		
 		</nav>
 	</header>
 

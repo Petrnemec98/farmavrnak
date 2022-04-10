@@ -68,7 +68,7 @@
         <div class="box-h1-prepered">
           <article>
              <div class="box-h2-title">
-              <h1>Čím se zabýváme</h1>
+              <p class="h1">Čím se zabýváme</p>
             </div>
             
               <h2>PRODUKTY</h2>

@@ -2,14 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&family=Montserrat:wght@100&display=swap');
 
+/*Adresa*/
 address{
 	visibility: hidden;
 }
 
-/*přesunout*/
-.content-container.first{
-	margin-top: 50px;
+
 }
+
 
 .no-wrap{
 	white-space: nowrap;
@@ -59,12 +59,13 @@ h2{
 	margin-bottom: 0px;
 	opacity: 30%;
 }
-h1{
+h1, .h1{
 	font-size: 3.625rem;
 	color: black;
 	font-family: 'Dancing Script', cursive;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  font-weight: 400;
 }
 h3{
 	color: black;
@@ -102,7 +103,7 @@ p{
 		line-height: 4.5rem;
 	}
 
-	h1{
+	h1, .h1{
 		font-size: 1.875rem;
 	}
 }
@@ -115,7 +116,7 @@ p{
 		font-size: 2.5rem;
 	}
 
-	h1{
+	h1, .h1{
 		font-size: 1.563rem;
 	}
 
@@ -393,6 +394,10 @@ p{
 		padding: 20px;
 		
 	}
+
+.content-container.first{
+	margin-top: 50px;
+}
 
 
 	@media only screen and (max-width: 1280px) {
@@ -681,162 +686,129 @@ p{
 	}
 
 
-		}
-
-*,
-*::after,
-*::before {
-  font-family: "Poppins", sans-serif;
 }
 
-:root {
-  --nav-bg: #F8F1EC;
+
+
+
+/*Button*/
+/*Button-up*/
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+  background-image: url("Arrow.svg");
+  background-color: none;
+  background-repeat:no-repeat;
+  transition: 0.5s ease;
+  opacity: 80%;
 }
 
-nav {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  position: fixed;
-  width: 100%;
-  background: #03000e;
-  box-shadow: var(--nav-shadow);
+button{
+	    background-color:transparent;
+}
+#myBtn:hover {
+			-moz-transform: scale(1.1);
+		-webkit-transform: scale(1.1);
+		-o-transform: scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+		opacity: 100%;
 }
 
-nav .logo {
-  color: #fff;
-  text-decoration-color: var(--main-clr);
-  font-size: 22px;
-  font-family: "Playfair Display", serif;
-  font-weight: 100;0px 3px var(--main-clr)
+/*Galery-bar*/
+
+.galery-bar{
+	width: 100%;
+	height: 360px;
+	display: flex;
+}
+.galery-bar-positon::-webkit-scrollbar{
+	display: none;
 }
 
-nav ul {
-  --padding: 20px;
-  --font-size: 17px;
-  position: absolute;
-  list-style: none;
-  display: flex;
-  align-items: center;
-  font-size: var(--font-size);
+.galery-bar-positon{
+	width: 100%;
+	display: flex;
   overflow-y: hidden;
-  transition: 1s cubic-bezier(.68,-0.55,.27,1.55);
-  box-shadow: var(--nav-shadow);
-  z-index: 2;
+  overflow-x: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
-nav ul li {
-  padding: var(--padding);
+.galery-bar-photo a{
+	height: 360px;
+	display: flex;
+  transition: 0.5s ease;
 }
 
-nav ul li a {
-  color: #fff;
-  text-decoration: none;
-  position: relative;
+.galery-bar-photo a:hover{
+			-moz-transform: scale(1.1);
+		-webkit-transform: scale(1.1);
+		-o-transform: scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
 }
 
-nav ul li a::after {
-  content: "";
-  width: 0%;
-  height: 2.5px;
-  border-radius: 99px;
-  background: var(--main-clr);
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  transition: 0.3s ease;
-}
+@media only screen and (max-width: 1280px) {
+	.galery-bar{
+		height: 260px;
+	}
+	.galery-bar-photo a{
+	height: 260px;
+	}
 
-nav ul li a:hover::after {
-  width: 100%;
-}
+	.galery-bar-instagram{
+		margin-left: ;
+		margin-right: ;
+	}
 
-.list--item.active a{
-	opacity:100% ;
 
 }
-
-nav .menu {
-	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' fill='none' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='24' fill='%23333'/%3E%3Cpath stroke='%23F8F1EC' stroke-linecap='round' stroke-width='3' d='M10.227 15.954h29.728M10.227 24.682h16.637M10.227 33.409h23.182'/%3E%3C/svg%3E");
-  width: 48px;
-  height: 48px;
-  cursor: pointer;
-  display: none;
-  align-items: center;
-  flex-direction: column;
-  justify-content: space-between;
-  position: absolute;
-  top: 36px;
-  right: 20px;
-  z-index: 4;
+@media only screen and (max-width: 1088px) {
+		.galery-bar{
+		height: 200px;
+	}
+	.galery-bar-photo a{
+	height: 200px;
+	}
+}
+@media only screen and (max-width: 881px) {
+		.galery-bar{
+		height: 150px;
+	}
+	.galery-bar-photo a{
+	height: 150px;
+	}
 }
 
 
-nav .menu.active {
-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' fill='none' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='24' fill='%23333'/%3E%3Cpath stroke='%23F8F1EC' stroke-linecap='round' stroke-width='3' d='M12.121 11L36 34.879M11.995 34.936l23.826-23.931'/%3E%3C/svg%3E");
+/*Our story*/
+.our-story-1pics{
+	  width: 396px;
+    height: 396px
 }
 
-nav .menu.active span:nth-child(1) {
-  transform: rotate(40deg);
+.our-story-pics{
+	width: 330px;
+	height: 330px;
+
 }
 
-nav .menu span:nth-child(3) {
-  transform-origin: left;
+.our-story-pics.right{
+	margin-right: 240px;
 }
-
-nav .menu.active span:nth-child(3) {
-  transform: rotate(-40deg);
+.our-story-pics.left{
+		margin-left: 240px;
 }
-
-nav .menu.active span:nth-child(2) {
-  transform: scale(0);
+.our-story-1pics img, .our-story-pics img{
+	border-radius: 50%;
 }
-
-@media (max-width: 910px) {
-  nav .menu {
-    display: flex;
-  }
-
-  nav ul {
-    --height: 0px;
-
-    flex-direction: column;
-    background: var(--nav-bg);
-    position: absolute;
-    width: 100%;
-    left: 0;
-    top: 50px;
-    height: var(--height);
-    transition: 1s cubic-bezier(.68,-0.55,.27,1.55);
-  }
-
-  nav ul.active {
-    --height: calc(
-      (((var(--padding) * 2) + (var(--font-size) * 1.5))) * var(--childenNumber)
-    );
-    transition: 0.5s ease;
-    height: 100vh;
-    padding-top: 60px;
-    text-align: center;
-    z-index: 2;
-  }
-
-  nav ul li {
-    width: 100%;
-    text-align: left;
-  }
-  nav ul li a {
-    width: 100%;
-    text-transform: capitalize;
-    font-size: 2.5rem;
-    color: #F2A679;
-    opacity: 40%;
-    font-family: 'Bebas Neue';
-    padding-left: 39px;
-    padding-bottom: 18px;
-  }
-  nav ul li a:hover{
-  	opacity: 100%;
-  }
-}
-
