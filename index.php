@@ -20,6 +20,9 @@
                 <p>
                   Naším cílem je především vysoká kvalita životních podmínek a welfare (tj. životní pohoda) zvířat. I díky tomu naše produkty dosahují certifikovaného označení pro produkty ekologického zemědělství. 
                 </p>
+                <p>
+                  <a href="nas-pribeh#limousine">Proč jsme pro náš chov zvolili původně francouzské plemeno Limousine?</a>
+                </p>
             </div>
           </article>
         </div>
@@ -75,17 +78,21 @@
 
             <div class="layout-description">
               <p>
-                Zabýváme se produkcí bio hovězího masa a včelího medu.
+                Zabýváme se produkcí bio hovězího masa a včelího medu. Naším cílem je především vysoká kvalita životních podmínek a welfare (tj. životní pohoda) zvířat. I díky tomu naše produkty dosahují označení pro produkty ekologického zemědělství.
               </p>
             </div>
           </article>
         </div>
-      </div>                 
+      </div>
+      <div class="bio-icon-bar">
+        <a href="#"><div class="bio-icon green"></div></a>
+        <a href="#"><div class="bio-icon cow"></div></a>
+      </div>                
     </div>
 
     <div class="product--box">
       <div class="product--icon"> 
-                                            
+          <a href="maso">                              
             <div class="icon icon--hover maso">
               <svg fill="none" viewBox="0 0 198 161">
                 <path  stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M102.405 158.831c1.709.113 3.439.169 5.179.169 41.713 0 75.874-32.204 78.727-72.979M35.75 47.949C48.181 20.84 75.67 1.996 107.581 1.996a79.042 79.042 0 0129.789 5.791"/>
@@ -94,14 +101,16 @@
                 <path fill="#333" d="M105.134 44.38c-.144 3.402 5.461 5.875 12.387 8.297 7.279 2.536 24.935 3.325 24.935 3.325 16.95.445 14.008-6.87 10.801-7.95-3.394-1.143-11.686-3.574-13.727-6.375-3.402-4.683-6.523-5.938-8.352-6.404-6.121-1.56-13.982 1.58-15.479 1.873-7.978 1.553-10.422 3.831-10.565 7.234zM143.704 34.952c.275 4.182 5.028 5.086 9.181 6.758 2.001.808 5.483 1.726 7.326 3.897 2.081 2.454 4.047 5.22 6.615 5.93 6.46 1.774 18.094-2.085 19.187-10.876 1.092-8.79-6.827-12.456-8.341-13.275-1.514-.82-13.334-6.993-26.148-1.08-7.126 3.288-8.018 5.662-7.82 8.646z"/>
               </svg>
             </div>
+          </a>
             <div class="icon-maso-backgroun">
                 <svg fill="none" viewBox="0 0 115 101">
                   <ellipse cx="37.5" cy="63" fill="#F2A679" fill-opacity=".15" rx="37.5" ry="38"/>
                   <ellipse cx="82.5" cy="33" fill="#F2A679" fill-opacity=".15" rx="32.5" ry="33"/>
                 </svg>
             </div>
-            <div class="porduct-desc-h3">
-              <h3>MASO</h3>
+            <div class="porduct-desc-h3 maso-desc">
+              <h3><a href="maso">MASO</a></h3>
+              <p>Hovězí maso se nedělí pouze na přední, zadní a svíčkovou. Podívejte se našeho <a href="maso">průvodce hovězím masem </a> a zkuste obohatit svůj jídelníček o něco netradičního.</p>
             </div>  
       </div>
       <div class="product--icon">                                      
@@ -123,6 +132,7 @@
         </div>   
         <div class="porduct-desc-h3">
           <h3>MED</h3>
+          <p>Jedním z našich dlouholetých snů, jehož splněním jsme navázali na tradici našeho pradědečka, bylo chovat včely.<a href="med"> Podívejte se na naši cestu za získáváním vlastního medu.</a></p>
         </div>     
       </div>    
     </div>

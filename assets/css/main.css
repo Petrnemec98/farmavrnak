@@ -69,9 +69,12 @@ h1, .h1{
 }
 h3{
 	color: black;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat-bold', sans-serif;
 	font-size: 1.5rem;
-	font-weight: 700;
+	font-weight: bolder;
+	margin-block-start: 0em;
+  margin-block-end: 0.1em;
+
 }
 .soc--desc p{
 	color: white;
@@ -87,6 +90,14 @@ h3{
 p{
 	font-size: 1.2rem;
 	color: black;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 1000;
+}
+
+p a{
+	font-style: italic;
+	color: #F2A679;
+	font-weight: 1000;
 	font-family: 'Montserrat', sans-serif;
 }
 @media only screen and (max-width: 1280px) {
@@ -132,10 +143,12 @@ p{
 		width: 90%;
 		margin: auto;
 		padding-bottom: 50px;
+		margin-left: 127px;
+		padding: 20px;
 		
 		}
 
-		.content{
+	.content{
 			width: 100%;
 
 		}
@@ -228,6 +241,9 @@ p{
 		.circule--1680{
 			height: 96px;
 		}
+		.content-container{
+			padding: 0px;
+		}
 	}
 
 
@@ -267,6 +283,8 @@ p{
 		border-radius: 20% 50vh 20% 50vh;
 		margin-bottom: 50px;
 		margin-top: 120px;
+		margin-left: auto;
+    margin-right: auto;
 	}
 
 	/* Next & previous buttons */
@@ -347,6 +365,7 @@ p{
 		height: 300px;
 		margin: auto;
 		bottom: 51px;
+		margin-top: 50px;
 		padding: 20px 0px;
 		}
 	}
@@ -385,15 +404,11 @@ p{
 	}
 
 	.content{
-		width: 60%;
+		width: 50%;
 		margin-bottom: 75px;
 	}
 
-	.content-container{
-		margin-left: 127px;
-		padding: 20px;
-		
-	}
+
 
 .content-container.first{
 	margin-top: 50px;
@@ -414,6 +429,12 @@ p{
 		.content-container{
 			width: 80%;
 		}
+		.box-h2-title{
+			margin-left: 60px;
+		}
+		.section-1box-hp {
+			margin-top: 130px;
+		}
 	}
 
 	@media only screen and (max-width: 1088px) {
@@ -421,7 +442,7 @@ p{
 
 
 		.section-1box-hp {
-			margin-top: 30px;
+			margin-top: 50px;
 		}
 		.layout-description{
 			padding-left: 55px;
@@ -447,13 +468,13 @@ p{
 	}
 
 	.section-1box-hp {
-			margin-top: 0px;
+			margin-top: 130px;
 	}
 
 	.content-container{
 		width: 90%;
 		margin: auto;
-		padding-bottom: 50px;
+
 	}
 
 	.content{
@@ -472,20 +493,26 @@ p{
 
 	/*produkty*/
 	.product--box{
-		width: 40%;
+		width: 50%;
 		padding-top: 102px;
-		display: flex;
+
 	}
 	.product--icon{
 		display: block;
-		width: 50%;
+		width: 100%;
+		padding-bottom: 100px;
 	}
 
 	.porduct-desc-h3
 	{
-		padding-top: 175px;
+		padding-left: 220px;
+		padding-right: 30px;
 	}
 
+ .porduct-desc-h3 p{
+ 	    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+ }
 
 	.icon{
 
@@ -495,24 +522,24 @@ p{
 		padding-left: 19px;
 	}
 	.maso{
-		width: 195.51px;
-		height: 157px;
+		width: 173.12px;
+		height: 139.03px;
 	}
 
 	.med{
-		width: 184.13px;
-		height: 182.34px;
+		width: 173.87px;
+		height: 172.19px;
 	}
 	.icon-maso-backgroun{
 		position: absolute;
-		width: 217px;
-		height: 217px;
+		width: 190px;
+		height: 190px;
 
 	}
 	.icon-med-backgroun{
 		position: absolute;
-		width: 150px;
-		height: 150px;
+		width: 130px;
+		height: 130px;
 		margin-left: 44px;
 		margin-top: 44px;
 	}
@@ -532,34 +559,35 @@ p{
 	@media only screen and (max-width: 1280px) {
 
 	.maso{
-		width: 113.07px;
-		height: 91px;
+		width: 99.77px;
+		height: 80.3px;
 	}
+	.icon-maso-backgroun{
+		position: absolute;
+		width: 108px;
+		height: 108px;
+	}
+
+.product--icon{
+	padding-bottom: 60px;
+}
 
 	.med{
-		width: 102px;
-		height: 101.01px;
+		width: 94.51px;
+		height: 93.6px;
 	}
 
-	.icon-maso-backgroun{
-		width: 119px;
-		height: 101px;
-	}
 	.icon-med-backgroun{
-		width:83px ;
-		height: 84px;
+		width:75px;
+		height: 75px;
 		margin-left: 25px;
-		margin-top: 20px;
+		margin-top: 25px;
 	}
-	.porduct-desc-h3
+		.porduct-desc-h3
 	{
-		padding-top: 100px;
+		padding-left: 120px;
+		padding-right: 30px;
 	}
-
-	.porduct-desc-h3 > h3 {
-		padding-left: 15px;
-	}
-
 
 	.product--box{
 		padding-top: 140px;
@@ -584,16 +612,49 @@ p{
 		}
 
 		.product--icon{
-			max-width: 115px;
+			max-width: 100%;
 			margin: auto;
 			padding-bottom: 36px;
-
 		}
 
 		.porduct-desc-h3{
-			padding-top: 90px;
+		padding-left: 0px;
+		padding-right: 0px;
+		width: 90%;
+		margin: auto;
+
 
 		}
+
+		.porduct-desc-h3.maso-desc{
+			margin-top: 15px;
+		}
+
+		.icon{
+			margin: auto;
+			display: block;
+			position: relative;
+		}
+
+		.maso{
+		width: 113.07px;
+		height: 91px;
+	}
+
+	.med{
+		width: 108.6px;
+		height: 106.95px;
+	}
+ .icon-maso-backgroun, .icon-med-backgroun{
+
+ 	  osition: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -90px;
+ }
+
 
 		.porduct-desc-h3 > h3 {
 			text-align: center;
@@ -784,12 +845,61 @@ button{
 @media only screen and (max-width: 881px) {
 		.galery-bar{
 		height: 150px;
+		margin-bottom: -33px;
 	}
 	.galery-bar-photo a{
 	height: 150px;
 	}
 }
 
+.bio-icon-bar{
+	width: 65%;
+	height: 60px;
+	margin: auto;
+	padding-left: 127px;
+	display: flex;
+
+}
+
+.bio-icon{
+	display: flex;
+	height: 60px;
+	width: 60px;
+	background-repeat: no-repeat;
+}
+.bio-icon.cow{
+	background-image: url("CowFree.svg");
+	display: flex;
+}
+
+.bio-icon.green{
+	background-image: url("BioIcon.svg");
+	display: flex;
+	margin-right: 40px;
+}
+@media only screen and (max-width: 881px) {
+ .bio-icon-bar{
+ 			margin-bottom: 50px;
+ 			padding-left: 0px;
+ 			width: 90%;
+ }
+ .bio-icon{
+ 	margin: auto;
+ 	display: block;
+ }
+
+ .bio-icon.cow{
+	display: block;
+	margin: auto;
+	margin-left: 20px;
+}
+
+.bio-icon.green{
+	display: block;
+	margin: auto;
+}
+
+}
 
 /*Our story*/
 .our-story-1pics{
