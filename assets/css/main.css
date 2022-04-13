@@ -8,6 +8,64 @@ address{
 }
 
 
+.half-circule{
+	background-repeat: no-repeat;
+	height: 223px;
+	width: 200px;
+	position: relative;
+}
+
+.half-circule.dark{
+	background-image: url("half-circule-dark.svg");
+	margin-left: 228px;
+}
+
+.half-circule.light{
+		background-image: url("half-circule-light.svg");
+		left: 80%;
+}
+
+
+.half-circule-positon{
+	max-width: 1680px;
+	width: 100%;
+	height: 200px;
+	position: absolute;
+}
+
+@media only screen and (max-width: 1280px) {
+	.half-circule-positon{
+		height: 150px;
+	}
+	.half-circule{
+		background-repeat: no-repeat;
+		height: 173px;
+		width: 150px;
+		position: relative;
+	}
+	.half-circule.dark{
+		margin-left: 223px;
+	}
+
+.half-circule.light{
+		left: 70%;
+	}
+
+}
+@media only screen and (max-width: 1280px) {
+	.half-circule.dark{
+		margin-left: 70px;
+	}
+
+.half-circule.light{
+		left: 70px;
+		top: -35px;
+	}
+
+}
+
+
+
 }
 
 
@@ -136,6 +194,14 @@ p a{
 	}
 	.soc--desc p{
 		font-size: 0.75rem;
+	}
+
+	.half-cir{
+		padding-top: 50px;
+	}
+
+	.box-h2-title.half-cir{
+		padding-top: 60px;
 	}
 }
 
@@ -845,7 +911,7 @@ button{
 @media only screen and (max-width: 881px) {
 		.galery-bar{
 		height: 150px;
-		margin-bottom: -33px;
+		margin-bottom: -35px;
 	}
 	.galery-bar-photo a{
 	height: 150px;

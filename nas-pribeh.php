@@ -3,7 +3,8 @@
 ?>
 
 <section class="section-1box-hp">
-  <div class="defaul-max-wight">                       
+  <div class="defaul-max-wight">
+                      
     <div class="content">   
       <div class="content-container first">                     
         <div class="box-h1-prepered">
@@ -33,7 +34,11 @@
 <!--KONEC PRVNÍ BLOK-->
 
 <section class="content-2-box">
-  <div class="defaul-max-wight"> 
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div> 
   <div class="slideshow-container">
       <div class="our-story-pics left">
         <img src="images/slider_hp_2.webp" alt="Frama Vrňak - kráva s rohy" style="width:100%">
@@ -59,7 +64,11 @@
 </section>
 
 <section id="limousine" class="content-1-box">
-  <div class="defaul-max-wight">                       
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon">
+        <div class="half-circule light">
+        </div>
+      </div>                        
     <div class="content">   
       <div class="content-container">                     
         <div class="box-h1-prepered">
@@ -83,7 +92,11 @@
 </section>
 
 <section class="content-2-box">
-  <div class="defaul-max-wight"> 
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div> 
   <div class="slideshow-container">
       <div class="our-story-pics left">
         <img src="images/slider_hp_1.webp" alt="Frama Vrňak - kráva s rohy" style="width:100%">
@@ -112,7 +125,11 @@
 </section>
 
 <section class="content-1-box">
-  <div class="defaul-max-wight">                       
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon">
+      <div class="half-circule light">
+      </div>
+   </div>                       
     <div class="content">   
       <div class="content-container">                     
         <div class="box-h1-prepered">

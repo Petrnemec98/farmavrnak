@@ -65,16 +65,21 @@
 <!--KONEC PRVNÍ BLOK-->
 
 <section class="content-2-box">
-  <div class="defaul-max-wight">  
+
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+    </div>  
     <div class="content">   
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-             <div class="box-h2-title">
+             <div class="box-h2-title half-cir">
               <p class="h1">Čím se zabýváme</p>
             </div>
             
-              <h2>PRODUKTY</h2>
+              <h2 class="half-cir">PRODUKTY</h2>
 
             <div class="layout-description">
               <p>
