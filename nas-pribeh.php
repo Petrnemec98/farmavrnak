@@ -25,7 +25,9 @@
     </div >
     <div class="slideshow-container">
       <div class="our-story-1pics">
-        <img src="images/slider_hp_3.webp" alt="Frama Vrňak - kráva s rohy" style="width:100%">
+        <a href="images/slider_hp_3.jpg" data-lightbox="image-1" data-title="Foto">
+          <img src="images/slider_hp_3.webp" alt="Frama Vrňak - kráva s rohy">
+        </a>
       </div>
     </div>
   </div>
@@ -39,17 +41,12 @@
       <div class="half-circule dark">
       </div>
    </div> 
-  <div class="slideshow-container">
-      <div class="our-story-pics left">
-        <img src="images/slider_hp_2.webp" alt="Frama Vrňak - kráva s rohy" style="width:100%">
-      </div>
-    </div>
     <div class="content">   
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
             
-              <h2>Volný chov</h2>
+              <h2 class="half-cir">Volný chov</h2>
 
             <div class="layout-description">
               <p>
@@ -60,19 +57,26 @@
         </div>
       </div>                 
     </div>
+      <div class="slideshow-container">
+      <div class="our-story-pics right">
+       <a href="images/slider_hp_5.jpg" data-lightbox="image-1" data-title="My caption">
+          <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+       </a>
+      </div>
+    </div>
   </div>  
 </section>
 
 <section id="limousine" class="content-1-box">
   <div class="defaul-max-wight">
-      <div class="half-circule-positon">
+      <div class="half-circule-positon light">
         <div class="half-circule light">
         </div>
       </div>                        
     <div class="content">   
       <div class="content-container">                     
         <div class="box-h1-prepered">
-              <h2 >limousine</h2>
+              <h2 class="half-cir">limousine</h2>
             <article>
             <div class="layout-description">
                 <p>
@@ -85,7 +89,7 @@
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-        <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy" style="width:100%">
+       
       </div>
     </div>
   </div>
@@ -97,17 +101,13 @@
       <div class="half-circule dark">
       </div>
    </div> 
-  <div class="slideshow-container">
-      <div class="our-story-pics left">
-        <img src="images/slider_hp_1.webp" alt="Frama Vrňak - kráva s rohy" style="width:100%">
-      </div>
-    </div>
+
     <div class="content">   
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
             
-              <h2>šlechtění</h2>
+              <h2 class="half-cir">šlechtění</h2>
 
             <div class="layout-description">
               <p>
@@ -121,19 +121,26 @@
         </div>
       </div>                 
     </div>
+
+      <div class="slideshow-container">
+      <div class="our-story-pics right">
+        <img src="images/slider_hp_1.webp" alt="Frama Vrňak - kráva s rohy">
+      </div>
+    </div>
+
   </div>  
 </section>
 
 <section class="content-1-box">
   <div class="defaul-max-wight">
-      <div class="half-circule-positon">
+      <div class="half-circule-positon light">
       <div class="half-circule light">
       </div>
    </div>                       
     <div class="content">   
       <div class="content-container">                     
         <div class="box-h1-prepered">
-              <h2>Současnost</h2>
+              <h2 class="half-cir">Současnost</h2>
             <article>
             <div class="layout-description">
                 <p>
@@ -146,7 +153,7 @@
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-        <img src="images/slider_hp_6.webp" alt="Frama Vrňak - kráva s rohy" style="width:100%">
+        <img src="images/slider_hp_6.webp" alt="Frama Vrňak - kráva s rohy">
       </div>
     </div>
   </div>

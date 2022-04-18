@@ -84,6 +84,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<!--Styly-->
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<link rel="stylesheet" href="assets/css/menu.css" />
+	<link rel="stylesheet" href="assets/css/lightbox.css" />
 
 
 	<!--Scripty-->
@@ -140,7 +141,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<?php
 				$printNavItem($page_name, 'index.php', 'Úvod');
 				$printNavItem($page_name, 'nas-pribeh', 'NÁŠ PŘÍBĚH');
-				echo '<div class="fake-logo-menu"></div>';
+				echo '<li class="fake-logo-menu"></li>';
 				$printNavItem($page_name, 'maso', 'MASO');
 				$printNavItem($page_name, 'med', 'MED');
 				$printNavItem($page_name, 'kontakty', 'KONTAKTY');

@@ -6,7 +6,7 @@
 }
 .fake-logo-menu{
   width: 362px;
-margin-right: 60px;
+  margin-right: 60px;
 }
 
 nav {
@@ -132,6 +132,10 @@ nav .menu.active span:nth-child(2) {
 @media (max-width: 1088px) {
   nav .menu {
     display: flex;
+  }
+
+  .fake-logo-menu{
+    display: none;
   }
 
   nav ul {
