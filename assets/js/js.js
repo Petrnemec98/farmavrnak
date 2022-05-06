@@ -54,7 +54,24 @@ function scrollFunction() {
 }
 
 // When the user clicks on the button, scroll to the top of the document
+
+
+//kouknout JS animation scrol 
+mybutton.on("click", function(e){
+	e.preventDefault;
+	this.topFunction();
+})
+
 function topFunction() {
-  document.body.scrollTop = 0; // For Safari
-  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+	window.scroll({ top: 0, behavior: 'smooth' });
+}
+
+
+//Overlay
+function onOverlay() {
+  document.getElementById("overlay").style.display = "block";
+}
+
+function offOverlay() {
+  document.getElementById("overlay").style.display = "none";
 }

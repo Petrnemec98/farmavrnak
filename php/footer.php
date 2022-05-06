@@ -1,7 +1,7 @@
 <section class="galery-bar">
 	<div class="galery-bar-positon">
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img href="https://www.instagram.com/p/CX6B3MHoplN/" src="images/slider_hp_2.webp"></a>
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_2.webp"></a>
 			<div class="galery-bar-instagram"></div>
 		</div>
 		<div class="galery-bar-photo">
@@ -100,16 +100,7 @@
 	  </div>
 	</footer>
 
-	<script src="assets/js/lightbox-plus-jquery.js"></script>
-
-</body>
-
-
-<!-- JS slider-->
-	<script src="assets/js/js.js"></script>
-
-
-
-
-
+		<script src="assets/js/lightbox-plus-jquery.js"></script>
+		<script src="assets/js/js.js"></script>
+	</body>
 </html>
