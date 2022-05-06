@@ -9,7 +9,7 @@
         <div class="box-h1-prepered">
           
             <div class="box-h2-title">
-              <h1>Farma Vrňák</h1>
+              <h1>Farma Vrňák 2</h1>
             </div>
               <h2>náš příběh</h2>
             <article>
