@@ -1,6 +1,8 @@
 <?php
   include 'php/header.php';
+  include 'php/overlay.php';
 ?>
+
 
 <section class="section-1box-hp">
   <section class="defaul-max-wight">                       
@@ -46,40 +48,69 @@
   </section>
 </section>
 
-<!-- Krava-->
+<!--Shortcupt + cow-->
 <section class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
       <div class="half-circule dark">
       </div>
-
-
-
     </div>  
 
+ <!-- Overlay icon-->
+<div class="shortcut-box">
 
-
-    <div class="cow">
-      <div class="cow-svg">
-        <?php
-        include'php/cow.php';
-        ?>
+  <div data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
+    <a>
+      <div class="shortcut-icon-svg minutky ">   
       </div>
-
-    <!--minutky-->
-
-
-      <div data-id="minutky" onclick="onOverlay(this)">
-        <a>
-          <div class="shortcut-icon minutky ">   
-          </div>
-          <div>
-            Minutky
-          </div>
-        </a>
+      <div class="shortcut-text">
+        <span>Minutky</span>
       </div>
+    </a>
+  </div>
 
-      <div data-id="peceni" onclick="onOverlay(this)">
+  <div data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
+    <a>
+      <div class="shortcut-icon-svg minutky ">   
+      </div>
+      <div class="shortcut-text">
+        <span>Minutky</span>
+      </div>
+    </a>
+  </div>
+
+  <div data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
+    <a>
+      <div class="shortcut-icon-svg minutky ">   
+      </div>
+      <div class="shortcut-text">
+        <span>Minutky</span>
+      </div>
+    </a>
+  </div>
+
+  <div data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
+    <a>
+      <div class="shortcut-icon-svg minutky ">   
+      </div>
+      <div class="shortcut-text">
+        <span>Minutky</span>
+      </div>
+    </a>
+  </div>
+
+
+  <div data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
+    <a>
+      <div class="shortcut-icon-svg minutky ">   
+      </div>
+      <div class="shortcut-text">
+        <span>Minutky</span>
+      </div>
+    </a>
+  </div>
+
+ <!-- <div data-id="peceni" onclick="onOverlay(this)">
         <a>
           <div class="shortcut-icon peceni ">   
           </div>
@@ -98,30 +129,30 @@
           </div>
         </a>
       </div>
+-->
 
+</div>
+</div>
+
+
+
+
+      
+<!-- Overlay icon-->   
+
+<div class="defaul-max-wight">
+
+    <div class="cow">
+      <div class="cow-svg">
+        <?php
+        include'php/cow.php';
+        ?>
+      </div>
+</div>
   
-      <div id="minutky" onclick="offOverlay(this)">
-        <div id="text">
-          <a href="#1">Maso 1</a>
-          <a href="#2">Maso 2</a>
-        </div>
-      </div>
-
-      <div id="peceni" onclick="offOverlay(this)">
-        <div id="text">
-          <a href="#1">Maso 4</a>
-          <a href="#2">Maso 5</a>
-        </div>
-      </div>
-
-      <div id="duseni" onclick="offOverlay(this)">
-        <div id="text">
-          <a href="#1">Maso 1</a>
-          <a href="#2">Maso 2</a>
-        </div>
-      </div>
 
 
+ 
 
 
   </div>  

@@ -7,8 +7,58 @@ address{
 	visibility: hidden;
 }
 
+.shortcut-box{
+	 width: 100%;
+   margin-top: 159px;
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+   margin-left: 127px;
+}
+
+.shortcut-icon{
+display: block;
+position: relative;
+}
+.shortcut-icon-svg{
+	width: 107px;
+	height: 85px;
+	background-repeat: no-repeat;
+		transition: 0.3s ease;
+}
+
+.shortcut-text{
+    padding-left: 110px;
+    padding-right: 30px;
+    margin-top: -50px;
+}
+
+.shortcut-text span{
+	font-family: 'Montserrat-bold', sans-serif;
+	font-weight: 700;
+	font-size: 1.5rem;
+	color: #333333;
+		transition: 0.3s ease;
+}
+
+.shortcut-icon:hover span{
+	color: #F2A679;
+}
+
+.shortcut-icon:hover .shortcut-icon-svg{
+			-moz-transform: scale(1.2) rotate(10deg);
+		-webkit-transform: scale(1.2) rotate(10deg);
+		-o-transform: scale(1.2) rotate(10deg);
+		-ms-transform: scale(1.2) rotate(10deg);
+		transform: scale(1.2) rotate(10deg);
+}
+
+.shortcut-icon-svg.minutky{
+	background-image: url("svg/Minutky_color_icon.svg");
+}
+
 #minutky, #peceni, #duseni{
-	  position: fixed; /* Sit on top of the page content */
+	 position: fixed; /* Sit on top of the page content */
   display: none; /* Hidden by default */
   width: 100%; /* Full width (cover the whole page) */
   height: 100%; /* Full height (cover the whole page) */
@@ -21,19 +71,6 @@ address{
   cursor: pointer; /* Add a pointer on hover */
 }
 
-#overlay-minutky, #overlay-peceni{
-  position: fixed; /* Sit on top of the page content */
-  display: none; /* Hidden by default */
-  width: 100%; /* Full width (cover the whole page) */
-  height: 100%; /* Full height (cover the whole page) */
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #F2E4D8 ; /* Black background with opacity */
-  z-index: 6; /* Specify a stack order in case you're using a different order for other elements */
-  cursor: pointer; /* Add a pointer on hover */
-}
 
 #text{
   position: absolute;
