@@ -133,7 +133,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <!--Button up-->
-<button onclick="topFunction()" id="myBtn" title="Go to top"></button>
+<button onclick="topFunction()" id="TopScrollBtn" title="Go to top"></button>
 
 	<header>
 		<nav class="layout-line" id="layout">

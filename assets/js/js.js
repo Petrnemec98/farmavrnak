@@ -40,31 +40,29 @@
 
 //Scroll-button*/
 //Přepsat název tlačítka 
-mybutton = document.getElementById("myBtn");
-
+const TopScrollBtn = document.getElementById("TopScrollBtn");
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    mybutton.style.display = "block";
+  if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+    TopScrollBtn.style.display = "block";
   } else {
-    mybutton.style.display = "none";
+    TopScrollBtn.style.display = "none";
   }
 }
-
 function topFunction() {
 	window.scroll({ top: 0, behavior: 'smooth' });
 }
 
-
 //Overlay
+//open
 function onOverlay(element) {
- console.log(element.getAttribute("data-id"));
  document.getElementById(element.getAttribute("data-id")).style.display = "block";
 }
 
+//close 
 function offOverlay(element){
-		console.log(element.getAttribute("id"));
+
 	  document.getElementById(element.getAttribute("id")).style.display = "none";
 }
 
