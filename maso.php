@@ -11,7 +11,7 @@
             <div class="box-h2-title">
               <h1>Maso</h1>
             </div>
-              <h2>David Smrdí</h2>
+              <h2>Ble</h2>
             <article>
             <div class="layout-description">
                 <p>
