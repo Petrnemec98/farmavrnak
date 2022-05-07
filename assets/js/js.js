@@ -38,11 +38,10 @@
   	menu.classList.toggle("active");
 	});
 
-/*Button*/
-//Get the button:
+//Scroll-button*/
+//Přepsat název tlačítka 
 mybutton = document.getElementById("myBtn");
 
-// When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
@@ -53,25 +52,19 @@ function scrollFunction() {
   }
 }
 
-// When the user clicks on the button, scroll to the top of the document
-
-
-//kouknout JS animation scrol 
-mybutton.on("click", function(e){
-	e.preventDefault;
-	this.topFunction();
-})
-
 function topFunction() {
 	window.scroll({ top: 0, behavior: 'smooth' });
 }
 
 
 //Overlay
-function onOverlay() {
-  document.getElementById("overlay").style.display = "block";
+function onOverlay(element) {
+ console.log(element.getAttribute("data-id"));
+ document.getElementById(element.getAttribute("data-id")).style.display = "block";
 }
 
-function offOverlay() {
-  document.getElementById("overlay").style.display = "none";
+function offOverlay(element){
+		console.log(element.getAttribute("id"));
+	  document.getElementById(element.getAttribute("id")).style.display = "none";
 }
+

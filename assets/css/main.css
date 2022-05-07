@@ -7,8 +7,21 @@ address{
 	visibility: hidden;
 }
 
+#minutky, #peceni, #duseni{
+	  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #F2E4D8 ; /* Black background with opacity */
+  z-index: 6; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+}
 
-#overlay{
+#overlay-minutky, #overlay-peceni{
   position: fixed; /* Sit on top of the page content */
   display: none; /* Hidden by default */
   width: 100%; /* Full width (cover the whole page) */
@@ -17,8 +30,8 @@ address{
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0,0,0,0.5); /* Black background with opacity */
-  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  background-color: #F2E4D8 ; /* Black background with opacity */
+  z-index: 6; /* Specify a stack order in case you're using a different order for other elements */
   cursor: pointer; /* Add a pointer on hover */
 }
 
@@ -30,6 +43,10 @@ address{
   color: white;
   transform: translate(-50%,-50%);
   -ms-transform: translate(-50%,-50%);
+}
+
+#text a:hover{
+	font-size: 3rem;
 }
 
 .meat-dark{

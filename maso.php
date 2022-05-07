@@ -54,12 +54,8 @@
       </div>
 
 
-    <div id="overlay" onclick="offOverlay()">
-        <div id="text">Overlay Text</div>
-        </div>
-    </div>  
 
-      <button onclick="onOverlay()">Turn on overlay effect</button>
+    </div>  
 
 
 
@@ -69,7 +65,64 @@
         include'php/cow.php';
         ?>
       </div>
-    </div>
+
+    <!--minutky-->
+
+
+      <div data-id="minutky" onclick="onOverlay(this)">
+        <a>
+          <div class="shortcut-icon minutky ">   
+          </div>
+          <div>
+            Minutky
+          </div>
+        </a>
+      </div>
+
+      <div data-id="peceni" onclick="onOverlay(this)">
+        <a>
+          <div class="shortcut-icon peceni ">   
+          </div>
+          <div>
+            Pečení
+          </div>
+        </a>
+      </div>
+
+      <div data-id="duseni" onclick="onOverlay(this)">
+        <a>
+          <div class="shortcut-icon duseni ">   
+          </div>
+          <div>
+            Dušení
+          </div>
+        </a>
+      </div>
+
+  
+      <div id="minutky" onclick="offOverlay(this)">
+        <div id="text">
+          <a href="#1">Maso 1</a>
+          <a href="#2">Maso 2</a>
+        </div>
+      </div>
+
+      <div id="peceni" onclick="offOverlay(this)">
+        <div id="text">
+          <a href="#1">Maso 4</a>
+          <a href="#2">Maso 5</a>
+        </div>
+      </div>
+
+      <div id="duseni" onclick="offOverlay(this)">
+        <div id="text">
+          <a href="#1">Maso 1</a>
+          <a href="#2">Maso 2</a>
+        </div>
+      </div>
+
+
+
 
   </div>  
 </section>
