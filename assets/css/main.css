@@ -59,6 +59,8 @@ position: relative;
 	.shortcut-text{
 		padding-left: 0px;
     margin-top: 10px;
+    padding-right: 0px;
+    text-align: center;
 	}
 
 	.shortcut-box{
@@ -68,12 +70,22 @@ position: relative;
 }
 
 @media only screen and (max-width: 1088px) {
-
+	.shortcut-icon-svg{
+		width: 85.01px;
+		height: 67.32px;
+	}
+	.shortcut-text span{
+		font-size: 0.875rem;
+	}
 }
 
 @media only screen and (max-width: 881px) {
 	.shortcut-box{
 		padding-top: 100px;
+	}
+
+	.shortcut-icon{
+		margin: 15px;
 	}
 
 }
