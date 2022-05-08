@@ -74,7 +74,7 @@
       <div class="shortcut-icon-svg peceni ">   
       </div>
       <div class="shortcut-text">
-        <span>Minutky</span>
+        <span>Pečení</span>
       </div>
     </a>
   </div>
@@ -84,7 +84,7 @@
       <div class="shortcut-icon-svg duseni ">   
       </div>
       <div class="shortcut-text">
-        <span>Minutky</span>
+        <span>Dušení</span>
       </div>
     </a>
   </div>
@@ -94,7 +94,7 @@
       <div class="shortcut-icon-svg mleti ">   
       </div>
       <div class="shortcut-text">
-        <span>Minutky</span>
+        <span>Mletí</span>
       </div>
     </a>
   </div>
@@ -105,7 +105,7 @@
       <div class="shortcut-icon-svg tatarak ">   
       </div>
       <div class="shortcut-text">
-        <span>Minutky</span>
+        <span>Tatarák</span>
       </div>
     </a>
   </div>
