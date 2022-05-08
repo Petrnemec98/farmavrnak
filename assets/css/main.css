@@ -64,6 +64,13 @@ address{
 @media only screen and (max-width: 1088px) {
 .meat-navigation-icon{
 	width: 100%;
+	display: block;
+	margin-top: 15px;
+	padding-bottom: 15px;
+}
+
+.meat-navigation-box{
+	display: block;
 }
 .meat-navigation-box{
 
