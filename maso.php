@@ -5,11 +5,11 @@
 
 
 <section class="section-1box-hp">
-  <section class="defaul-max-wight">                       
-     <div class="content">   
-      <div class="content-container first">                     
+  <section class="defaul-max-wight">
+     <div class="content">
+      <div class="content-container first">
         <div class="box-h1-prepered">
-          
+
             <div class="box-h2-title">
               <h1>Maso</h1>
             </div>
@@ -28,13 +28,13 @@
         </div>
       </div>
       <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">        
+        <a href="#"><div class="bio-icon green ">
         </div></a>
         <a href="#"><div class="bio-icon meat  ">
         </div></a>
-        <a href="#"><div class="bio-icon cow-icon "> 
+        <a href="#"><div class="bio-icon cow-icon ">
         </div></a>
-      </div>   
+      </div>
 
     </div >
     <div class="slideshow-container">
@@ -48,121 +48,138 @@
   </section>
 </section>
 
-<!--Shortcupt + cow-->
+
 <section class="content-2-box">
+  <!--Shortcut-->
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
       <div class="half-circule dark">
       </div>
-    </div>  
-
- <!-- Overlay icon-->
-<div class="shortcut-box">
-
-  <div data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
-    <a>
-      <div class="shortcut-icon-svg minutky ">   
       </div>
-      <div class="shortcut-text">
-        <span>Minutky</span>
-      </div>
-    </a>
+
+    <!-- Overlay icon-->
+    <div class="shortcut-box">
+
+    <div data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
+      <a>
+        <div class="shortcut-icon-svg minutky ">
+        </div>
+        <div class="shortcut-text">
+          <span>Minutky</span>
+        </div>
+      </a>
+    </div>
+
+    <div data-id="peceni" class="shortcut-icon" onclick="onOverlay(this)">
+      <a>
+        <div class="shortcut-icon-svg peceni ">
+        </div>
+        <div class="shortcut-text">
+          <span>Pečení</span>
+        </div>
+      </a>
+    </div>
+
+    <div data-id="duseni" class="shortcut-icon" onclick="onOverlay(this)">
+      <a>
+        <div class="shortcut-icon-svg duseni ">
+        </div>
+        <div class="shortcut-text">
+          <span>Dušení</span>
+        </div>
+      </a>
+    </div>
+
+    <div data-id="mleti" class="shortcut-icon" onclick="onOverlay(this)">
+      <a>
+        <div class="shortcut-icon-svg mleti ">
+        </div>
+        <div class="shortcut-text">
+          <span>Mletí</span>
+        </div>
+      </a>
+    </div>
+
+
+    <div data-id="tatarak" class="shortcut-icon" onclick="onOverlay(this)">
+      <a>
+        <div class="shortcut-icon-svg tatarak ">
+        </div>
+        <div class="shortcut-text">
+          <span>Tatarák</span>
+        </div>
+      </a>
+    </div>
+    </div>
   </div>
 
-  <div data-id="peceni" class="shortcut-icon" onclick="onOverlay(this)">
-    <a>
-      <div class="shortcut-icon-svg peceni ">   
-      </div>
-      <div class="shortcut-text">
-        <span>Pečení</span>
-      </div>
-    </a>
-  </div>
-
-  <div data-id="duseni" class="shortcut-icon" onclick="onOverlay(this)">
-    <a>
-      <div class="shortcut-icon-svg duseni ">   
-      </div>
-      <div class="shortcut-text">
-        <span>Dušení</span>
-      </div>
-    </a>
-  </div>
-
-  <div data-id="mleti" class="shortcut-icon" onclick="onOverlay(this)">
-    <a>
-      <div class="shortcut-icon-svg mleti ">   
-      </div>
-      <div class="shortcut-text">
-        <span>Mletí</span>
-      </div>
-    </a>
-  </div>
-
-
-  <div data-id="tatarak" class="shortcut-icon" onclick="onOverlay(this)">
-    <a>
-      <div class="shortcut-icon-svg tatarak ">   
-      </div>
-      <div class="shortcut-text">
-        <span>Tatarák</span>
-      </div>
-    </a>
-  </div>
-
-
-
-</div>
-</div>
-
-
-
-
-      
-<!-- Overlay icon-->   
-
-<div class="defaul-max-wight">
-
+  <!--Cow-->
+  <div class="defaul-max-wight">
     <div class="cow">
       <div class="cow-svg">
         <?php
         include'php/cow.php';
         ?>
       </div>
-</div>
-  
+    </div>
+  </div>
 
+  <!--Meat-navigation-->
+  <div class="defaul-max-wight">
+    <div class="meat-navigation-box">
+      <div class="meat-navigation-icon">
+        <div class="meat-navigation-icon-svg">
+        </div>
+        <div class="meat-navigation-icon-text">Stekové maso</div>
+		    <div class="meat-navigation-content">
+          <p>Bryndáček, Holubička, Květová špička, Loupaná plec, Nízký roštěnec, Oponka, Pérko, Předkýtí, Svíčková pravá, Váleček, Veverka, Vysoký roštěnec, Zrcátko</p>
+		    </div>
+      </div>
+      <div class="meat-navigation-icon">
+        <div class="meat-navigation-icon-svg">
+        </div>
+        <div class="meat-navigation-icon-text">Stekové maso</div>
+        <div class="meat-navigation-content">
+          <p>Bryndáček, Holubička, Květová špička, Loupaná plec, Nízký roštěnec, Oponka, Pérko, Předkýtí, Svíčková pravá, Váleček, Veverka, Vysoký roštěnec, Zrcátko</p>
+        </div>
+      </div>
+      <div class="meat-navigation-icon">
+        <div class="meat-navigation-icon-svg">
+        </div>
+        <div class="meat-navigation-icon-text">Stekové maso</div>
+        <div class="meat-navigation-content">
+          <p>Bryndáček, Holubička, Květová špička, Loupaná plec, Nízký roštěnec, Oponka, Pérko, Předkýtí, Svíčková pravá, Váleček, Veverka, Vysoký roštěnec, Zrcátko</p>
+        </div>
+      </div>
 
- 
-
-
-  </div>  
+  </div>
 </section>
-<!-- KRAVA-->
 
-<!--Dakr-box-->
+
+
+<!--Dark-box-->
 <section class="content-2-box dark">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
       <div class="half-circule light">
       </div>
-   </div> 
-    <div class="content">   
+   </div>
+    <div class="content">
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-            
+
             <div class="box-h2-title half-cir">
               <p class="h1">Zadní maso</p>
             </div>
-            
+
               <h2 class="half-cir">hlavní dělení</h2>
-        
+
           </article>
         </div>
-      </div>                 
+      </div>
     </div>
-  </div>  
+  </div>
 </section>
 
 <!-- KONEC - Dark box -->
@@ -173,12 +190,12 @@
     <div class="half-circule-positon">
       <div class="half-circule dark-black">
       </div>
-   </div> 
-    <div class="content">   
+   </div>
+    <div class="content">
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-            
+
               <h2 class="half-cir">Volný chov</h2>
 
             <div class="layout-description">
@@ -188,15 +205,15 @@
             </div>
           </article>
         </div>
-      </div> 
+      </div>
             <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">        
+        <a href="#"><div class="bio-icon green ">
         </div></a>
         <a href="#"><div class="bio-icon meat  ">
         </div></a>
-        <a href="#"><div class="bio-icon cow-icon "> 
+        <a href="#"><div class="bio-icon cow-icon ">
         </div></a>
-      </div>                 
+      </div>
     </div>
       <div class="slideshow-container">
       <div class="our-story-pics right">
@@ -205,7 +222,7 @@
        </a>
       </div>
     </div>
-  </div>  
+  </div>
 </section>
 
 <section id="2" class="content-1-box">
@@ -213,9 +230,9 @@
       <div class="half-circule-positon light">
         <div class="half-circule light">
         </div>
-      </div>                        
-    <div class="content">   
-      <div class="content-container">                     
+      </div>
+    <div class="content">
+      <div class="content-container">
         <div class="box-h1-prepered">
               <h2 class="half-cir">limousine</h2>
             <article>
@@ -228,17 +245,17 @@
         </div>
       </div>
             <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">        
+        <a href="#"><div class="bio-icon green ">
         </div></a>
         <a href="#"><div class="bio-icon meat  ">
         </div></a>
-        <a href="#"><div class="bio-icon cow-icon "> 
+        <a href="#"><div class="bio-icon cow-icon ">
         </div></a>
-      </div> 
+      </div>
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-       
+
       </div>
     </div>
   </div>
@@ -249,12 +266,12 @@
     <div class="half-circule-positon">
       <div class="half-circule dark">
       </div>
-   </div> 
-    <div class="content">   
+   </div>
+    <div class="content">
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-            
+
               <h2 class="half-cir">Volný chov</h2>
 
             <div class="layout-description">
@@ -264,15 +281,15 @@
             </div>
           </article>
         </div>
-      </div> 
+      </div>
             <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">        
+        <a href="#"><div class="bio-icon green ">
         </div></a>
         <a href="#"><div class="bio-icon meat  ">
         </div></a>
-        <a href="#"><div class="bio-icon cow-icon "> 
+        <a href="#"><div class="bio-icon cow-icon ">
         </div></a>
-      </div>                 
+      </div>
     </div>
       <div class="slideshow-container">
       <div class="our-story-pics right">
@@ -281,7 +298,7 @@
        </a>
       </div>
     </div>
-  </div>  
+  </div>
 </section>
 
 <section id="4" class="content-1-box">
@@ -289,9 +306,9 @@
       <div class="half-circule-positon light">
         <div class="half-circule light">
         </div>
-      </div>                        
-    <div class="content">   
-      <div class="content-container">                     
+      </div>
+    <div class="content">
+      <div class="content-container">
         <div class="box-h1-prepered">
               <h2 class="half-cir">limousine</h2>
             <article>
@@ -304,17 +321,17 @@
         </div>
       </div>
             <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">        
+        <a href="#"><div class="bio-icon green ">
         </div></a>
         <a href="#"><div class="bio-icon meat  ">
         </div></a>
-        <a href="#"><div class="bio-icon cow-icon "> 
+        <a href="#"><div class="bio-icon cow-icon ">
         </div></a>
-      </div> 
+      </div>
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-       
+
       </div>
     </div>
   </div>
@@ -324,12 +341,12 @@
     <div class="half-circule-positon">
       <div class="half-circule dark">
       </div>
-   </div> 
-    <div class="content">   
+   </div>
+    <div class="content">
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-            
+
               <h2 class="half-cir">Volný chov</h2>
 
             <div class="layout-description">
@@ -339,15 +356,15 @@
             </div>
           </article>
         </div>
-      </div>    
+      </div>
             <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">        
+        <a href="#"><div class="bio-icon green ">
         </div></a>
         <a href="#"><div class="bio-icon meat  ">
         </div></a>
-        <a href="#"><div class="bio-icon cow-icon "> 
+        <a href="#"><div class="bio-icon cow-icon ">
         </div></a>
-      </div>              
+      </div>
     </div>
       <div class="slideshow-container">
       <div class="our-story-pics right">
@@ -356,7 +373,7 @@
        </a>
       </div>
     </div>
-  </div>  
+  </div>
 </section>
 
 <section id="6" class="content-1-box">
@@ -364,9 +381,9 @@
       <div class="half-circule-positon light">
         <div class="half-circule light">
         </div>
-      </div>                        
-    <div class="content">   
-      <div class="content-container">                     
+      </div>
+    <div class="content">
+      <div class="content-container">
         <div class="box-h1-prepered">
               <h2 class="half-cir">limousine</h2>
             <article>
@@ -379,17 +396,17 @@
         </div>
       </div>
             <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">        
+        <a href="#"><div class="bio-icon green ">
         </div></a>
         <a href="#"><div class="bio-icon meat  ">
         </div></a>
-        <a href="#"><div class="bio-icon cow-icon "> 
+        <a href="#"><div class="bio-icon cow-icon ">
         </div></a>
-      </div> 
+      </div>
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-       
+
       </div>
     </div>
   </div>
@@ -399,12 +416,12 @@
     <div class="half-circule-positon">
       <div class="half-circule dark">
       </div>
-   </div> 
-    <div class="content">   
+   </div>
+    <div class="content">
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-            
+
               <h2 class="half-cir">Volný chov</h2>
 
             <div class="layout-description">
@@ -414,15 +431,15 @@
             </div>
           </article>
         </div>
-      </div>    
+      </div>
             <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">        
+        <a href="#"><div class="bio-icon green ">
         </div></a>
         <a href="#"><div class="bio-icon meat  ">
         </div></a>
-        <a href="#"><div class="bio-icon cow-icon "> 
+        <a href="#"><div class="bio-icon cow-icon ">
         </div></a>
-      </div>              
+      </div>
     </div>
       <div class="slideshow-container">
       <div class="our-story-pics right">
@@ -431,7 +448,7 @@
        </a>
       </div>
     </div>
-  </div>  
+  </div>
 </section>
 
 <section id="8" class="content-1-box">
@@ -439,9 +456,9 @@
       <div class="half-circule-positon light">
         <div class="half-circule light">
         </div>
-      </div>                        
-    <div class="content">   
-      <div class="content-container">                     
+      </div>
+    <div class="content">
+      <div class="content-container">
         <div class="box-h1-prepered">
               <h2 class="half-cir">limousine</h2>
             <article>
@@ -454,17 +471,17 @@
         </div>
       </div>
             <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">        
+        <a href="#"><div class="bio-icon green ">
         </div></a>
         <a href="#"><div class="bio-icon meat  ">
         </div></a>
-        <a href="#"><div class="bio-icon cow-icon "> 
+        <a href="#"><div class="bio-icon cow-icon ">
         </div></a>
-      </div> 
+      </div>
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-       
+
       </div>
     </div>
   </div>
@@ -474,12 +491,12 @@
     <div class="half-circule-positon">
       <div class="half-circule dark">
       </div>
-   </div> 
-    <div class="content">   
+   </div>
+    <div class="content">
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-            
+
               <h2 class="half-cir">Volný chov</h2>
 
             <div class="layout-description">
@@ -491,13 +508,13 @@
         </div>
       </div>
             <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">        
+        <a href="#"><div class="bio-icon green ">
         </div></a>
         <a href="#"><div class="bio-icon meat  ">
         </div></a>
-        <a href="#"><div class="bio-icon cow-icon "> 
+        <a href="#"><div class="bio-icon cow-icon ">
         </div></a>
-      </div>                  
+      </div>
     </div>
       <div class="slideshow-container">
       <div class="our-story-pics right">
@@ -506,7 +523,7 @@
        </a>
       </div>
     </div>
-  </div>  
+  </div>
 </section>
 
 <section id="10" class="content-1-box">
@@ -514,9 +531,9 @@
       <div class="half-circule-positon light">
         <div class="half-circule light">
         </div>
-      </div>                        
-    <div class="content">   
-      <div class="content-container">                     
+      </div>
+    <div class="content">
+      <div class="content-container">
         <div class="box-h1-prepered">
               <h2 class="half-cir">limousine</h2>
             <article>
@@ -531,7 +548,7 @@
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-       
+
       </div>
     </div>
   </div>
@@ -541,12 +558,12 @@
     <div class="half-circule-positon">
       <div class="half-circule dark">
       </div>
-   </div> 
-    <div class="content">   
+   </div>
+    <div class="content">
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-            
+
               <h2 class="half-cir">Volný chov</h2>
 
             <div class="layout-description">
@@ -556,7 +573,7 @@
             </div>
           </article>
         </div>
-      </div>                 
+      </div>
     </div>
       <div class="slideshow-container">
       <div class="our-story-pics right">
@@ -565,7 +582,7 @@
        </a>
       </div>
     </div>
-  </div>  
+  </div>
 </section>
 
 <section id="12" class="content-1-box">
@@ -573,9 +590,9 @@
       <div class="half-circule-positon light">
         <div class="half-circule light">
         </div>
-      </div>                        
-    <div class="content">   
-      <div class="content-container">                     
+      </div>
+    <div class="content">
+      <div class="content-container">
         <div class="box-h1-prepered">
               <h2 class="half-cir">limousine</h2>
             <article>
@@ -590,7 +607,7 @@
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-       
+
       </div>
     </div>
   </div>
@@ -600,12 +617,12 @@
     <div class="half-circule-positon">
       <div class="half-circule dark">
       </div>
-   </div> 
-    <div class="content">   
+   </div>
+    <div class="content">
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-            
+
               <h2 class="half-cir">Volný chov</h2>
 
             <div class="layout-description">
@@ -615,7 +632,7 @@
             </div>
           </article>
         </div>
-      </div>                 
+      </div>
     </div>
       <div class="slideshow-container">
       <div class="our-story-pics right">
@@ -624,7 +641,7 @@
        </a>
       </div>
     </div>
-  </div>  
+  </div>
 </section>
 
 <section id="14" class="content-1-box">
@@ -632,9 +649,9 @@
       <div class="half-circule-positon light">
         <div class="half-circule light">
         </div>
-      </div>                        
-    <div class="content">   
-      <div class="content-container">                     
+      </div>
+    <div class="content">
+      <div class="content-container">
         <div class="box-h1-prepered">
               <h2 class="half-cir">limousine</h2>
             <article>
@@ -649,7 +666,7 @@
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-       
+
       </div>
     </div>
   </div>
@@ -659,12 +676,12 @@
     <div class="half-circule-positon">
       <div class="half-circule dark">
       </div>
-   </div> 
-    <div class="content">   
+   </div>
+    <div class="content">
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-            
+
               <h2 class="half-cir">Volný chov</h2>
 
             <div class="layout-description">
@@ -674,7 +691,7 @@
             </div>
           </article>
         </div>
-      </div>                 
+      </div>
     </div>
       <div class="slideshow-container">
       <div class="our-story-pics right">
@@ -683,7 +700,7 @@
        </a>
       </div>
     </div>
-  </div>  
+  </div>
 </section>
 
 <section id="16" class="content-1-box">
@@ -691,9 +708,9 @@
       <div class="half-circule-positon light">
         <div class="half-circule light">
         </div>
-      </div>                        
-    <div class="content">   
-      <div class="content-container">                     
+      </div>
+    <div class="content">
+      <div class="content-container">
         <div class="box-h1-prepered">
               <h2 class="half-cir">limousine</h2>
             <article>
@@ -708,7 +725,7 @@
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-       
+
       </div>
     </div>
   </div>
@@ -718,12 +735,12 @@
     <div class="half-circule-positon">
       <div class="half-circule dark">
       </div>
-   </div> 
-    <div class="content">   
+   </div>
+    <div class="content">
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-            
+
               <h2 class="half-cir">Volný chov</h2>
 
             <div class="layout-description">
@@ -733,7 +750,7 @@
             </div>
           </article>
         </div>
-      </div>                 
+      </div>
     </div>
       <div class="slideshow-container">
       <div class="our-story-pics right">
@@ -742,7 +759,7 @@
        </a>
       </div>
     </div>
-  </div>  
+  </div>
 </section>
 
 <section id="limousine" class="content-1-box">
@@ -750,9 +767,9 @@
       <div class="half-circule-positon light">
         <div class="half-circule light">
         </div>
-      </div>                        
-    <div class="content">   
-      <div class="content-container">                     
+      </div>
+    <div class="content">
+      <div class="content-container">
         <div class="box-h1-prepered">
               <h2 class="half-cir">limousine</h2>
             <article>
@@ -767,7 +784,7 @@
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-       
+
       </div>
     </div>
   </div>

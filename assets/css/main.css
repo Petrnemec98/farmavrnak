@@ -22,72 +22,19 @@ address{
   cursor: pointer; /* Add a pointer on hover */
 }
 
-
-
-
-
-/*Cow*/
-.cow{
-	padding-top: 100px;
-	width: 90%;
-	margin: auto;
-	padding-left: 70px;
+.meat-navigation-box{
+	display: flex;
+	width: 100%;
 }
 
-.cow-svg{
-	height: 100%;
-	margin: auto;
+.meat-navigation-icon-svg{
+	background-image: url("svg/MeatIcon.svg");
+	background-repeat: no-repeat;
+	width: 101.26px;
+	height: 81.74px;
 }
 
-g svg{
-	fill: #F5D2BD;
-	transition: 0.05s ease;
-}
 
-g svg.light{
-	fill: #F6E4D9;
-}
-.svg-text{
-	fill: #333;
-	opacity: 100%;
-	z-index: 2;
-}
-
-g svg:hover{
-	fill: #F2A679;
-	z-index: 5;
-	-moz-transform: scale(0.9);
-	-webkit-transform: scale(1.2);
-	-o-transform: scale(1.2);
-	-ms-transform: scale(1.2);
-	transform: scale(0.9);
-	opacity: 100%;
-}
-
-g svg:hover .svg-text{
-	fill: white;
-}
-
-g svg.light:hover .svg-text{
-	color: white;
-}
-
-@media only screen and (max-width: 1280px) {
-
-}
-@media only screen and (max-width: 1088px) {
-	.cow{
-		padding-top: 50px;
-		width: 95%;
-		margin: auto;
-		padding-left: 0px;
-	}
-}
-@media only screen and (max-width: 881px) {
-	.cow{
-		padding-top: 15px;
-	}
-}
 
 /*Půlkruh*/
 .half-circule{
@@ -145,7 +92,7 @@ ul{
 }
 
 body{
-	background: #F2E4D8 ; 
+	background: #F2E4D8 ;
 	background-repeat: no-repeat;
   	background-attachment: fixed;
 	margin: 0px;
@@ -284,10 +231,10 @@ p a{
 	width: 100%;
 }
 .layout-description{
-	left: 0; 
-	right: 0; 
-	margin-left: auto; 
-	margin-right: auto; 
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
 	width: 240px;
 }
 
@@ -312,7 +259,7 @@ p a{
 	background-repeat: no-repeat;
 	height: 100%;
 }
-	
+
 .logo--svg{
 	overflow: hidden;
 	object-fit: cover;
@@ -494,7 +441,7 @@ p a{
 			margin-right: 5px;
 		}
 
-		.slideshow-container {	
+		.slideshow-container {
 		max-width: 300px;
 		height: 300px;
 		margin: auto;
@@ -556,7 +503,7 @@ p a{
 	@media only screen and (max-width: 1280px) {
 		.content{
 			width: 60%;
-		}	
+		}
 		.layout-description{
 			width: 100%;
 		}
@@ -576,7 +523,7 @@ p a{
 	}
 
 	@media only screen and (max-width: 1088px) {
-		
+
 
 
 		.section-1box-hp {
@@ -924,8 +871,7 @@ p a{
 
 
 
-/*Button*/
-/*Button-up*/
+/*Scroll-Button*/
 #TopScrollBtn {
   display: none;
   position: fixed;
@@ -937,16 +883,15 @@ p a{
   cursor: pointer;
   padding: 15px;
   border-radius: 10px;
-  font-size: 18px; 
+  font-size: 18px;
   background-image: url("svg/Arrow.svg");
   background-color: none;
   background-repeat:no-repeat;
   transition: 0.5s ease;
   opacity: 80%;
 }
-
 button{
-	    background-color:transparent;
+	background-color:transparent;
 }
 #TopScrollBtn:hover {
 	-moz-transform: scale(1.1);
@@ -958,7 +903,6 @@ button{
 }
 
 /*Galery-bar*/
-
 .galery-bar{
 	width: 100%;
 	height: 360px;
@@ -967,7 +911,6 @@ button{
 .galery-bar-positon::-webkit-scrollbar{
 	display: none;
 }
-
 .galery-bar-positon{
 	width: 100%;
 	display: flex;
@@ -976,13 +919,11 @@ button{
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
-
 .galery-bar-photo a{
 	height: 360px;
 	display: flex;
   transition: 0.5s ease;
 }
-
 .galery-bar-photo a:hover{
 			-moz-transform: scale(1.1);
 		-webkit-transform: scale(1.1);
@@ -990,7 +931,6 @@ button{
 		-ms-transform: scale(1.1);
 		transform: scale(1.1);
 }
-
 @media only screen and (max-width: 1280px) {
 	.galery-bar{
 		height: 260px;
@@ -1003,8 +943,6 @@ button{
 		margin-left: ;
 		margin-right: ;
 	}
-
-
 }
 @media only screen and (max-width: 1088px) {
 		.galery-bar{
@@ -1023,15 +961,14 @@ button{
 	}
 }
 
+/*Bio-icon*/
 .bio-icon-bar{
 	width: 65%;
 	height: 60px;
 	margin: auto;
 	padding-left: 127px;
 	display: flex;
-
 }
-
 .bio-icon{
 	display: flex;
 	height: 60px;
@@ -1041,9 +978,7 @@ button{
 .bio-icon.cow-icon{
 	background-image: url("svg/CowFree.svg");
 	display: flex;
-
 }
-
 .bio-icon.green{
 	background-image: url("svg/BioIcon.svg");
 	display: flex;
@@ -1054,9 +989,6 @@ button{
 	display: flex;
 	margin-right: 30px;
 }
-
-
-
 @media only screen and (max-width: 881px) {
  .bio-icon-bar{
  			margin-bottom: 50px;
@@ -1064,25 +996,23 @@ button{
  			width: 90%;
  }
  .bio-icon{
- 	margin: auto;
- 	display: block;
+ 		margin: auto;
+ 		display: block;
  }
 
  .bio-icon.cow{
-	display: block;
-	margin: auto;
-	margin-left: 20px;
-}
-
-.bio-icon.green{
-	display: block;
-	margin: auto;
-}
-.bio-icon.meat{
-	display: block;
-	margin: auto;
-}
-
+		display: block;
+		margin: auto;
+		margin-left: 20px;
+	}
+	.bio-icon.green{
+		display: block;
+		margin: auto;
+	}
+	.bio-icon.meat{
+		display: block;
+		margin: auto;
+	}
 }
 
 /*Our story*/
@@ -1090,30 +1020,25 @@ button{
 	  width: 396px;
     height: 396px
 }
-
 .our-story-pics{
 	width: 330px;
 	height: 330px;
-
 }
-
-
 .our-story-1pics img, .our-story-pics img{
 	border-radius: 50%;
 	width: 100%;
 }
-
 @media only screen and (max-width: 1280px) {
 	.our-story-1pics{
 	  width: 300px;
     height: 300px
-}
+	}
 
-.our-story-pics{
-	width: 300px;
-	height: 300px;
+	.our-story-pics{
+		width: 300px;
+		height: 300px;
 
-}
+	}
 }
 
 /*Shortcut*/
@@ -1125,25 +1050,21 @@ button{
    flex-wrap: wrap;
    margin-left: 127px;
 }
-
 .shortcut-icon{
 	display: block;
 	position: relative;
 }
-
 .shortcut-icon-svg{
 	width: 107px;
 	height: 85px;
 	background-repeat: no-repeat;
 	transition: 0.3s ease;
 }
-
 .shortcut-text{
    padding-left: 110px;
    padding-right: 30px;
    margin-top: -50px;
 }
-
 .shortcut-text span{
 	font-family: 'Montserrat-bold', sans-serif;
 	font-weight: 700;
@@ -1151,11 +1072,9 @@ button{
 	color: #333333;
 	transition: 0.3s ease;
 }
-
 .shortcut-icon:hover span{
 	color: #F2A679;
 }
-
 .shortcut-icon:hover .shortcut-icon-svg{
 	-moz-transform: scale(1.2) rotate(10deg);
 	-webkit-transform: scale(1.2) rotate(10deg);
@@ -1163,7 +1082,6 @@ button{
 	-ms-transform: scale(1.2) rotate(10deg);
 	transform: scale(1.2) rotate(10deg);
 }
-
 @media only screen and (max-width: 1280px) {
 	.shortcut-text{
 		padding-left: 0px;
@@ -1208,4 +1126,59 @@ button{
 }
 .shortcut-icon-svg.tatarak{
 	background-image: url("svg/Tatarak_color_icon.svg");
+}
+
+/*Cow*/
+.cow{
+	padding-top: 100px;
+	width: 90%;
+	margin: auto;
+	padding-left: 70px;
+}
+.cow-svg{
+	height: 100%;
+	margin: auto;
+}
+g svg{
+	fill: #F5D2BD;
+	transition: 0.05s ease;
+}
+g svg.light{
+	fill: #F6E4D9;
+}
+.svg-text{
+	fill: #333;
+	opacity: 100%;
+	z-index: 2;
+}
+g svg:hover{
+	fill: #F2A679;
+	z-index: 5;
+	-moz-transform: scale(0.9);
+	-webkit-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	transform: scale(0.9);
+	opacity: 100%;
+}
+g svg:hover .svg-text{
+	fill: white;
+}
+g svg.light:hover .svg-text{
+	color: white;
+}
+@media only screen and (max-width: 1280px) {
+}
+@media only screen and (max-width: 1088px) {
+	.cow{
+		padding-top: 50px;
+		width: 95%;
+		margin: auto;
+		padding-left: 0px;
+	}
+}
+@media only screen and (max-width: 881px) {
+	.cow{
+		padding-top: 15px;
+	}
 }
