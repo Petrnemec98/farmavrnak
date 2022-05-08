@@ -7,114 +7,9 @@ address{
 	visibility: hidden;
 }
 
-/*Shortcut*/
-.shortcut-box{
-	 width: 100%;
-   margin-top: 159px;
-   display: flex;
-   justify-content: space-evenly;
-   flex-wrap: wrap;
-   margin-left: 127px;
-}
-
-.shortcut-icon{
-display: block;
-position: relative;
-}
-
-.shortcut-icon-svg{
-	width: 107px;
-	height: 85px;
-	background-repeat: no-repeat;
-	transition: 0.3s ease;
-}
-
-.shortcut-text{
-   padding-left: 110px;
-   padding-right: 30px;
-   margin-top: -50px;
-}
-
-.shortcut-text span{
-	font-family: 'Montserrat-bold', sans-serif;
-	font-weight: 700;
-	font-size: 1.5rem;
-	color: #333333;
-	transition: 0.3s ease;
-}
-
-.shortcut-icon:hover span{
-	color: #F2A679;
-}
-
-.shortcut-icon:hover .shortcut-icon-svg{
-	-moz-transform: scale(1.2) rotate(10deg);
-	-webkit-transform: scale(1.2) rotate(10deg);
-	-o-transform: scale(1.2) rotate(10deg);
-	-ms-transform: scale(1.2) rotate(10deg);
-	transform: scale(1.2) rotate(10deg);
-}
-
-@media only screen and (max-width: 1280px) {
-	.shortcut-text{
-		padding-left: 0px;
-    margin-top: 10px;
-    padding-right: 0px;
-    text-align: center;
-	}
-
-	.shortcut-box{
-		margin-left: 0px;
-	}
-
-}
-
-@media only screen and (max-width: 1088px) {
-	.shortcut-icon-svg{
-		width: 85.01px;
-		height: 67.32px;
-	}
-	.shortcut-text span{
-		font-size: 0.875rem;
-	}
-}
-
-@media only screen and (max-width: 881px) {
-	.shortcut-box{
-		padding-top: 100px;
-	}
-
-	.shortcut-icon{
-		margin: 15px;
-	}
-
-}
-
-/*Shortcut-icon*/
-.shortcut-icon-svg.minutky{
-	background-image: url("svg/Minutky_color_icon.svg");
-}
-.shortcut-icon-svg.peceni{
-	background-image: url("svg/Peceni_color_icon.svg");
-}
-.shortcut-icon-svg.duseni{
-	background-image: url("svg/Duseni_color_icon.svg");
-}
-.shortcut-icon-svg.mleti{
-	background-image: url("svg/Hamburger_color_icon.svg");
-}
-.shortcut-icon-svg.tatarak{
-	background-image: url("svg/Tatarak_color_icon.svg");
-}
-
-
-
-
-
 /*Overlay*/
-
 #minutky, #peceni, #duseni{
-	 position: fixed; /* Sit on top of the page content */
+	position: fixed; /* Sit on top of the page content */
   display: none; /* Hidden by default */
   width: 100%; /* Full width (cover the whole page) */
   height: 100%; /* Full height (cover the whole page) */
@@ -128,35 +23,19 @@ position: relative;
 }
 
 
-#text{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  font-size: 50px;
-  color: white;
-  transform: translate(-50%,-50%);
-  -ms-transform: translate(-50%,-50%);
-}
-
-#text a:hover{
-	font-size: 3rem;
-}
 
 
-.meat-dark{
-	background-color: #333333;
-}
 
 /*Cow*/
 .cow{
 	padding-top: 100px;
-	width: 80%;
+	width: 90%;
 	margin: auto;
+	padding-left: 70px;
 }
 
 .cow-svg{
 	height: 100%;
-	width: 80%;
 	margin: auto;
 }
 
@@ -165,8 +44,13 @@ g svg{
 	transition: 0.05s ease;
 }
 
+g svg.light{
+	fill: #F6E4D9;
+}
 .svg-text{
 	fill: #333;
+	opacity: 100%;
+	z-index: 2;
 }
 
 g svg:hover{
@@ -177,10 +61,32 @@ g svg:hover{
 	-o-transform: scale(1.2);
 	-ms-transform: scale(1.2);
 	transform: scale(0.9);
+	opacity: 100%;
 }
 
 g svg:hover .svg-text{
 	fill: white;
+}
+
+g svg.light:hover .svg-text{
+	color: white;
+}
+
+@media only screen and (max-width: 1280px) {
+
+}
+@media only screen and (max-width: 1088px) {
+	.cow{
+		padding-top: 50px;
+		width: 95%;
+		margin: auto;
+		padding-left: 0px;
+	}
+}
+@media only screen and (max-width: 881px) {
+	.cow{
+		padding-top: 15px;
+	}
 }
 
 /*Půlkruh*/
@@ -1208,4 +1114,98 @@ button{
 	height: 300px;
 
 }
+}
+
+/*Shortcut*/
+.shortcut-box{
+	 width: 100%;
+   margin-top: 159px;
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+   margin-left: 127px;
+}
+
+.shortcut-icon{
+	display: block;
+	position: relative;
+}
+
+.shortcut-icon-svg{
+	width: 107px;
+	height: 85px;
+	background-repeat: no-repeat;
+	transition: 0.3s ease;
+}
+
+.shortcut-text{
+   padding-left: 110px;
+   padding-right: 30px;
+   margin-top: -50px;
+}
+
+.shortcut-text span{
+	font-family: 'Montserrat-bold', sans-serif;
+	font-weight: 700;
+	font-size: 1.5rem;
+	color: #333333;
+	transition: 0.3s ease;
+}
+
+.shortcut-icon:hover span{
+	color: #F2A679;
+}
+
+.shortcut-icon:hover .shortcut-icon-svg{
+	-moz-transform: scale(1.2) rotate(10deg);
+	-webkit-transform: scale(1.2) rotate(10deg);
+	-o-transform: scale(1.2) rotate(10deg);
+	-ms-transform: scale(1.2) rotate(10deg);
+	transform: scale(1.2) rotate(10deg);
+}
+
+@media only screen and (max-width: 1280px) {
+	.shortcut-text{
+		padding-left: 0px;
+    margin-top: 10px;
+    padding-right: 0px;
+    text-align: center;
+	}
+	.shortcut-box{
+		margin-left: 0px;
+	}
+}
+@media only screen and (max-width: 1088px) {
+	.shortcut-icon-svg{
+		width: 85.01px;
+		height: 67.32px;
+	}
+	.shortcut-text span{
+		font-size: 0.875rem;
+	}
+}
+@media only screen and (max-width: 881px) {
+	.shortcut-box{
+		padding-top: 100px;
+	}
+
+	.shortcut-icon{
+		margin: 15px;
+	}
+}
+/*Shortcut-icon*/
+.shortcut-icon-svg.minutky{
+	background-image: url("svg/Minutky_color_icon.svg");
+}
+.shortcut-icon-svg.peceni{
+	background-image: url("svg/Peceni_color_icon.svg");
+}
+.shortcut-icon-svg.duseni{
+	background-image: url("svg/Duseni_color_icon.svg");
+}
+.shortcut-icon-svg.mleti{
+	background-image: url("svg/Hamburger_color_icon.svg");
+}
+.shortcut-icon-svg.tatarak{
+	background-image: url("svg/Tatarak_color_icon.svg");
 }
