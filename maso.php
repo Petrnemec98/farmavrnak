@@ -130,7 +130,7 @@
       <div class="meat-navigation-icon">
         <div class="meat-navigation-icon-svg">
         </div>
-        <div class="meat-navigation-icon-text">Stekové maso</div>
+        <div class="meat-navigation-icon-text"><span>STEAKOVÁ MASA</span></div>
 		    <div class="meat-navigation-content">
           <p>Bryndáček, Holubička, Květová špička, Loupaná plec, Nízký roštěnec, Oponka, Pérko, Předkýtí, Svíčková pravá, Váleček, Veverka, Vysoký roštěnec, Zrcátko</p>
 		    </div>
@@ -138,17 +138,17 @@
       <div class="meat-navigation-icon">
         <div class="meat-navigation-icon-svg">
         </div>
-        <div class="meat-navigation-icon-text">Stekové maso</div>
+        <div class="meat-navigation-icon-text"><span>DROBY</span></div>
         <div class="meat-navigation-content">
-          <p>Bryndáček, Holubička, Květová špička, Loupaná plec, Nízký roštěnec, Oponka, Pérko, Předkýtí, Svíčková pravá, Váleček, Veverka, Vysoký roštěnec, Zrcátko</p>
+          <p>Játra, Srdce, Jazyk, Plíce, Slezina, Ledviny, Býčí žlázy (varlata), Dršťky</p>
         </div>
       </div>
       <div class="meat-navigation-icon">
         <div class="meat-navigation-icon-svg">
         </div>
-        <div class="meat-navigation-icon-text">Stekové maso</div>
+        <div class="meat-navigation-icon-text"><span>OSTATNÍ</span></div>
         <div class="meat-navigation-content">
-          <p>Bryndáček, Holubička, Květová špička, Loupaná plec, Nízký roštěnec, Oponka, Pérko, Předkýtí, Svíčková pravá, Váleček, Veverka, Vysoký roštěnec, Zrcátko</p>
+          <p>Oso buko, Kost morková, Kost řídká, Harfy</p>
         </div>
       </div>
 
