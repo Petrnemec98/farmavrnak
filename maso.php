@@ -69,11 +69,9 @@
     </a>
   </div>
 
-  <!--
-
-  <div data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
+  <div data-id="peceni" class="shortcut-icon" onclick="onOverlay(this)">
     <a>
-      <div class="shortcut-icon-svg minutky ">   
+      <div class="shortcut-icon-svg peceni ">   
       </div>
       <div class="shortcut-text">
         <span>Minutky</span>
@@ -81,9 +79,9 @@
     </a>
   </div>
 
-  <div data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
+  <div data-id="duseni" class="shortcut-icon" onclick="onOverlay(this)">
     <a>
-      <div class="shortcut-icon-svg minutky ">   
+      <div class="shortcut-icon-svg duseni ">   
       </div>
       <div class="shortcut-text">
         <span>Minutky</span>
@@ -91,9 +89,9 @@
     </a>
   </div>
 
-  <div data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
+  <div data-id="mleti" class="shortcut-icon" onclick="onOverlay(this)">
     <a>
-      <div class="shortcut-icon-svg minutky ">   
+      <div class="shortcut-icon-svg mleti ">   
       </div>
       <div class="shortcut-text">
         <span>Minutky</span>
@@ -102,16 +100,16 @@
   </div>
 
 
-  <div data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
+  <div data-id="tatarak" class="shortcut-icon" onclick="onOverlay(this)">
     <a>
-      <div class="shortcut-icon-svg minutky ">   
+      <div class="shortcut-icon-svg tatarak ">   
       </div>
       <div class="shortcut-text">
         <span>Minutky</span>
       </div>
     </a>
   </div>
--->
+
 
 
 </div>

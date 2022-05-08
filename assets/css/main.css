@@ -7,6 +7,7 @@ address{
 	visibility: hidden;
 }
 
+/*Shortcut*/
 .shortcut-box{
 	 width: 100%;
    margin-top: 159px;
@@ -20,17 +21,18 @@ address{
 display: block;
 position: relative;
 }
+
 .shortcut-icon-svg{
 	width: 107px;
 	height: 85px;
 	background-repeat: no-repeat;
-		transition: 0.3s ease;
+	transition: 0.3s ease;
 }
 
 .shortcut-text{
-    padding-left: 110px;
-    padding-right: 30px;
-    margin-top: -50px;
+   padding-left: 110px;
+   padding-right: 30px;
+   margin-top: -50px;
 }
 
 .shortcut-text span{
@@ -38,7 +40,7 @@ position: relative;
 	font-weight: 700;
 	font-size: 1.5rem;
 	color: #333333;
-		transition: 0.3s ease;
+	transition: 0.3s ease;
 }
 
 .shortcut-icon:hover span{
@@ -46,16 +48,47 @@ position: relative;
 }
 
 .shortcut-icon:hover .shortcut-icon-svg{
-			-moz-transform: scale(1.2) rotate(10deg);
-		-webkit-transform: scale(1.2) rotate(10deg);
-		-o-transform: scale(1.2) rotate(10deg);
-		-ms-transform: scale(1.2) rotate(10deg);
-		transform: scale(1.2) rotate(10deg);
+	-moz-transform: scale(1.2) rotate(10deg);
+	-webkit-transform: scale(1.2) rotate(10deg);
+	-o-transform: scale(1.2) rotate(10deg);
+	-ms-transform: scale(1.2) rotate(10deg);
+	transform: scale(1.2) rotate(10deg);
 }
 
+@media only screen and (max-width: 1280px) {
+
+}
+
+@media only screen and (max-width: 1088px) {
+
+}
+
+@media only screen and (max-width: 1088px) {
+
+}
+
+/*Shortcut-icon*/
 .shortcut-icon-svg.minutky{
 	background-image: url("svg/Minutky_color_icon.svg");
 }
+.shortcut-icon-svg.peceni{
+	background-image: url("svg/Peceni_color_icon.svg");
+}
+.shortcut-icon-svg.duseni{
+	background-image: url("svg/Duseni_color_icon.svg");
+}
+.shortcut-icon-svg.mleti{
+	background-image: url("svg/Hamburger_color_icon.svg");
+}
+.shortcut-icon-svg.tatarak{
+	background-image: url("svg/Tatarak_color_icon.svg");
+}
+
+
+
+
+
+/*Overlay*/
 
 #minutky, #peceni, #duseni{
 	 position: fixed; /* Sit on top of the page content */
@@ -86,10 +119,12 @@ position: relative;
 	font-size: 3rem;
 }
 
+
 .meat-dark{
 	background-color: #333333;
 }
 
+/*Cow*/
 .cow{
 	padding-top: 100px;
 	width: 80%;
