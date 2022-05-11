@@ -1,12 +1,10 @@
 # mujweb.cz/index.php > mujweb.cz/
 RewriteEngine On
 
-RewriteRule ^index.php$ http://pnemec.cz/farmavrnak$1 [R=301]
+RewriteRule ^index.php$ http://www.farmavrnak.cz/devtest$1 [R=301]
 RewriteRule ^maso$ maso.php [L]
 RewriteRule ^med$ med.php [L]
 RewriteRule ^nas-pribeh$ nas-pribeh.php [L]
 RewriteRule ^kontakty$ kontakty.php [L]
 RewriteRule ^admin$ admin/index.php [L]
 
-RewriteCond %{HTTPS} off
-RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]

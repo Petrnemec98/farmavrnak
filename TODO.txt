@@ -1,0 +1,2 @@
+- K všem transition dopsat -moz atd. pro další prohlížeče
+- 
