@@ -63,6 +63,6 @@ function onOverlay(element) {
 //close 
 function offOverlay(element){
 
-	  document.getElementById(element.getAttribute("id")).style.display = "none";
+	  document.getElementById(element.getAttribute("data-id")).style.display = "none";
 }
 

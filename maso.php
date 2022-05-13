@@ -6,7 +6,7 @@
 
 <section class="section-1box-hp">
   <section class="defaul-max-wight">
-     <div class="content">
+
       <div class="content-container first">
         <div class="box-h1-prepered">
 
@@ -27,6 +27,7 @@
           </article>
         </div>
       </div>
+      <!-- ikony smazat
       <div class="bio-icon-bar">
         <a href="#"><div class="bio-icon green ">
         </div></a>
@@ -44,7 +45,8 @@
         </a>
       </div>
     </div>
-    </div>
+  -->
+
   </section>
 </section>
 
