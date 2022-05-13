@@ -17,7 +17,9 @@ address{
 	opacity: 100%;
 	z-index: 8;
 	margin-top: 0px;
-	border: black solid 3px;
+	-webkit-box-shadow: 0px 0px 21px 12px rgba(0,0,0,0.27); 
+box-shadow: 0px 0px 21px 12px rgba(0,0,0,0.27);
+  border-radius: 25px;
 	margin-top: 50px;
 }
 
@@ -74,13 +76,13 @@ address{
 	font-weight: 700;
 	color: black;
 	text-transform: uppercase;
-	line-height: 36px;
+	line-height: 50px;
 	transition: 0.3s ease;
 }
 .overlay-box span:hover{
 	color: #F2A679;
 }
-#minutky, #peceni, #duseni{
+#minutky, #peceni, #duseni, #mleti, #tatarak{
 	position: fixed; /* Sit on top of the page content */
   display: none; /* Hidden by default */
   top: 0;
@@ -88,6 +90,7 @@ address{
   right: 0;
   bottom: 0;
   width: 100%;
+  transition: visibility 0s, opacity 0.5s linear;
   height: 100%;
 	background-color: rgba(247,240,235,0.7); /* Black background with opacity */
   z-index: 6; /* Specify a stack order in case you're using a different order for other elements */
