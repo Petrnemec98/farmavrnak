@@ -15,7 +15,7 @@ address{
 	padding-bottom: 40px;
 	background-color: #F2E4D8;
 	opacity: 100%;
-	z-index: 7;
+	z-index: 8;
 	margin-top: 0px;
 	border: black solid 3px;
 	margin-top: 50px;
@@ -24,7 +24,7 @@ address{
 .overlay-box-close{
 	height: 92px;
 	width: 100%;
-	z-index: 8;
+	z-index: 9;
 }
 
 .overlay-box-content{
