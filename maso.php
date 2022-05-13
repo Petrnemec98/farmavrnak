@@ -14,7 +14,7 @@
               <h1>Maso</h1>
             </div>
               <h2>Naše maso</h2>
-            <article>
+            <article class="maso-layout">
             <div class="layout-description">
                 <p>
                   Námi chované plemeno Limousine je masný typ skotu. Pochází z oblasti Haut ve Francii, kde je druhým nejčastěji chovaným plemenem. Vyniká výtečnou zmasilostí a jatečnou výtěžností.
@@ -57,8 +57,33 @@
     <div class="half-circule-positon">
       <div class="half-circule dark">
       </div>
-      </div>
+    </div>  
+    <div class="maso-content">   
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article class="maso-layout">
+             <div class="box-h2-title half-cir">
+              <p class="h1">Interaktivní průvodce</p>
+            </div>
+            
+              <h2 class="half-cir">HOVĚZÍ MASO</h2>
 
+            <div class="layout-description">
+              <p>
+                Na schématu krávy si vyberte kousek masa, který Vás zajímá, pro více informací na něj klikněte. Nevíte si rady? S výběrem Vám pomůže naše rozdělení masa podle způsobu úpravy.
+
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>               
+    </div>
+  </div> 
+
+
+
+
+  <div class="defaul-max-wight">
     <!-- Overlay icon-->
     <div class="shortcut-box">
 

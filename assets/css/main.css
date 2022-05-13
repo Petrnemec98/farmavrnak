@@ -7,7 +7,20 @@ address{
 	visibility: hidden;
 }
 
+.maso-layout .layout-description{
+	padding-left:  0px;
+	width: 100%;
+}
 
+.maso-content{
+	width: 100%;
+}
+
+.overlay-box-close-back{
+	width: 100%;
+	height: 100vh;
+	z-index: 5;
+}
 
 /*Shortcut navigation*/
 .meat-navigation-box{
@@ -1078,7 +1091,6 @@ button{
 /*Shortcut*/
 .shortcut-box{
 	 width: 100%;
-   margin-top: 159px;
    display: flex;
    justify-content: space-evenly;
    flex-wrap: wrap;
@@ -1138,7 +1150,7 @@ button{
 }
 @media only screen and (max-width: 881px) {
 	.shortcut-box{
-		padding-top: 100px;
+		margin-top: 40px;
 	}
 
 	.shortcut-icon{

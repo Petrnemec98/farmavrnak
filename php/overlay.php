@@ -58,6 +58,8 @@
       </div>
     </section>
   </div>
+  <div class="overlay-box-close-back" data-id="minutky" onclick="offOverlay(this)">
+  </div>
 </div>
 
 <div id="peceni">
@@ -122,6 +124,8 @@
         </article>
       </div>
     </section>
+  </div>
+    <div class="overlay-box-close-back" data-id="peceni" onclick="offOverlay(this)">
   </div>
 </div>
 
@@ -195,6 +199,8 @@
       </div>
     </section>
   </div>
+    <div class="overlay-box-close-back" data-id="duseni" onclick="offOverlay(this)">
+  </div>
 </div>
 
 
@@ -234,6 +240,8 @@
         </article>
       </div>
     </section>
+  </div>
+    <div class="overlay-box-close-back" data-id="mleti" onclick="offOverlay(this)">
   </div>
 </div>
 
@@ -284,6 +292,8 @@
         </article>
       </div>
     </section>
+  </div>
+    <div class="overlay-box-close-back" data-id="tatarak" onclick="offOverlay(this)">
   </div>
 </div>
  
