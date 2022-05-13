@@ -155,7 +155,7 @@
   <div class="defaul-max-wight">
     <div class="meat-navigation-box">
       <div class="meat-navigation-icon">
-        <div class="meat-navigation-icon-svg">
+        <div class="meat-navigation-icon-svg maso-icon-maso">
         </div>
         <div class="meat-navigation-icon-text"><span>STEAKOVÁ MASA</span></div>
 		    <div class="meat-navigation-content">
@@ -163,7 +163,7 @@
 		    </div>
       </div>
       <div class="meat-navigation-icon">
-        <div class="meat-navigation-icon-svg">
+        <div class="meat-navigation-icon-svg droby-icon">
         </div>
         <div class="meat-navigation-icon-text"><span>DROBY</span></div>
         <div class="meat-navigation-content">
@@ -171,7 +171,7 @@
         </div>
       </div>
       <div class="meat-navigation-icon">
-        <div class="meat-navigation-icon-svg">
+        <div class="meat-navigation-icon-svg ostatni-icon">
         </div>
         <div class="meat-navigation-icon-text"><span>OSTATNÍ</span></div>
         <div class="meat-navigation-content">
@@ -196,7 +196,7 @@
         <div class="box-h1-prepered">
           <article>
 
-            <div class="box-h2-title half-cir">
+            <div class="box-h2-title half-cir maso-layout-other">
               <p class="h1">Zadní maso</p>
             </div>
 
@@ -212,7 +212,7 @@
 <!-- KONEC - Dark box -->
 
 
-<section id="1" class="content-2-box">
+<section id="vrchni-sal" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
       <div class="half-circule dark-black">
@@ -223,22 +223,26 @@
         <div class="box-h1-prepered">
           <article>
 
-              <h2 class="half-cir">Volný chov</h2>
+              <div class="box-h2-title half-cir">
+              <p class="h1">Vrchní šál</p>
+            </div>
+            
+              <h2 class="half-cir">top round</h2>
 
             <div class="layout-description">
               <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
+                Vrchní šál je možná jedno z nejkrásnějších mas napohled. Jedná se o velký špalek masa připomínající kulatý pecen chleba výrazné vůně hovězího masa a syté barvy. Má velmi široké použití, od tatarského bifteku přes masové špalky až po různé typy plátků. Od vrchního šálu je možné oddělit plátek, který je určený pouze na dušení a pečení.
               </p>
             </div>
           </article>
         </div>
       </div>
             <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">
+        <a href="#"><div class="bio-icon peceni">
         </div></a>
-        <a href="#"><div class="bio-icon meat  ">
+        <a href="#"><div class="bio-icon duseni">
         </div></a>
-        <a href="#"><div class="bio-icon cow-icon ">
+        <a href="#"><div class="bio-icon tatarak">
         </div></a>
       </div>
     </div>

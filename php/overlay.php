@@ -77,7 +77,7 @@
       </div>
       <div class="overlay-box-content">
         <article>
-          <a href="#hruska" data-id="peceni" onclick="offOverlay(this)">
+          <a href="#vrchni-sal" data-id="peceni" onclick="offOverlay(this)">
             <span>Vrchní šál</span>
           </a>
            <a href="#hruska" data-id="peceni" onclick="offOverlay(this)">
@@ -144,7 +144,7 @@
       </div>
       <div class="overlay-box-content">
         <article>
-          <a href="#duseni" data-id="duseni" onclick="offOverlay(this)">
+          <a href="#vrchni-sal" data-id="duseni" onclick="offOverlay(this)">
             <span>Vrchní šál</span>
           </a>
            <a href="#duseni" data-id="duseni" onclick="offOverlay(this)">
@@ -260,7 +260,7 @@
       </div>
       <div class="overlay-box-content">
         <article>
-          <a href="#duseni" data-id="tatarak" onclick="offOverlay(this)">
+          <a href="#vrchni-sal" data-id="tatarak" onclick="offOverlay(this)">
             <span>Vrchní šál</span>
           </a>
            <a href="#duseni" data-id="tatarak" onclick="offOverlay(this)">

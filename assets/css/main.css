@@ -12,6 +12,10 @@ address{
 	width: 100%;
 }
 
+.maso-layout-other p{
+	color: white;
+}
+
 .maso-content{
 	width: 100%;
 }
@@ -36,12 +40,23 @@ address{
 }
 
 .meat-navigation-icon-svg{
-	background-image: url("svg/Meat_color.svg");
+
 	background-repeat: no-repeat;
 	width: 101.26px;
 	height: 81.74px;
 }
 
+.meat-navigation-icon-svg.maso-icon-maso{
+		background-image: url("svg/Meat_color.svg");
+}
+
+.meat-navigation-icon-svg.droby-icon{
+		background-image: url("svg/Droby_icon.svg");
+}
+
+.meat-navigation-icon-svg.ostatni-icon{
+		background-image: url("svg/Ostatni_icon.svg");
+}
 .meat-navigation-icon-text{
 	padding-left: 110px;
    margin-top: -50px;
@@ -62,6 +77,10 @@ address{
 }
 
 @media only screen and (max-width: 1280px) {
+	.meat-navigation-icon-svg{
+		width:76.23px;
+		height:61.54px ;
+	}
 }
 @media only screen and (max-width: 1088px) {
 .meat-navigation-icon{
@@ -80,6 +99,24 @@ address{
 }
 }
 @media only screen and (max-width: 881px) {
+	.meat-navigation-box{
+		width: 80%;
+	}
+	.meat-navigation-icon-svg{
+		width: 60.74px;
+		height: 49.04px;
+		width: 85%;
+	}
+	.meat-navigation-icon-text{
+		padding-left: 70px;
+		margin-top: -35px;
+	}
+	.meat-navigation-content{
+		width: 85%;
+	}
+	.meat-navigation-box{
+		margin-bottom: 0px;
+	}
 
 }
 
@@ -1161,16 +1198,16 @@ button{
 .shortcut-icon-svg.minutky{
 	background-image: url("svg/Minutky_color_icon.svg");
 }
-.shortcut-icon-svg.peceni{
+.peceni{
 	background-image: url("svg/Peceni_color_icon.svg");
 }
-.shortcut-icon-svg.duseni{
+.duseni{
 	background-image: url("svg/Duseni_color_icon.svg");
 }
-.shortcut-icon-svg.mleti{
+.mleti{
 	background-image: url("svg/Hamburger_color_icon.svg");
 }
-.shortcut-icon-svg.tatarak{
+.tatarak{
 	background-image: url("svg/Tatarak_color_icon.svg");
 }
 
