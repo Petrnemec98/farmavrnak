@@ -1,21 +1,3 @@
-   
-        
-
-
-      <div id="peceni" onclick="offOverlay(this)" >
-        <div id="text">
-          <a href="#1">Maso 4</a>
-          <a href="#2">Maso 5</a>
-        </div>
-      </div>
-
-      <div id="duseni" onclick="offOverlay(this)">
-        <div id="text">
-          <a href="#1">Maso 1</a>
-          <a href="#2">Maso 2</a>
-        </div>
-      </div>
-
 <div id="minutky">
  <div class="overlay-background">
   <section class="overlay-box">
@@ -28,17 +10,56 @@
           <h1>Na minutkovou úpravu</h1>
         </div>
           <h2>Hovězí maso</h2>
+    </div>
 
+    <div class="overlay-box-content">
     <article>
       <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
         <span>Hruška</span>
       </a>
+       <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
+        <span>Tabulová špička</span>
+      </a>
+       <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
+        <span>Holubička</span>
+      </a>
+      <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
+        <span>Květová špička</span>
+      </a>
+      <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
+        <span>Loupaná plec</span>
+      </a>
+      <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
+        <span>Pravá svíčková</span>
+      </a>
+      <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
+        <span>Nízký roštěnec</span>
+      </a>
     </article>
-  </section>
- 
+    <article>
+      <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
+        <span>Vysoký roštěnec</span>
+      </a>
+      <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
+        <span>Vnitřní oponka</span>
+      </a>
+      <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
+        <span>Husička</span>
+      </a>
+      <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
+        <span>Pavouček</span>
+      </a>
+      <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
+        <span>Veverka</span>
+      </a>
+      <a href="#hruska" data-id="minutky" onclick="offOverlay(this)">
+        <span>Oponka</span>
+      </a>
+    </article>
   </div>
-
-    </div>
+  </section>
+  </div>
+</div>
 
 
             
