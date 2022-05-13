@@ -7,143 +7,7 @@ address{
 	visibility: hidden;
 }
 
-/*Overlay*/
 
-.overlay-box{
-	width: 70%;
-	margin: auto;
-	padding-bottom: 40px;
-	background-color: #F2E4D8;
-	opacity: 100%;
-	z-index: 8;
-	margin-top: 0px;
-	-webkit-box-shadow: 0px 0px 21px 12px rgba(0,0,0,0.27); 
-box-shadow: 0px 0px 21px 12px rgba(0,0,0,0.27);
-  border-radius: 25px;
-	margin-top: 50px;
-}
-
-.overlay-box-close{
-	height: 92px;
-	width: 100%;
-	z-index: 9;
-}
-
-.overlay-box-content{
-    display: flex;
-}
-
-.overlay-close{
-	display: block;
-	position: relative;
-	left: 42px;
-	top: 44px;
-	width: 48px;
-	height: 48px;
-	background-image: url("svg/close_menu.svg");
-	background-repeat: no-repeat;
-		transition: 0.3s ease;
-}
-
-.overlay-close:hover{
-		-moz-transform: scale(1.2);
-		-webkit-transform: scale(1.2);
-		-o-transform: scale(1.2);
-		-ms-transform: scale(1.2);
-		transform: scale(1.2);
-}
-
-.overlay-box .box-h1-prepered{
-	margin-left: 120px;
-}
-
-.overlay-box h2{
-	    margin-block-start: 0em;
-}
-
-.overlay-box article{
-	margin-top: 20px;
-	margin-left: 120px;
-}
-
-.overlay-box a{
-	position: relative;
-	display: block;
-}
-.overlay-box span{
-	font-size: 1.5rem;
-	font-family: 'Montserrat-bold', sans-serif;
-	font-weight: 700;
-	color: black;
-	text-transform: uppercase;
-	line-height: 50px;
-	transition: 0.3s ease;
-}
-.overlay-box span:hover{
-	color: #F2A679;
-}
-#minutky, #peceni, #duseni, #mleti, #tatarak{
-	position: fixed; /* Sit on top of the page content */
-  display: none; /* Hidden by default */
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  width: 100%;
-  transition: visibility 0s, opacity 0.5s linear;
-  height: 100%;
-	background-color: rgba(247,240,235,0.7); /* Black background with opacity */
-  z-index: 6; /* Specify a stack order in case you're using a different order for other elements */
-  cursor: pointer; /* Add a pointer on hover */
-}
-
-@media only screen and (max-width: 1280px) {
-	.overlay-box .box-h1-prepered{
-		margin-left: 80px;
-	}
-	.overlay-box article{
-		margin-left: 80px;
-	}
-	.overlay-box{
-		width: 90%;
-	}
-}
-@media only screen and (max-width: 1088px) {
-	.overlay-box{
-		width: 100%;
-		border: none;
-		margin-top: 0px;
-		height: 100vh;
-	}
-	.overlay-box-content{
-    display: block;
-}
-}
-@media only screen and (max-width: 881px) {
-	.overlay-close{
-	display: block;
-	position: relative;
-	left: 14px;
-	top: 14px;
-	width: 30px;
-	height: 30px;
-	}
-	.overlay-box-close{
-		height: 44px;
-		width: 100%;
-		z-index: 8;
-	}
-	.overlay-box .box-h1-prepered{
-		margin-left: 29px;
-	}
-	.overlay-box article{
-		margin-left: 29px;
-	}
-	.overlay-box span{
-		font-size: 1rem;
-		line-height: 26px;
-	}
-}
 
 /*Shortcut navigation*/
 .meat-navigation-box{
@@ -1350,5 +1214,158 @@ g svg.light:hover .svg-text{
 @media only screen and (max-width: 881px) {
 	.cow{
 		padding-top: 15px;
+	}
+}
+
+/*Overlay*/
+
+.overlay-box{
+	width: 70%;
+	margin: auto;
+	padding-bottom: 40px;
+	background-color: #F7F0EB;
+	opacity: 100%;
+	z-index: 8;
+	-webkit-box-shadow: 0px 0px 21px 12px rgba(0,0,0,0.27); 
+	box-shadow: 0px 0px 21px 12px rgba(0,0,0,0.27);
+  	border-radius: 25px;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.overlay-box-close{
+	height: 92px;
+	width: 100%;
+	z-index: 9;
+}
+.overlay-box-content{
+    display: flex;
+}
+.overlay-close{
+	display: block;
+	position: relative;
+	left: 42px;
+	top: 44px;
+	width: 48px;
+	height: 48px;
+	background-image: url("svg/close_menu.svg");
+	background-repeat: no-repeat;
+	transition: 0.3s ease;
+}
+.overlay-close:hover{
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	transform: scale(1.2);
+}
+.overlay-box .box-h1-prepered{
+	margin-left: 120px;
+}
+.overlay-box h2{
+	    margin-block-start: 0em;
+	    color: #D9B596;
+}
+.overlay-box article{
+	margin-top: 20px;
+	margin-left: 222px;
+}
+.overlay-box a{
+	position: relative;
+	display: block;
+}
+.overlay-box span{
+	font-size: 1.5rem;
+	font-family: 'Montserrat-bold', sans-serif;
+	font-weight: 700;
+	color: #333333;
+	text-transform: uppercase;
+	line-height: 50px;
+	transition: 0.3s ease;
+}
+.overlay-box span:hover{
+	color: #F2A67966;
+}
+#minutky, #peceni, #duseni, #mleti, #tatarak{
+	position: fixed; /* Sit on top of the page content */
+  	display: none; /* Hidden by default */
+  	top: 0;
+  	left: 0;
+  	right: 0;
+  	bottom: 0;
+  	width: 100%;
+  	transition: visibility 0s, opacity 0.5s linear;
+  	height: 100%;
+	background-color: rgba(247,240,235,0.7); /* Black background with opacity */
+ 	z-index: 6; /* Specify a stack order in case you're using a different order for other elements */
+  	cursor: pointer; /* Add a pointer on hover */
+}
+
+@media only screen and (max-width: 1520px){
+	.overlay-box .box-h2-title{
+		margin-left: 60px;
+	}
+	.overlay-box article{
+		margin-left: 180px;
+	}
+}
+
+@media only screen and (max-width: 1280px) {
+	.overlay-box .box-h1-prepered{
+		margin-left: 80px;
+	}
+	.overlay-box article{
+		margin-left: 80px;
+	}
+	.overlay-box{
+		width: 90%;
+	}
+	.overlay-box article{
+		margin-left: 140px;
+	}
+}
+@media only screen and (max-width: 1088px) {
+	.overlay-box{
+		width: 100%;
+		border: none;
+		margin-top: 0px;
+		height: 100vh;
+	}
+
+	.overlay-box article{
+		margin-top: 0px;
+	}
+}
+@media only screen and (max-width: 881px) {
+		.overlay-box-content{
+    	display: block;
+	}
+	.overlay-close{
+	display: block;
+	position: relative;
+	left: 14px;
+	top: 14px;
+	width: 30px;
+	height: 30px;
+	}
+	.overlay-box-close{
+		height: 44px;
+		width: 100%;
+		z-index: 8;
+	}
+	.overlay-box .box-h1-prepered{
+		margin-left: 30px;
+	}
+		.overlay-box .box-h2-title{
+		margin-left: 40px;
+	}
+	.overlay-box article{
+		margin-left: 70px;
+	}
+	.overlay-box span{
+		font-size: 1rem;
+		line-height: 30px;
 	}
 }
