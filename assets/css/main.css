@@ -7,6 +7,88 @@ address{
 	visibility: hidden;
 }
 
+/*meat-info-icon*/
+.meat-info-icon-bar{
+	width: 70%;
+	display: flex;
+	margin-left: 199px;
+	justify-content: start;
+}
+
+.meat-info-icon-bar a{
+	margin-left: 30px;
+}
+
+.meat-info-icon-bar a.cash{
+	margin-left: 40%;
+}
+.meat-info-icon{
+	background-repeat: no-repeat;
+	width: 56.22px;
+	height: 52.28px;
+	margin: auto;
+}
+
+.meat-info-text{
+	margin-top: 7px;
+}
+
+.meat-info-text span{
+	font-size: 1rem;
+	font-family: 'Montserrat-bold', sans-serif;
+	font-weight: 700;
+	color: #333333;
+	text-transform: uppercase;
+}
+
+.cash-3{
+	background-image: url("svg/cash-3-icon.svg");
+}
+.cash-2{
+	background-image: url("svg/cash-2-icon.svg");
+}
+.cash-1{
+	background-image: url("svg/cash-1-icon.svg");
+}
+
+.slideshow-container.meat img{
+border-radius: 0%;
+}
+
+.slideshow-container.meat .our-story-pics{
+	width: 100%;
+}
+
+
+@media only screen and (max-width: 1280px) {
+
+}
+@media only screen and (max-width: 1088px) {
+	.meat-info-icon-bar{
+		margin-bottom: 30px;
+	}
+
+}
+@media only screen and (max-width: 881px) {
+	.meat-info-icon-bar{
+		margin-left: 0px;
+	}
+	.slideshow-container.meat{
+		max-width: 90%;
+	}
+	.meat-info-icon{
+		width: 47.15px;
+		height: 38.43px;
+	
+}
+.meat-info-text span{
+	font-size: 0.7rem;
+}
+
+}
+
+
+
 .maso-layout .layout-description{
 	padding-left:  0px;
 	width: 100%;

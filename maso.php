@@ -237,19 +237,37 @@
           </article>
         </div>
       </div>
-            <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon peceni">
-        </div></a>
-        <a href="#"><div class="bio-icon duseni">
-        </div></a>
-        <a href="#"><div class="bio-icon tatarak">
-        </div></a>
+      <div class="meat-info-icon-bar">
+        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+        </div>
+        <div class="meat-info-text">
+          <span>Pečení</span>
+        </div>
+      </a>
+        <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
+        </div>
+        <div class="meat-info-text">
+          <span>Dušení</span>
+        </div>
+      </a>
+      <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak">
+        </div>
+        <div class="meat-info-text">
+          <span>tatarák</span>
+        </div>
+      </a>
+      <a data-id="tatarak" onclick="onOverlay(this)" class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
       </div>
     </div>
-      <div class="slideshow-container">
+      <div class="slideshow-container meat">
       <div class="our-story-pics right">
-       <a href="images/slider_hp_5.jpg" data-lightbox="image-1" data-title="My caption">
-          <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+       <a href="assets/css/cow/vrchni-sal.svg" data-lightbox="image-1" data-title="My caption">
+          <img src="assets/css/cow/vrchni-sal.svg" alt="Frama Vrňak - kráva s rohy">
        </a>
       </div>
     </div>
