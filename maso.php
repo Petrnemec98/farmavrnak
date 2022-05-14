@@ -211,7 +211,7 @@
 
 <!-- KONEC - Dark box -->
 
-
+<!--Vrchni sal-->
 <section id="vrchni-sal" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -274,43 +274,65 @@
   </div>
 </section>
 
-<section id="2" class="content-1-box">
+<!--Hruška-->
+<section id="hruska" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
         <div class="half-circule light">
         </div>
       </div>
     <div class="content">
-      <div class="content-container">
+      <div class="content-container ">
         <div class="box-h1-prepered">
-              <h2 class="half-cir">limousine</h2>
-            <article>
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Hruška</p>
+            </div>
+            
+              <h2 class="half-cir">pear steak</h2>
+
             <div class="layout-description">
-                <p>
-                 Děda s babičkou pro základ chovu nakonec zvolili plemeno Limousine, které je odolné, má výtečnou zmasilost zadních částí a je vhodné pro volný chov na pastvinách a krmení senem. Dalším důvodem pro volbu byl fakt, že plemeno má bezproblémové porody, které probíhají bez zásahu člověka – 96 % telat se rodí samovolně. Babičce se také moc líbila hnědá barva těchto kraviček a jejich vznešené jméno. Hlavně nechtěla kravky s bílou hlavou, na které byla zvyklá u tehdy běžného masného simentálu.
-                </p>
+              <p>
+                Hruška je maličký sval nacházející se pod plátkem vrchního šálu. Po odblanění se křehkostí vyrovná pravé svíčkové. Díky drobným tukovým paprskům zůstává při úpravě šťavnatá a nevysušená, přesto je velmi libová. Hodí se především na minutkovou úpravu. Je to velmi malý sval s hmotností nižší než 0,5 kg.
+              </p>
             </div>
           </article>
         </div>
       </div>
-            <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">
-        </div></a>
-        <a href="#"><div class="bio-icon meat  ">
-        </div></a>
-        <a href="#"><div class="bio-icon cow-icon ">
-        </div></a>
+      <div class="meat-info-icon-bar">
+        <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+        </div>
+        <div class="meat-info-text">
+          <span>Minutky</span>
+        </div>
+      </a>
+      <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak">
+        </div>
+        <div class="meat-info-text">
+          <span>tatarák</span>
+        </div>
+      </a>
+      <a data-id="tatarak" onclick="onOverlay(this)" class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
       </div>
-    </div >
-    <div class="slideshow-container">
+    </div>
+      <div class="slideshow-container meat">
       <div class="our-story-pics right">
-
+       <a href="assets/css/cow/hruska.svg" data-lightbox="image-1" data-title="My caption">
+          <img src="assets/css/cow/hruska.svg" alt="Frama Vrňak - kráva s rohy">
+       </a>
       </div>
     </div>
   </div>
 </section>
 
-<section id="3" class="content-2-box">
+<!--Spodní šál-->
+<section id="spodni-sal" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
       <div class="half-circule dark">
@@ -321,523 +343,59 @@
         <div class="box-h1-prepered">
           <article>
 
-              <h2 class="half-cir">Volný chov</h2>
+              <div class="box-h2-title half-cir">
+              <p class="h1">Spodní šál</p>
+            </div>
+            
+              <h2 class="half-cir">silverside</h2>
 
             <div class="layout-description">
               <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
+                Spodní šál je objemný špalek zdánlivě libového masa. Vyznačuje se mírně hrubšími vlákny s vyšším zastoupením vaziva. Z toho důvodu je toto maso nejčastěji používáno na španělské ptáčky a na pečení. Spodní šál z mladých kusů masných plemen lze využít na steaky a Italové toto maso používají na roastbeef. Od spodního šálu je oddělen karabáček.
               </p>
             </div>
           </article>
         </div>
       </div>
-            <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">
-        </div></a>
-        <a href="#"><div class="bio-icon meat  ">
-        </div></a>
-        <a href="#"><div class="bio-icon cow-icon ">
-        </div></a>
+      <div class="meat-info-icon-bar">
+        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+        </div>
+        <div class="meat-info-text">
+          <span>Pečení</span>
+        </div>
+      </a>
+        <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
+        </div>
+        <div class="meat-info-text">
+          <span>Dušení</span>
+        </div>
+      </a>
+      <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak">
+        </div>
+        <div class="meat-info-text">
+          <span>tatarák</span>
+        </div>
+      </a>
+      <a data-id="tatarak" onclick="onOverlay(this)" class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
       </div>
     </div>
-      <div class="slideshow-container">
+      <div class="slideshow-container meat">
       <div class="our-story-pics right">
-       <a href="images/slider_hp_5.jpg" data-lightbox="image-1" data-title="My caption">
-          <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+       <a href="assets/css/cow/vrchni-sal.svg" data-lightbox="image-1" data-title="My caption">
+          <img src="assets/css/cow/vrchni-sal.svg" alt="Frama Vrňak - kráva s rohy">
        </a>
       </div>
     </div>
   </div>
 </section>
 
-<section id="4" class="content-1-box">
-  <div class="defaul-max-wight">
-      <div class="half-circule-positon light">
-        <div class="half-circule light">
-        </div>
-      </div>
-    <div class="content">
-      <div class="content-container">
-        <div class="box-h1-prepered">
-              <h2 class="half-cir">limousine</h2>
-            <article>
-            <div class="layout-description">
-                <p>
-                 Děda s babičkou pro základ chovu nakonec zvolili plemeno Limousine, které je odolné, má výtečnou zmasilost zadních částí a je vhodné pro volný chov na pastvinách a krmení senem. Dalším důvodem pro volbu byl fakt, že plemeno má bezproblémové porody, které probíhají bez zásahu člověka – 96 % telat se rodí samovolně. Babičce se také moc líbila hnědá barva těchto kraviček a jejich vznešené jméno. Hlavně nechtěla kravky s bílou hlavou, na které byla zvyklá u tehdy běžného masného simentálu.
-                </p>
-            </div>
-          </article>
-        </div>
-      </div>
-            <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">
-        </div></a>
-        <a href="#"><div class="bio-icon meat  ">
-        </div></a>
-        <a href="#"><div class="bio-icon cow-icon ">
-        </div></a>
-      </div>
-    </div >
-    <div class="slideshow-container">
-      <div class="our-story-pics right">
 
-      </div>
-    </div>
-  </div>
-</section>
-<section id="5" class="content-2-box">
-  <div class="defaul-max-wight">
-    <div class="half-circule-positon">
-      <div class="half-circule dark">
-      </div>
-   </div>
-    <div class="content">
-      <div class="content-container ">
-        <div class="box-h1-prepered">
-          <article>
 
-              <h2 class="half-cir">Volný chov</h2>
-
-            <div class="layout-description">
-              <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
-              </p>
-            </div>
-          </article>
-        </div>
-      </div>
-            <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">
-        </div></a>
-        <a href="#"><div class="bio-icon meat  ">
-        </div></a>
-        <a href="#"><div class="bio-icon cow-icon ">
-        </div></a>
-      </div>
-    </div>
-      <div class="slideshow-container">
-      <div class="our-story-pics right">
-       <a href="images/slider_hp_5.jpg" data-lightbox="image-1" data-title="My caption">
-          <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
-       </a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="6" class="content-1-box">
-  <div class="defaul-max-wight">
-      <div class="half-circule-positon light">
-        <div class="half-circule light">
-        </div>
-      </div>
-    <div class="content">
-      <div class="content-container">
-        <div class="box-h1-prepered">
-              <h2 class="half-cir">limousine</h2>
-            <article>
-            <div class="layout-description">
-                <p>
-                 Děda s babičkou pro základ chovu nakonec zvolili plemeno Limousine, které je odolné, má výtečnou zmasilost zadních částí a je vhodné pro volný chov na pastvinách a krmení senem. Dalším důvodem pro volbu byl fakt, že plemeno má bezproblémové porody, které probíhají bez zásahu člověka – 96 % telat se rodí samovolně. Babičce se také moc líbila hnědá barva těchto kraviček a jejich vznešené jméno. Hlavně nechtěla kravky s bílou hlavou, na které byla zvyklá u tehdy běžného masného simentálu.
-                </p>
-            </div>
-          </article>
-        </div>
-      </div>
-            <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">
-        </div></a>
-        <a href="#"><div class="bio-icon meat  ">
-        </div></a>
-        <a href="#"><div class="bio-icon cow-icon ">
-        </div></a>
-      </div>
-    </div >
-    <div class="slideshow-container">
-      <div class="our-story-pics right">
-
-      </div>
-    </div>
-  </div>
-</section>
-<section id="7" class="content-2-box">
-  <div class="defaul-max-wight">
-    <div class="half-circule-positon">
-      <div class="half-circule dark">
-      </div>
-   </div>
-    <div class="content">
-      <div class="content-container ">
-        <div class="box-h1-prepered">
-          <article>
-
-              <h2 class="half-cir">Volný chov</h2>
-
-            <div class="layout-description">
-              <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
-              </p>
-            </div>
-          </article>
-        </div>
-      </div>
-            <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">
-        </div></a>
-        <a href="#"><div class="bio-icon meat  ">
-        </div></a>
-        <a href="#"><div class="bio-icon cow-icon ">
-        </div></a>
-      </div>
-    </div>
-      <div class="slideshow-container">
-      <div class="our-story-pics right">
-       <a href="images/slider_hp_5.jpg" data-lightbox="image-1" data-title="My caption">
-          <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
-       </a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="8" class="content-1-box">
-  <div class="defaul-max-wight">
-      <div class="half-circule-positon light">
-        <div class="half-circule light">
-        </div>
-      </div>
-    <div class="content">
-      <div class="content-container">
-        <div class="box-h1-prepered">
-              <h2 class="half-cir">limousine</h2>
-            <article>
-            <div class="layout-description">
-                <p>
-                 Děda s babičkou pro základ chovu nakonec zvolili plemeno Limousine, které je odolné, má výtečnou zmasilost zadních částí a je vhodné pro volný chov na pastvinách a krmení senem. Dalším důvodem pro volbu byl fakt, že plemeno má bezproblémové porody, které probíhají bez zásahu člověka – 96 % telat se rodí samovolně. Babičce se také moc líbila hnědá barva těchto kraviček a jejich vznešené jméno. Hlavně nechtěla kravky s bílou hlavou, na které byla zvyklá u tehdy běžného masného simentálu.
-                </p>
-            </div>
-          </article>
-        </div>
-      </div>
-            <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">
-        </div></a>
-        <a href="#"><div class="bio-icon meat  ">
-        </div></a>
-        <a href="#"><div class="bio-icon cow-icon ">
-        </div></a>
-      </div>
-    </div >
-    <div class="slideshow-container">
-      <div class="our-story-pics right">
-
-      </div>
-    </div>
-  </div>
-</section>
-<section id="9" class="content-2-box">
-  <div class="defaul-max-wight">
-    <div class="half-circule-positon">
-      <div class="half-circule dark">
-      </div>
-   </div>
-    <div class="content">
-      <div class="content-container ">
-        <div class="box-h1-prepered">
-          <article>
-
-              <h2 class="half-cir">Volný chov</h2>
-
-            <div class="layout-description">
-              <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
-              </p>
-            </div>
-          </article>
-        </div>
-      </div>
-            <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">
-        </div></a>
-        <a href="#"><div class="bio-icon meat  ">
-        </div></a>
-        <a href="#"><div class="bio-icon cow-icon ">
-        </div></a>
-      </div>
-    </div>
-      <div class="slideshow-container">
-      <div class="our-story-pics right">
-       <a href="images/slider_hp_5.jpg" data-lightbox="image-1" data-title="My caption">
-          <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
-       </a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="10" class="content-1-box">
-  <div class="defaul-max-wight">
-      <div class="half-circule-positon light">
-        <div class="half-circule light">
-        </div>
-      </div>
-    <div class="content">
-      <div class="content-container">
-        <div class="box-h1-prepered">
-              <h2 class="half-cir">limousine</h2>
-            <article>
-            <div class="layout-description">
-                <p>
-                 Děda s babičkou pro základ chovu nakonec zvolili plemeno Limousine, které je odolné, má výtečnou zmasilost zadních částí a je vhodné pro volný chov na pastvinách a krmení senem. Dalším důvodem pro volbu byl fakt, že plemeno má bezproblémové porody, které probíhají bez zásahu člověka – 96 % telat se rodí samovolně. Babičce se také moc líbila hnědá barva těchto kraviček a jejich vznešené jméno. Hlavně nechtěla kravky s bílou hlavou, na které byla zvyklá u tehdy běžného masného simentálu.
-                </p>
-            </div>
-          </article>
-        </div>
-      </div>
-    </div >
-    <div class="slideshow-container">
-      <div class="our-story-pics right">
-
-      </div>
-    </div>
-  </div>
-</section>
-<section id="11" class="content-2-box">
-  <div class="defaul-max-wight">
-    <div class="half-circule-positon">
-      <div class="half-circule dark">
-      </div>
-   </div>
-    <div class="content">
-      <div class="content-container ">
-        <div class="box-h1-prepered">
-          <article>
-
-              <h2 class="half-cir">Volný chov</h2>
-
-            <div class="layout-description">
-              <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
-              </p>
-            </div>
-          </article>
-        </div>
-      </div>
-    </div>
-      <div class="slideshow-container">
-      <div class="our-story-pics right">
-       <a href="images/slider_hp_5.jpg" data-lightbox="image-1" data-title="My caption">
-          <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
-       </a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="12" class="content-1-box">
-  <div class="defaul-max-wight">
-      <div class="half-circule-positon light">
-        <div class="half-circule light">
-        </div>
-      </div>
-    <div class="content">
-      <div class="content-container">
-        <div class="box-h1-prepered">
-              <h2 class="half-cir">limousine</h2>
-            <article>
-            <div class="layout-description">
-                <p>
-                 Děda s babičkou pro základ chovu nakonec zvolili plemeno Limousine, které je odolné, má výtečnou zmasilost zadních částí a je vhodné pro volný chov na pastvinách a krmení senem. Dalším důvodem pro volbu byl fakt, že plemeno má bezproblémové porody, které probíhají bez zásahu člověka – 96 % telat se rodí samovolně. Babičce se také moc líbila hnědá barva těchto kraviček a jejich vznešené jméno. Hlavně nechtěla kravky s bílou hlavou, na které byla zvyklá u tehdy běžného masného simentálu.
-                </p>
-            </div>
-          </article>
-        </div>
-      </div>
-    </div >
-    <div class="slideshow-container">
-      <div class="our-story-pics right">
-
-      </div>
-    </div>
-  </div>
-</section>
-<section id="13" class="content-2-box">
-  <div class="defaul-max-wight">
-    <div class="half-circule-positon">
-      <div class="half-circule dark">
-      </div>
-   </div>
-    <div class="content">
-      <div class="content-container ">
-        <div class="box-h1-prepered">
-          <article>
-
-              <h2 class="half-cir">Volný chov</h2>
-
-            <div class="layout-description">
-              <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
-              </p>
-            </div>
-          </article>
-        </div>
-      </div>
-    </div>
-      <div class="slideshow-container">
-      <div class="our-story-pics right">
-       <a href="images/slider_hp_5.jpg" data-lightbox="image-1" data-title="My caption">
-          <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
-       </a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="14" class="content-1-box">
-  <div class="defaul-max-wight">
-      <div class="half-circule-positon light">
-        <div class="half-circule light">
-        </div>
-      </div>
-    <div class="content">
-      <div class="content-container">
-        <div class="box-h1-prepered">
-              <h2 class="half-cir">limousine</h2>
-            <article>
-            <div class="layout-description">
-                <p>
-                 Děda s babičkou pro základ chovu nakonec zvolili plemeno Limousine, které je odolné, má výtečnou zmasilost zadních částí a je vhodné pro volný chov na pastvinách a krmení senem. Dalším důvodem pro volbu byl fakt, že plemeno má bezproblémové porody, které probíhají bez zásahu člověka – 96 % telat se rodí samovolně. Babičce se také moc líbila hnědá barva těchto kraviček a jejich vznešené jméno. Hlavně nechtěla kravky s bílou hlavou, na které byla zvyklá u tehdy běžného masného simentálu.
-                </p>
-            </div>
-          </article>
-        </div>
-      </div>
-    </div >
-    <div class="slideshow-container">
-      <div class="our-story-pics right">
-
-      </div>
-    </div>
-  </div>
-</section>
-<section id="15" class="content-2-box">
-  <div class="defaul-max-wight">
-    <div class="half-circule-positon">
-      <div class="half-circule dark">
-      </div>
-   </div>
-    <div class="content">
-      <div class="content-container ">
-        <div class="box-h1-prepered">
-          <article>
-
-              <h2 class="half-cir">Volný chov</h2>
-
-            <div class="layout-description">
-              <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
-              </p>
-            </div>
-          </article>
-        </div>
-      </div>
-    </div>
-      <div class="slideshow-container">
-      <div class="our-story-pics right">
-       <a href="images/slider_hp_5.jpg" data-lightbox="image-1" data-title="My caption">
-          <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
-       </a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="16" class="content-1-box">
-  <div class="defaul-max-wight">
-      <div class="half-circule-positon light">
-        <div class="half-circule light">
-        </div>
-      </div>
-    <div class="content">
-      <div class="content-container">
-        <div class="box-h1-prepered">
-              <h2 class="half-cir">limousine</h2>
-            <article>
-            <div class="layout-description">
-                <p>
-                 Děda s babičkou pro základ chovu nakonec zvolili plemeno Limousine, které je odolné, má výtečnou zmasilost zadních částí a je vhodné pro volný chov na pastvinách a krmení senem. Dalším důvodem pro volbu byl fakt, že plemeno má bezproblémové porody, které probíhají bez zásahu člověka – 96 % telat se rodí samovolně. Babičce se také moc líbila hnědá barva těchto kraviček a jejich vznešené jméno. Hlavně nechtěla kravky s bílou hlavou, na které byla zvyklá u tehdy běžného masného simentálu.
-                </p>
-            </div>
-          </article>
-        </div>
-      </div>
-    </div >
-    <div class="slideshow-container">
-      <div class="our-story-pics right">
-
-      </div>
-    </div>
-  </div>
-</section>
-<section id="17" class="content-2-box">
-  <div class="defaul-max-wight">
-    <div class="half-circule-positon">
-      <div class="half-circule dark">
-      </div>
-   </div>
-    <div class="content">
-      <div class="content-container ">
-        <div class="box-h1-prepered">
-          <article>
-
-              <h2 class="half-cir">Volný chov</h2>
-
-            <div class="layout-description">
-              <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
-              </p>
-            </div>
-          </article>
-        </div>
-      </div>
-    </div>
-      <div class="slideshow-container">
-      <div class="our-story-pics right">
-       <a href="images/slider_hp_5.jpg" data-lightbox="image-1" data-title="My caption">
-          <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
-       </a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="limousine" class="content-1-box">
-  <div class="defaul-max-wight">
-      <div class="half-circule-positon light">
-        <div class="half-circule light">
-        </div>
-      </div>
-    <div class="content">
-      <div class="content-container">
-        <div class="box-h1-prepered">
-              <h2 class="half-cir">limousine</h2>
-            <article>
-            <div class="layout-description">
-                <p>
-                 Děda s babičkou pro základ chovu nakonec zvolili plemeno Limousine, které je odolné, má výtečnou zmasilost zadních částí a je vhodné pro volný chov na pastvinách a krmení senem. Dalším důvodem pro volbu byl fakt, že plemeno má bezproblémové porody, které probíhají bez zásahu člověka – 96 % telat se rodí samovolně. Babičce se také moc líbila hnědá barva těchto kraviček a jejich vznešené jméno. Hlavně nechtěla kravky s bílou hlavou, na které byla zvyklá u tehdy běžného masného simentálu.
-                </p>
-            </div>
-          </article>
-        </div>
-      </div>
-    </div >
-    <div class="slideshow-container">
-      <div class="our-story-pics right">
-
-      </div>
-    </div>
-  </div>
-</section>
 
 
 <?php

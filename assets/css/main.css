@@ -84,7 +84,9 @@ border-radius: 0%;
 .meat-info-text span{
 	font-size: 0.7rem;
 }
-
+.slideshow-container.meat .our-story-pics img{
+	height: 100%;
+}
 }
 
 
@@ -1277,7 +1279,7 @@ button{
 	}
 }
 /*Shortcut-icon*/
-.shortcut-icon-svg.minutky{
+.minutky{
 	background-image: url("svg/Minutky_color_icon.svg");
 }
 .peceni{
