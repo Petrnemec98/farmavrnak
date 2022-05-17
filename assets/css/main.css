@@ -75,6 +75,7 @@ border-radius: 0%;
 	}
 	.slideshow-container.meat{
 		max-width: 90%;
+			margin-top: 70px;
 	}
 	.meat-info-icon{
 		width: 47.15px;
@@ -84,8 +85,16 @@ border-radius: 0%;
 .meat-info-text span{
 	font-size: 0.7rem;
 }
+
+.meat-info-icon-bar a.cash{
+	display: block;
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 75px;
+}
 .slideshow-container.meat .our-story-pics img{
 	height: 100%;
+
 }
 }
 
