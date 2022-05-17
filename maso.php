@@ -386,13 +386,14 @@
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
-       <a href="assets/css/cow/vrchni-sal.svg" data-lightbox="image-1" data-title="My caption">
-          <img src="assets/css/cow/vrchni-sal.svg" alt="Frama Vrňak - kráva s rohy">
+       <a href="assets/css/cow/spodni-sal.svg" data-lightbox="image-1" data-title="My caption">
+          <img src="assets/css/cow/spodni-sal.svg" alt="Frama Vrňak - kráva s rohy">
        </a>
       </div>
     </div>
   </div>
 </section>
+
 
 
 
