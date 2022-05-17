@@ -394,7 +394,131 @@
   </div>
 </section>
 
+<!--Tabulová špička-->
+<section id="tabulova-spicka" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
 
+              <div class="box-h2-title half-cir">
+              <p class="h1">Tabulová špička</p>
+            </div>
+            
+              <h2 class="half-cir">rump-cap</h2>
+
+            <div class="layout-description">
+              <p>
+                Horní trojúhelníkovitá část spodního šálu, také známá jako tafelspitz nebo picanha, se nechává u spodního šálu, nebo se řeže samostatně jako steakové maso, závitky či minutky.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+        </div>
+        <div class="meat-info-text">
+          <span>Pečení</span>
+        </div>
+      </a>
+      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
+        </div>
+        <div class="meat-info-text">
+          <span>Dušení</span>
+        </div>
+      </a>
+      <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+        </div>
+        <div class="meat-info-text">
+          <span>Minutky</span>
+        </div>
+      </a>
+      <a data-id="tatarak" onclick="onOverlay(this)" class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/tabulova-spicka.svg" data-lightbox="image-1" data-title="My caption">
+          <img src="assets/css/cow/tabulova-spicka.svg" alt="Frama Vrňak - kráva s rohy">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Předkýtí-->
+<section id="predkyti" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Předkýtí</p>
+            </div>
+            
+              <h2 class="half-cir">thick flank</h2>
+
+            <div class="layout-description">
+              <p>
+                Předkýtí (velký ořech) je v některých částech mírně tužší. Dá se rozdělit na tři menší části. Plochý plátek, který obepíná stehenní kost, má jemné maso jako roštěná. Objemný střed ořechu připomíná něco mezi válečkem a falešnou svíčkovou a má rovněž jemná vlákna. Vnější část ořechu je nejvíce namáhaným svalem tohoto šálu a pro svůj větší podíl kolagenu se hodí opravdu jen na pečení a dušení. 
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+        </div>
+        <div class="meat-info-text">
+          <span>Pečení</span>
+        </div>
+      </a>
+        <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
+        </div>
+        <div class="meat-info-text">
+          <span>Dušení</span>
+        </div>
+      </a>
+      <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak">
+        </div>
+        <div class="meat-info-text">
+          <span>tatarák</span>
+        </div>
+      </a>
+      <a data-id="tatarak" onclick="onOverlay(this)" class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/predkyti.svg" data-lightbox="image-1" data-title="My caption">
+          <img src="assets/css/cow/predkyti.svg" alt="Frama Vrňak - kráva s rohy">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
 
 
 
