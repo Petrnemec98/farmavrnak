@@ -7,7 +7,7 @@
       </div>
       <div class="box-h1-prepered">
         <div class="box-h2-title">
-          <h1>Na minutkovou úpravu</h1>
+          <p class="h1">Na minutkovou úpravu</p>
         </div>
           <h2>Hovězí maso</h2>
       </div>

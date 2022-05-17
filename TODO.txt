@@ -1,2 +1,2 @@
 - K všem transition dopsat -moz atd. pro další prohlížeče
-- 
+- Upravit pořadí nadpisů v overlay 

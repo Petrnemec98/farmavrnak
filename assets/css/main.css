@@ -1475,13 +1475,14 @@ g svg.light:hover .svg-text{
 		.overlay-box-content{
     	display: block;
 	}
-	.overlay-close{
+
+	.overlay-box a.overlay-close{
 	display: block;
-	position: relative;
-	left: 14px;
-	top: 14px;
-	width: 30px;
-	height: 30px;
+	position: absolute;
+	left: unset;
+	top: 36px;
+	right: 20px;
+	z-index: 9;
 	}
 	.overlay-box-close{
 		height: 44px;
