@@ -13,7 +13,6 @@ RewriteRule ^admin$ admin/index.php [L]
     ExpiresActive On
     ExpiresDefault A600
     ExpiresByType assets A2678400
-    ExpiresByType php A2678400
 
 
 
