@@ -125,7 +125,7 @@
             </div>
             <div class="porduct-desc-h3 maso-desc">
               <h3><a href="maso">MASO</a></h3>
-              <p>Hovězí maso se nedělí pouze na přední, zadní a svíčkovou. Podívejte se našeho <a href="maso">průvodce hovězím masem </a> a zkuste obohatit svůj jídelníček o něco netradičního.</p>
+              <p>Hovězí maso se nedělí pouze na přední, zadní a svíčkovou. Podívejte se našeho <a href="maso#interaktivni-pruvodce">průvodce hovězím masem</a> a zkuste obohatit svůj jídelníček o něco netradičního.</p>
             </div>  
       </div>
       <div class="product--icon">                                      

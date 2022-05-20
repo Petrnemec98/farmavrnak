@@ -27,31 +27,11 @@
           </article>
         </div>
       </div>
-      <!-- ikony smazat
-      <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green ">
-        </div></a>
-        <a href="#"><div class="bio-icon meat  ">
-        </div></a>
-        <a href="#"><div class="bio-icon cow-icon ">
-        </div></a>
-      </div>
-
-    </div >
-    <div class="slideshow-container">
-      <div class="our-story-1pics">
-        <a href="images/slider_hp_3.jpg" data-lightbox="image-1" data-title="Foto">
-          <img src="images/slider_hp_3.webp" alt="Frama Vrňak - kráva s rohy">
-        </a>
-      </div>
-    </div>
-  -->
-
   </section>
 </section>
 
 
-<section class="content-2-box">
+<section id="interaktivni-pruvodce" class="content-2-box">
   <!--Shortcut-->
   <div class="defaul-max-wight">
     <div class="half-circule-positon">

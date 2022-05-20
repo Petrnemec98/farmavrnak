@@ -7,9 +7,9 @@
       </div>
       <div class="box-h1-prepered">
         <div class="box-h2-title">
-          <p class="h1">Na minutkovou úpravu</p>
+          <h2 class="h1">Na minutkovou úpravu</h2>
         </div>
-          <h2>Hovězí maso</h2>
+          <p class="h2">Hovězí maso</p>
       </div>
       <div class="overlay-box-content">
         <article>
@@ -71,9 +71,9 @@
       </div>
       <div class="box-h1-prepered">
         <div class="box-h2-title">
-          <h1>Na pečení</h1>
+          <h2 class="h1">Na pečení</h2>
         </div>
-          <h2>Hovězí maso</h2>
+          <p class="h2">Hovězí maso</p>
       </div>
       <div class="overlay-box-content">
         <article>
@@ -138,9 +138,9 @@
       </div>
       <div class="box-h1-prepered">
         <div class="box-h2-title">
-          <h1>Na dušení</h1>
+          <h2 class="h1">Na dušení</h2>
         </div>
-          <h2>Hovězí maso</h2>
+          <p class="h2">Hovězí maso</p>
       </div>
       <div class="overlay-box-content">
         <article>
@@ -213,9 +213,9 @@
       </div>
       <div class="box-h1-prepered">
         <div class="box-h2-title">
-          <h1>Na dušení</h1>
+          <h2 class="h1">Mletí</h2>
         </div>
-          <h2>Hovězí maso</h2>
+          <p class="h2">Hovězí maso</p>
       </div>
       <div class="overlay-box-content">
         <article>
@@ -254,9 +254,9 @@
       </div>
       <div class="box-h1-prepered">
         <div class="box-h2-title">
-          <h1>Na Tatarák</h1>
+          <h2 class="h1">Na Tatarák</h2>
         </div>
-          <h2>Hovězí maso</h2>
+          <p class="h2">Hovězí maso</p>
         
       </div>
       <div class="overlay-box-content">

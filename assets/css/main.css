@@ -237,7 +237,7 @@ border-radius: 0%;
 .half-circule-positon{
 	max-width: 1680px;
 	width: 100%;
-	height: 200px;
+	height: 100px;
 	position: absolute;
 }
 
@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, p, a, span{
 }
 
 /*Specifické fonty*/
-h2{
+h2, .h2{
 	font-weight: 400;
 	font-size: 6.25rem;
 	color: #D9B596;
@@ -297,6 +297,15 @@ h2{
 	opacity: 30%;
 	margin-block-start: 0.83em;
    margin-block-end: 0em;
+}
+p.h2{
+	margin-block-start: 0em;
+	opacity: 30%
+}
+
+h2.h1{
+	opacity: 100%;
+	margin-block-start: 0.5em;
 }
 h1, .h1{
 	font-size: 3.625rem;
@@ -363,7 +372,7 @@ p a{
 }
 @media only screen and (max-width: 1088px) {
 
-	h2{
+	h2, .h2{
 		font-size: 3.75rem;
 		line-height: 4.5rem;
 		margin-block-start: 0em;
@@ -379,10 +388,13 @@ p a{
 	.box-h2-title.half-cir{
 		padding-top: 60px;
 	}
+		h2.h1{
+		margin-block-start: 0.2em;
+	}
 }
 @media only screen and (max-width: 881px) {
 
-	h2{
+	h2, .h2{
 		font-size: 2.5rem;
 	}
 	h1, .h1{
@@ -1055,6 +1067,8 @@ p a{
   position: fixed;
   bottom: 20px;
   right: 30px;
+  width: 48px;
+  height: 48px;
   z-index: 6;
   border: none;
   outline: none;
@@ -1128,6 +1142,10 @@ button{
 	}
 	.galery-bar-photo a{
 	height: 200px;
+	}
+	#TopScrollBtn{
+		width: 38px;
+		height: 38px;
 	}
 }
 @media only screen and (max-width: 881px) {
@@ -1310,7 +1328,6 @@ button{
 	padding-top: 100px;
 	width: 90%;
 	margin: auto;
-	padding-left: 70px;
 }
 .cow-svg{
 	height: 100%;
@@ -1408,8 +1425,7 @@ g svg.light:hover .svg-text{
 	margin-left: 120px;
 }
 .overlay-box h2{
-	    margin-block-start: 0em;
-	    color: #D9B596;
+	    color: #333333;
 }
 .overlay-box article{
 	margin-top: 20px;
@@ -1441,7 +1457,7 @@ g svg.light:hover .svg-text{
   	width: 100%;
   	transition: visibility 0s, opacity 0.5s linear;
   	height: 100%;
-	background-color: rgba(247,240,235,0.7); /* Black background with opacity */
+	background-color: #333333bf; /* Black background with opacity */
  	z-index: 6; /* Specify a stack order in case you're using a different order for other elements */
   	cursor: pointer; /* Add a pointer on hover */
 }
@@ -1476,6 +1492,7 @@ g svg.light:hover .svg-text{
 		margin-top: 0px;
 		height: 100vh;
 	}
+
 
 	.overlay-box article{
 		margin-top: 0px;
