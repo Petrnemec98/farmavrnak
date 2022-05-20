@@ -8,3 +8,13 @@ RewriteRule ^nas-pribeh$ nas-pribeh.php [L]
 RewriteRule ^kontakty$ kontakty.php [L]
 RewriteRule ^admin$ admin/index.php [L]
 
+
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault A600
+    ExpiresByType assets A2678400
+    ExpiresByType php A2678400
+</IfModule>
+
+
