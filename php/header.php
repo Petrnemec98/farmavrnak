@@ -135,14 +135,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
 
 <body>
-<!--SEONO
-	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?theme=minimal&tracking=1&thirdparty=1&always=1&scrolling=1&remember=100&privacyPage=https%3A%2F%2Fwww.farmavrnak.cz"></script>
--->
-<!-- Google Tag Manager (noscript) -->
 
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?theme=minimal&tracking=1&thirdparty=1&always=1&scrolling=1&remember=100&privacyPage=https%3A%2F%2Fwww.farmavrnak.cz"></script>
+
+<!-- Google Tag Manager (noscript) -->
+<!--SEONO
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZNPGTK"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
+-->
 <!-- End Google Tag Manager (noscript) -->
 
 <!--Button up-->
