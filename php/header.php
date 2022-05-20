@@ -134,7 +134,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </head>
 
-<body> 
+<body>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?tracking=1&thirdparty=1&always=1&scrolling=1&privacyPage=farmavrnak.cz"></script>
 <!-- Google Tag Manager (noscript) -->
 <!--SEONO
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZNPGTK"
