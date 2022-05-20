@@ -13,7 +13,7 @@
             <div class="box-h2-title">
               <h1>Maso</h1>
             </div>
-              <h2>Naše maso</h2>
+              <h2>André smrdí</h2>
             <article class="maso-layout">
             <div class="layout-description">
                 <p>

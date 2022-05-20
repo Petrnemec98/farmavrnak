@@ -1,2 +1,6 @@
 - K všem transition dopsat -moz atd. pro další prohlížeče
 - Upravit pořadí nadpisů v overlay 
+- Upravit ikonu ceny, tak aby na desktopu byla pod sebou
+- Opravit Oponku
+- Smazat pedding u krávy 70px
+- Předěla arrow a zvětšit na desktopu
