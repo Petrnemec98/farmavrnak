@@ -30,6 +30,14 @@
 <html lang="cs">
 <head>
 
+<!-- cache ?v=1-->
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault A600
+    ExpiresByType assets A2678400
+    ExpiresByType php A2678400
+</IfModule>
 
 
 <!-- Google Tag Manager -->
