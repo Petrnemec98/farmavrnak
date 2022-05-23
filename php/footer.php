@@ -1,5 +1,13 @@
-<section class="galery-bar">
-	<div class="galery-bar-positon">
+<section  class="galery-bar">
+	<div class="slide-area-right">
+		<button onclick="rightFunction()" class="slide-button" id="slideright" type="button"></button>
+	</div>
+
+	<div class="slide-area-left">
+		<button onclick="rightFunction()" class="slide-button" id="slideleft" type="button"></button>
+	</div>
+
+	<div id="slide-bar" class="galery-bar-positon">
 		<div class="galery-bar-photo">
 			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_2.webp"></a>
 			<div class="galery-bar-instagram"></div>

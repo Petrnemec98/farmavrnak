@@ -66,7 +66,18 @@ function offOverlay(element){
 	  document.getElementById(element.getAttribute("data-id")).style.display = "none";
 }
 
-//
+//left right scrool
+  var button = document.getElementById('slideright');
+        button.onclick = function () {
+            document.getElementById('slide-bar').scrollLeft += 500;
+        };
+
+        var back = document.getElementById('slideleft');
+        back.onclick = function () {
+            document.getElementById('slide-bar').scrollLeft -= 500;
+        };
+
+
 // Select all links with hashes
 $('a[href*="#"]')
   // Remove links that don't actually link to anything
