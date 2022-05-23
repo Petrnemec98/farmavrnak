@@ -33,8 +33,9 @@ address{
 	position: absolute;
 	z-index: 9;
 	border: none;
-	    top: 50%;
-    transform: translateY(-50%);
+	top: 50%;
+   transform: translateY(-50%);
+   opacity: 80%;
 }
 
 #slideright{
@@ -44,6 +45,7 @@ address{
 }
 
 #slideright:hover{
+	opacity: 100%;
 	-moz-transform: scale(1.1) rotate(90deg);
 	-webkit-transform: scale(1.1) rotate(90deg);
 	-o-transform: scale(1.1) rotate(90deg);
@@ -58,6 +60,7 @@ address{
 }
 
 #slideleft:hover{
+	opacity: 100%;
 	-moz-transform: scale(1.1) rotate(270deg);
 	-webkit-transform: scale(1.1) rotate(270deg);
 	-o-transform: scale(1.1) rotate(270deg);
@@ -647,42 +650,55 @@ p a{
 	  position: absolute;
 	  top: 50%;
 	  padding-top: 10px;
-	  color: white;
-	  font-weight: bold;
-	  font-size: 18px;
-	  transition: 0.6s ease;
-	  border-radius: 50%;
-	  user-select: none;
-	  width: 40px;
+	  background-image: url("svg/Arrow.svg");
+	  background-repeat: no-repeat;
 	  height: 40px;
-	  background-color: #F2A679;
+	  width: 40px;
 	  opacity: 60%;
 	  text-align: center;
-
+	  transition: 0.3s ease;
 	}
 
 	/* Position the "next button" to the right */
 	.next {
 	  right: 0;
 	  margin-right: -30px;
-
+	  transform: rotate(90deg);
 	}
 
 	.prev{
 		margin-left: -50px;
+		transform: rotate(270deg);
 	}
 
 	/* On hover, add a grey background color */
-	.prev:hover, .next:hover {
+	.next:hover {
 	  opacity: 100%;
+	 -moz-transform: scale(1.1) rotate(90deg);
+	-webkit-transform: scale(1.1) rotate(90deg);
+	-o-transform: scale(1.1) rotate(90deg);
+	-ms-transform: scale(1.1) rotate(90deg);
+	transform: scale(1.1) rotate(90deg);
+
+	}
+	.prev:hover{
+		  opacity: 100%;
+	-moz-transform: scale(1.1) rotate(270deg);
+	-webkit-transform: scale(1.1) rotate(270deg);
+	-o-transform: scale(1.1) rotate(270deg);
+	-ms-transform: scale(1.1) rotate(270deg);
+	transform: scale(1.1) rotate(270deg);
 
 	}
 
 	@media only screen and (max-width: 1280px) {
-
+		.prev, .next{
+			height: 35px;
+	  		width: 35px;
+		}
 		.next {
 		  right: 0;
-		  margin-right: 25px;
+		  margin-right: 5px;
 
 		}
 
@@ -693,6 +709,10 @@ p a{
 	}
 
 	@media only screen and (max-width: 1088px) {
+		.prev, .next{
+			height: 30px;
+	  		width: 30px;
+		}
 		.mySlides1{
 		    width: 265px;
 		    height: 265px;

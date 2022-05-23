@@ -67,8 +67,10 @@ function offOverlay(element){
 }
 
 //left right scrool
-  var button = document.getElementById('slideright');
-        button.onclick = function () {
+
+
+        var rightFunction = document.getElementById('slideright');
+        rightFunction.onclick = function () {
             document.getElementById('slide-bar').scrollLeft += 500;
         };
 
