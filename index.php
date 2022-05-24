@@ -128,17 +128,19 @@
               <p>Hovězí maso se nedělí pouze na přední, zadní a svíčkovou. Podívejte se našeho <a href="maso#interaktivni-pruvodce">průvodce hovězím masem</a> a zkuste obohatit svůj jídelníček o něco netradičního.</p>
             </div>  
       </div>
-      <div class="product--icon">                                      
+      <div class="product--icon"> 
+        <a href="med">                                     
         <div class="icon icon--hover med">
           <div class="med-icon"></div>
         </div>
+      </a>
         <div class="icon-med-backgroun">
           <svg fill="none" viewBox="0 0 150 150">
             <circle cx="74.759" cy="74.759" r="74.438" fill="#F2A679" fill-opacity=".15"/>
           </svg>
         </div>   
         <div class="porduct-desc-h3">
-          <h3>MED</h3>
+          <h3><a href="med">MED</a></h3>
           <p>Jedním z našich dlouholetých snů, jehož splněním jsme navázali na tradici našeho pradědečka, bylo chovat včely.<a href="med"> Podívejte se na naši cestu za získáváním vlastního medu.</a></p>
         </div>     
       </div>    
