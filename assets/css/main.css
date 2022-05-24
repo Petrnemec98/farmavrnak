@@ -7,6 +7,47 @@ address{
 	visibility: hidden;
 }
 
+.sber-medu{
+	background-image: url("svg/sber-medu.svg");
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+}
+.ul-icon{
+	background-image: url("svg/ul.svg");
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+}
+.plastve{
+	background-image: url("svg/plastve.svg");
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+}
+
+.vytaceni-medu{
+	background-image: url("svg/vytaceni-medu.svg");
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+}
+
+.slevani-medu{
+	background-image: url("svg/slevani-medu.svg");
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+}
+
+.sklenice-medu{
+	background-image: url("svg/sklenice-medu.svg");
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+}
+
+/*slide bar*/
 #slide-bar{
 	scroll-behavior: smooth;
 }
@@ -698,7 +739,7 @@ p a{
 		}
 		.next {
 		  right: 0;
-		  margin-right: 5px;
+		  margin-right: 25px;
 
 		}
 

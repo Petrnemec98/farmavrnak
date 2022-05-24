@@ -1097,6 +1097,699 @@
   </div>
 </section>
 
+<!--Podplečí-->
+<section id="podpleci" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Podplečí</p>
+            </div>
+            
+              <h2 class="half-cir">karb</h2>
+
+            <div class="layout-description">
+              <p>
+               Podplečí bez kosti neboli péro je přechodem mezi krkem a vysokým roštěncem. Ve srovnání s krkem je ale méně šlachovité a oproti vysokému roštěnci zase více libové. Kromě dušení a vaření se hodí také na pečení (i vcelku po marinování) a při dostatečném mramorování též na gril. Pokud mramorování nedostačuje, lze jej pokrájet na guláš.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+      <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+        </div>
+        <div class="meat-info-text">
+          <span>Pečení</span>
+        </div>
+      </a>
+      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
+        </div>
+        <div class="meat-info-text">
+          <span>Dušení</span>
+        </div>
+      </a>
+      <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti">
+        </div>
+        <div class="meat-info-text">
+          <span>Mletí</span>
+        </div>
+      </a>
+      <a class="cash"><div class="meat-info-icon cash-1">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/podpleci.svg" data-lightbox="podpleci" data-title="Podplečí">
+          <img src="assets/css/cow/podpleci.svg" alt="Podplečí">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Krk-->
+<section id="krk" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Krk</p>
+            </div>
+            
+              <h2 class="half-cir">chuck roll</h2>
+
+            <div class="layout-description">
+              <p>
+                Špička krku a krk bez kosti má uplatnění v kuchyni jako maso lehce prorostlé tukem s hrubšími svalovými vlákny a vysokým podílem vaziva, proto je určeno především na dušení a vaření. Prorostlejší klihovaté části se při pomalé úpravě rozpustí, maso se rozpadá na jazyku a šťáva má silnou chuť. Očištěná svalovina krku se též výborně hodí na mletí. Z krku se připravují ty nejlepší burgery. Francouzi ho používají na své proslulé hovězí po burgundsku.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+        </div>
+        <div class="meat-info-text">
+          <span>Pečení</span>
+        </div>
+      </a>
+        <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
+        </div>
+        <div class="meat-info-text">
+          <span>Dušení</span>
+        </div>
+      </a>
+      <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti">
+        </div>
+        <div class="meat-info-text">
+          <span>Mletí</span>
+        </div>
+      </a>
+      <a class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/krk.svg" data-lightbox="Krk" data-title="krk">
+          <img src="assets/css/cow/krk.svg" alt="krk">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--podkrci-->
+<section id="podkrci" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+            
+            </div>
+            
+              <h2 class="half-cir">Podkrčí</h2>
+
+            <div class="layout-description">
+              <p>
+               Podkrčí je namáhaná svalovina s hrubým vláknem a vysokým podílem vaziva. Vhodné je do mletých masových směsí, do gulášů, k dušení nebo i vaření vcelku. Používá se k výrobě uzenin.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+      <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+        </div>
+        <div class="meat-info-text">
+          <span>Pečení</span>
+        </div>
+      </a>
+      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
+        </div>
+        <div class="meat-info-text">
+          <span>Dušení</span>
+        </div>
+      </a>
+      <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti">
+        </div>
+        <div class="meat-info-text">
+          <span>Mletí</span>
+        </div>
+      </a>
+      <a class="cash"><div class="meat-info-icon cash-1">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/podkrci.svg" data-lightbox="podkrci" data-title="Podkrčí">
+          <img src="assets/css/cow/podkrci.svg" alt="Podkrčí">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Bok bez kosti-->
+<section id="bok-bez-kosti" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Bok bez kosti</p>
+            </div>
+            
+              <h2 class="half-cir">flank</h2>
+
+            <div class="layout-description">
+              <p>
+                Bok bez kosti neboli pupek je v našich podmínkách typickým masem na vaření nebo dušení. Pupek je břišní stěna s plochými svaly obsahující elastické vazivo a bohaté vnitřní tukové krytí. Má charakter předního hovězího masa. Dělí se na tři steakové části:<a href="#zrcatko"> flank steak (zrcátko) </a>,<a href="#bryndacek"> flap meat (bryndáček)</a> a <a href="#vnitrni-oponka"> inside skirt steak (vnitřní oponka)</a>, což jsou specifická steaková masa mírně hrubším svalovým vláknem a jemnou chutí a vůní. Ostatní části jsou tužší a nazývají se jen pupek
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+        </div>
+        <div class="meat-info-text">
+          <span>Pečení</span>
+        </div>
+      </a>
+        <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
+        </div>
+        <div class="meat-info-text">
+          <span>Dušení</span>
+        </div>
+      </a>
+      <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti">
+        </div>
+        <div class="meat-info-text">
+          <span>Mletí</span>
+        </div>
+      </a>
+      <a class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/bok-bez-kosti.svg" data-lightbox="bok-bez-kosti" data-title="bok-bez-kosti">
+          <img src="assets/css/cow/bok-bez-kosti.svg" alt="bok-bez-kosti">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Zrcátko-->
+<section id="zrcatko" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Zrcátko</p>
+            </div>
+            
+              <h2 class="half-cir">flank steak</h2>
+
+            <div class="layout-description">
+              <p>
+               Zrcátko se nachází ve spodní části hovězího pupku. Jedná se o široký kus plochého svalu s vynikající chutí. Svůj název získalo od svého kulatého tvaru a lesklého povrchu připomínajícího zrcátko. Má velmi silná vlákna, proto se upravuje v jednom kuse a po odpočinutí se krájí na slabé plátky přes vlákna.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+      <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+        </div>
+        <div class="meat-info-text">
+          <span>Minutky</span>
+        </div>
+      </a>
+      <a class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/zrcatko.svg" data-lightbox="zrcatko" data-title="zrcatko">
+          <img src="assets/css/cow/zrcatko.svg" alt="zrcátko">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Bryndáček-->
+<section id="bryndacek" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Bryndáček</p>
+            </div>
+            
+              <h2 class="half-cir">flap steak</h2>
+
+            <div class="layout-description">
+              <p>
+               Bryndáček je prostřední část pupku, začíná u palce svíčkové. Je to krásný kus masa, který připomíná dětský bryndáček. Má výrazně silná vlákna a šťavnatou chuť. Hodí se na přípravu steaků, které po odpočinutí krájíme na tenká vlákna.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+        <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+        </div>
+        <div class="meat-info-text">
+          <span>Minutky</span>
+        </div>
+      </a>
+      <a class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/bryndacek.svg" data-lightbox="bryndacek" data-title="bryndacek">
+          <img src="assets/css/cow/bryndacek.svg" alt="bryndáček">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Vnitřní oponka-->
+<section id="vnitrni-oponka" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Vnitřní oponka</p>
+            </div>
+            
+              <h2 class="half-cir">inside skirt steak</h2>
+
+            <div class="layout-description">
+              <p>
+              Oproti <a href="#oponka"> vnější oponce</a> je vnitřní oponka o něco tužší a širší.  Vlákna jsou výrazně hrubá, hodí se na přípravu steaků, které po odpočinutí krájíme na tenká vlákna.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+      <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+        </div>
+        <div class="meat-info-text">
+          <span>Minutky</span>
+        </div>
+      </a>
+      <a class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/vnitrni-oponka.svg" data-lightbox="vnitrni-oponka" data-title="vnitrni-oponka">
+          <img src="assets/css/cow/vnitrni-oponka.svg" alt="vnitrni-oponka">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Kližka-->
+<section id="klizka" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Kližka</p>
+            </div>
+            
+              <h2 class="half-cir">shank</h2>
+
+            <div class="layout-description">
+              <p>
+               Zadní kližka (hindshank) je možná nejtypičtějším masem na guláš, ale také na pozvolné a dlouhé pečení. Jedná se o značně namáhané svalstvo nohou skotu, a proto je velmi šlachovité. Zadní kližka je více libová a méně dělivá než kližka přední. Řádně odleželé maso kližky je zdrojem nejen chutného a měkkého masa, ale i velkého množství dokonale voňavé hnědé šťávy, kterou kližka při dušení pouští. S čerstvou kližkou toho nedocílíme. Pokud zadní kližku ponecháme na holenní kosti a nařežeme na plátky kolmo na kost, získáme tak základ delikatesy Osso Buco.
+             </p>
+             <p>
+                Přední kližka (foreshank) má velmi podobnou charakteristiku jako kližka zadní. Jediným rozdílem je, že přední kližka má více kolagenu a nedá se z ní připravit Osso Buco.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+        </div>
+        <div class="meat-info-text">
+          <span>Pečení</span>
+        </div>
+      </a>
+      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
+        </div>
+        <div class="meat-info-text">
+          <span>Dušení</span>
+        </div>
+      </a>
+      <a class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/zadni-klizka.svg" data-lightbox="zadni-klizka" data-title="zadni-klizka">
+          <img src="assets/css/cow/zadni-klizka.svg" alt="Zadní kližka">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Karabáček-->
+<section id="karabacek" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Karabáček</p>
+            </div>
+            
+              <h2 class="half-cir">heel of round</h2>
+
+            <div class="layout-description">
+              <p>
+              Karabáček je libovým zástupcem kližek, je umístěn mezi zadním masem (spodním šálem kýty) a kližkou. Skladbou připomíná maso z plece a má i podobné využití.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+      <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+        </div>
+        <div class="meat-info-text">
+          <span>Pečení</span>
+        </div>
+      </a>
+      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
+        </div>
+        <div class="meat-info-text">
+          <span>Dušení</span>
+        </div>
+      </a>
+      <a class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/karabacek.svg" data-lightbox="karabacek" data-title="karabáček">
+          <img src="assets/css/cow/karabacek.svg" alt="karabáček">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Husička-->
+<section id="husicka" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+             
+            </div>
+            
+              <h2 class="half-cir">Husička</h2>
+
+            <div class="layout-description">
+              <p>
+              Husička je libová část přední kližky, obdoba zadního karabáčku. Je to malý podlouhlý sval uložený na přední pleci pod vrstvou kližky (musí se z ní vyloupnout). Připomíná falešnou svíčkovou nebo ještě více vepřovou panenku. Je to velice malý sval s jemnými vlákny a hmotností nižší než 0,5 kg. Hodí se na přípravu minutek (po vyzrání), carpaccia a tataráku.
+             </p>
+             
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+        <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+        </div>
+        <div class="meat-info-text">
+          <span>Minutky</span>
+        </div>
+      </a>
+      <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak">
+        </div>
+        <div class="meat-info-text">
+          <span>Tatarák</span>
+        </div>
+      </a>
+      <a class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/husicka.svg" data-lightbox="husicka" data-title="Husička">
+          <img src="assets/css/cow/husicka.svg" alt="Husička">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Plátek lopatkový-->
+<section id="plecovy-platek" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              
+            </div>
+            
+              <h2 class="half-cir">Plátek lopatkový</h2>
+
+            <div class="layout-description">
+              <p>
+              Plátek lopatkový neboli plecový plátek je sval sejmutý z vrchní plochy lopatky při kostění plece. Má podobný charakter jako <a href="#loupana-plec"> loupaná plec</a> (vyšší podíl vazivových tkání) a rovněž podobné využití (marinování a pošírování).
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+      <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+        </div>
+        <div class="meat-info-text">
+          <span>Pečení</span>
+        </div>
+      </a>
+      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
+        </div>
+        <div class="meat-info-text">
+          <span>Dušení</span>
+        </div>
+      </a>
+      <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti">
+        </div>
+        <div class="meat-info-text">
+          <span>Mletí</span>
+        </div>
+      </a>
+      <a class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/plecovy-platek.svg" data-lightbox="platek-lopatkovy" data-title="Plátek lopatkový">
+          <img src="assets/css/cow/plecovy-platek.svg" alt="Plátek lopatkový">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Pavouček-->
+<section id="pavoucek" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Pavouček</p>
+            </div>
+            
+              <h2 class="half-cir">spider steak</h2>
+
+            <div class="layout-description">
+              <p>
+                Pavouček je jedinečný plátek masa z pánevní jamky, je velmi chutný a především šťavnatý, čímž se odlišuje od ostatních částí kýty. Jméno získal díky svému mramorování, které připomíná pavoučí síť. Hodí se především na minutkovou úpravu. Je to velmi malý sval s hmotností nižší než 0,5 kg.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="meat-info-icon-bar">
+        <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+        </div>
+        <div class="meat-info-text">
+          <span>Minutky</span>
+        </div>
+      </a>
+      <a class="cash"><div class="meat-info-icon cash-2">
+        </div>
+        <div class="meat-info-text">
+          <span>cena</span>
+        </div>
+      </a>
+      </div>
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/pavoucek.svg" data-lightbox="pavoucek" data-title="Pavouček">
+          <img src="assets/css/cow/pavoucek.svg" alt="Pavouček">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
 
 
 <?php

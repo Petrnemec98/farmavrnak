@@ -98,19 +98,25 @@
           <a href="#kulata-plec" data-id="peceni" onclick="offOverlay(this)">
             <span>Kulatá plec</span>
           </a>
-        </article>
-        <article>
           <a href="#podpleci" data-id="peceni" onclick="offOverlay(this)">
             <span>Podplečí</span>
           </a>
+        </article>
+        <article>
           <a href="#krk" data-id="peceni" onclick="offOverlay(this)">
             <span>Krk</span>
           </a>
-          <a href="#krabacek" data-id="peceni" onclick="offOverlay(this)">
+          <a href="#podkrci" data-id="peceni" onclick="offOverlay(this)">
+            <span>Podkrčí</span>
+          </a>
+          <a href="#karabacek" data-id="peceni" onclick="offOverlay(this)">
             <span>Karabáček</span>
           </a>
           <a href="#nizky-rostenec" data-id="peceni" onclick="offOverlay(this)">
             <span>Nízký roštěnec</span>
+          </a>
+          <a href="#plecovy-platek" data-id="peceni" onclick="offOverlay(this)">
+            <span>Plátek lopatkový</span>
           </a>
           <a href="#bok-s-kosti" data-id="peceni" onclick="offOverlay(this)">
             <span>Bok s kostí</span>
@@ -177,16 +183,16 @@
           <a href="#krk" data-id="duseni" onclick="offOverlay(this)">
             <span>Krk</span>
           </a>
-          <a href="#zadni-klizka" data-id="duseni" onclick="offOverlay(this)">
+          <a href="#klizka" data-id="duseni" onclick="offOverlay(this)">
             <span>Zadní kližka</span>
           </a>
-          <a href="#krabacek" data-id="duseni" onclick="offOverlay(this)">
+          <a href="#karabacek" data-id="duseni" onclick="offOverlay(this)">
             <span>Karabáček</span>
           </a>
-          <a href="#predni-klizka" data-id="duseni" onclick="offOverlay(this)">
+          <a href="#klizka" data-id="duseni" onclick="offOverlay(this)">
             <span>Přední kližka</span>
           </a>
-           <a href="#platek-lopatkovy" data-id="duseni" onclick="offOverlay(this)">
+           <a href="#plecovy-platek" data-id="duseni" onclick="offOverlay(this)">
             <span>Plátek Lopatkový</span>
           </a>
            <a href="#licka" data-id="duseni" onclick="offOverlay(this)">
@@ -234,7 +240,7 @@
           <a href="#hrudi" data-id="mleti" onclick="offOverlay(this)">
             <span>Hrudí</span>
           </a>
-          <a href="#platek-lopatkovy" data-id="mleti" onclick="offOverlay(this)">
+          <a href="#plecovy-platek" data-id="mleti" onclick="offOverlay(this)">
             <span>Plátek lopatkový</span>
           </a>
         </article>
