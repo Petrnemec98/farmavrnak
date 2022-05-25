@@ -32,7 +32,7 @@
 
 <!-- cache ?v=1-->
 
-<IfModule mod_expires.c>
+<IfModule class="ifmodule"mod_expires.c>
     ExpiresActive On
     ExpiresDefault A600
     ExpiresByType assets A2678400
@@ -101,8 +101,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<link rel="stylesheet" href="assets/css/menu.css" />
 	<link rel="stylesheet" href="assets/css/lightbox.css" />
-
-
 	<!--Scripty-->
 	
 

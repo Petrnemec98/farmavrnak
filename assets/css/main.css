@@ -7,6 +7,10 @@ address{
 	visibility: hidden;
 }
 
+.ifmodule{
+	visibility: hidden;
+}
+
 .sber-medu{
 	background-image: url("svg/sber-medu.svg");
 	background-repeat: no-repeat;
