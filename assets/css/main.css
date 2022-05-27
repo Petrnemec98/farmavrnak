@@ -253,9 +253,13 @@ address{
 }
 
 
+
 .maso-layout .layout-description{
 	padding-left:  0px;
 	width: 100%;
+	padding-left: 102px;
+	padding-right: 60px;
+	margin: unset;
 }
 .maso-layout-other p{
 	color: white;
@@ -323,6 +327,11 @@ address{
 		width:76.23px;
 		height:61.54px ;
 	}
+
+	.maso-layout .layout-description{
+	padding-left: 60px;
+	padding-right: 20px;
+	}
 }
 @media only screen and (max-width: 1088px) {
 	.meat-navigation-icon{
@@ -339,6 +348,10 @@ address{
 	}
 }
 @media only screen and (max-width: 881px) {
+	.maso-layout .layout-description{
+	padding-left: 0px;
+	padding-right: 0px;
+	}
 	.meat-navigation-box{
 		width: 80%;
 	}
