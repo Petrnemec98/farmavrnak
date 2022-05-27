@@ -30,7 +30,6 @@
   </section>
 </section>
 
-
 <section id="interaktivni-pruvodce" class="content-2-box">
   <!--Shortcut-->
   <div class="defaul-max-wight">
@@ -161,8 +160,6 @@
   </div>
 </section>
 
-
-
 <!--Dark-box-->
 <section class="content-2-box dark">
   <div class="defaul-max-wight">
@@ -201,13 +198,10 @@
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-
-              <div class="box-h2-title half-cir">
+            <div class="box-h2-title half-cir">
               <p class="h1">Vrchní šál</p>
             </div>
-            
               <h2 class="half-cir">top round</h2>
-
             <div class="layout-description">
               <p>
                 Vrchní šál je možná jedno z nejkrásnějších mas napohled. Jedná se o velký špalek masa připomínající kulatý pecen chleba výrazné vůně hovězího masa a syté barvy. Má velmi široké použití, od tatarského bifteku přes masové špalky až po různé typy plátků. Od vrchního šálu je možné oddělit plátek, který je určený pouze na dušení a pečení.
@@ -216,6 +210,7 @@
           </article>
         </div>
       </div>
+      <!--ikony-->
       <div class="icon-info-bar">
         <div class="meat-info-icon-bar">
 
@@ -269,16 +264,16 @@
           </a>
         </div>
       </div>
-
-    </div>
-      <div class="slideshow-container meat">
-      <div class="our-story-pics right">
-       <a href="assets/css/cow/vrchni-sal.svg" data-lightbox="vrchni-sal" data-title="Vrchní šál">
-          <img src="assets/css/cow/vrchni-sal.svg" alt="Vrchní šál">
-       </a>
+      <!--Schéma krávy-->
       </div>
-    </div>
-  </div>
+      <div class="slideshow-container meat">
+        <div class="our-story-pics right">
+        <a href="assets/css/cow/vrchni-sal.svg" data-lightbox="vrchni-sal" data-title="Vrchní šál">
+          <img src="assets/css/cow/vrchni-sal.svg" alt="Vrchní šál">
+        </a>
+        </div>
+      </div>
+      </div>
 </section>
 
 <!--Hruška-->
@@ -537,33 +532,50 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+      <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+            <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak"></div>
+              <div class="meat-info-text">
+                <span>tatarák</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-        <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak">
-        </div>
-        <div class="meat-info-text">
-          <span>tatarák</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
-      </div>
+
     </div>
+  </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
        <a href="assets/css/cow/predkyti.svg" data-lightbox="predkyti" data-title="Předkýtí">
@@ -600,33 +612,50 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+      <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+            <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak"></div>
+              <div class="meat-info-text">
+                <span>tatarák</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
-        </div>
-        <div class="meat-info-text">
-          <span>Minutky</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
-      </div>
+
     </div>
+  </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
        <a href="assets/css/cow/holubicka.svg" data-lightbox="holubicka" data-title="Holubička">
@@ -663,39 +692,56 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+      <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+            <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak"></div>
+              <div class="meat-info-text">
+                <span>tatarák</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-3"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
-        </div>
-        <div class="meat-info-text">
-          <span>minutky</span>
-        </div>
-      </a>
-      <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak">
-        </div>
-        <div class="meat-info-text">
-          <span>tatarák</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-3">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
-      </div>
+
     </div>
+  </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
        <a href="assets/css/cow/kvetova-spicka.svg" data-lightbox="kvetova-spicka" data-title="Květová špička">
@@ -732,31 +778,48 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+      <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+            <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak"></div>
+              <div class="meat-info-text">
+                <span>tatarák</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak">
-        </div>
-        <div class="meat-info-text">
-          <span>Tatarák</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
     </div>
       <div class="slideshow-container meat">
@@ -795,28 +858,44 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+      <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
-      </div>
+
     </div>
+  </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
        <a href="assets/css/cow/velka-plec.svg" data-lightbox="velka-plec" data-title="Velká plec">
@@ -853,39 +932,56 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+      <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+            <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak"></div>
+              <div class="meat-info-text">
+                <span>tatarák</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
-        </div>
-        <div class="meat-info-text">
-          <span>Minutky</span>
-        </div>
-      </a>
-      <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak">
-        </div>
-        <div class="meat-info-text">
-          <span>Tatarák</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
-      </div>
+
     </div>
+  </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
        <a href="assets/css/cow/loupana-plec.svg" data-lightbox="loupana-plec" data-title="Loupaná plec">
@@ -922,34 +1018,50 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+      <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-       <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
-        </div>
-        <div class="meat-info-text">
-          <span>Minutky</span>
-        </div>
-      </a>
-      
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
-      </div>
+
     </div>
+  </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
        <a href="assets/css/cow/kulata-plec.svg" data-lightbox="kulata-plec" data-title="Kulatá plec">
@@ -986,27 +1098,44 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-      <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+
+      <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>
+
+            <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak"></div>
+              <div class="meat-info-text">
+                <span>tatarák</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Minutky</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-3"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+          </div>
         </div>
-      </a>
-      <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak">
-        </div>
-        <div class="meat-info-text">
-          <span>Tatarák</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-3">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
-    </div>
+
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
        <a href="assets/css/cow/svickova.svg" data-lightbox="svickova" data-title="Pravá svíčková">
@@ -1043,33 +1172,49 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-       <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
-        </div>
-        <div class="meat-info-text">
-          <span>Minutky</span>
-        </div>
-      </a>
-      
-      <a class="cash"><div class="meat-info-icon cash-3">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1105,7 +1250,6 @@
     </div>
   </div>
 </section>
-
 <!-- KONEC - Dark box -->
 
 <!--Vysoký roštěnec-->
@@ -1134,32 +1278,49 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-3"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-        <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
-        </div>
-        <div class="meat-info-text">
-          <span>Minutky</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-3">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1197,32 +1358,49 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-      <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+            <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti"></div>
+              <div class="meat-info-text">
+                <span>mletí</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti">
-        </div>
-        <div class="meat-info-text">
-          <span>Mletí</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-1">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1260,32 +1438,49 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+            <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti"></div>
+              <div class="meat-info-text">
+                <span>mletí</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-        <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti">
-        </div>
-        <div class="meat-info-text">
-          <span>Mletí</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1323,32 +1518,49 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-      <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+            <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti"></div>
+              <div class="meat-info-text">
+                <span>mletí</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti">
-        </div>
-        <div class="meat-info-text">
-          <span>Mletí</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-1">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1386,32 +1598,49 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+            <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti"></div>
+              <div class="meat-info-text">
+                <span>mletí</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-        <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti">
-        </div>
-        <div class="meat-info-text">
-          <span>Mletí</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1449,20 +1678,37 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-      <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Minutky</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1500,20 +1746,37 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Minutky</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1551,20 +1814,37 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-      <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Minutky</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1605,26 +1885,43 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1662,26 +1959,43 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-      <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1720,26 +2034,43 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+
+      <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>
+
+            <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak"></div>
+              <div class="meat-info-text">
+                <span>tatarák</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Minutky</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="tatarak" onclick="onOverlay(this)"><div class="meat-info-icon tatarak">
-        </div>
-        <div class="meat-info-text">
-          <span>Tatarák</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1777,32 +2108,49 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-      <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+            <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti"></div>
+              <div class="meat-info-text">
+                <span>mletí</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti">
-        </div>
-        <div class="meat-info-text">
-          <span>Mletí</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
@@ -1840,20 +2188,37 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Minutky</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
+
     </div>
       <div class="slideshow-container meat">
       <div class="our-story-pics right">
