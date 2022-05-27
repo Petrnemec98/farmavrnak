@@ -7,6 +7,8 @@ RewriteRule ^med$ med.php [L]
 RewriteRule ^nas-pribeh$ nas-pribeh.php [L]
 RewriteRule ^kontakty$ kontakty.php [L]
 RewriteRule ^pripravujeme$ pripravujeme.php [L]
+RewriteRule ^droby$ droby.php [L]
+RewriteRule ^kosti$ kosti.php [L]
 RewriteRule ^admin$ admin/index.php [L]
 
 

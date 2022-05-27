@@ -144,17 +144,17 @@
       <div class="meat-navigation-icon">
         <div class="meat-navigation-icon-svg droby-icon">
         </div>
-        <div class="meat-navigation-icon-text"><span>DROBY</span></div>
+        <div class="meat-navigation-icon-text"><a href="droby"><span>DROBY</span></a></div>
         <div class="meat-navigation-content">
-          <p><a href="#jatra">Játra</a>, <a href="#srdce">Srdce</a>, <a href="#jazyk">Jazyk</a>, <a href="#plice">Plíce</a>, <a href="#slezina">Slezina</a>, <a href="#ledviny">Ledviny</a>, <a href="#byci-zlazy"> Býčí žlázy (varlata)</a>, <a href="#drstky">Dršťky</a></p>
+          <p><a href="droby#jatra">Játra</a>, <a href="droby#srdce">Srdce</a>, <a href="droby#jazyk">Jazyk</a>, <a href="droby#plice">Plíce</a>, <a href="droby#slezina">Slezina</a>, <a href="droby#ledviny">Ledviny</a>, <a href="droby#byci-zlazy"> Býčí žlázy (varlata)</a>, <a href="droby#drstky">Dršťky</a></p>
         </div>
       </div>
       <div class="meat-navigation-icon">
         <div class="meat-navigation-icon-svg ostatni-icon">
         </div>
-        <div class="meat-navigation-icon-text"><span>OSTATNÍ</span></div>
+        <div class="meat-navigation-icon-text"><a href="kosti"><span>OSTATNÍ</span></a></div>
         <div class="meat-navigation-content">
-          <p><a href="">Oso buko</a>, <a href="#kosti">Kost morková</a>, <a href="#kosti">Kost řídká</a>, <a href="#kosti">Harfy</a></p>
+          <p><a href="kosti">Oso buko</a>, <a href="kosti">Kost morková</a>, <a href="kosti">Kost řídká</a>, <a href="kosti">Harfy</a></p>
         </div>
       </div>
   </div>
