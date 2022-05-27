@@ -711,7 +711,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-3"></div>
+          <a class="cash"><div class="meat-info-icon cash-2-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>
@@ -1185,7 +1185,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-2"></div>
+          <a class="cash"><div class="meat-info-icon cash-2-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>
@@ -1291,7 +1291,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-3"></div>
+          <a class="cash"><div class="meat-info-icon cash-2-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>
@@ -1371,7 +1371,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-1"></div>
+          <a class="cash"><div class="meat-info-icon cash-1-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>
@@ -1451,7 +1451,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-1"></div>
+          <a class="cash"><div class="meat-info-icon cash-1-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>
@@ -1531,7 +1531,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-1"></div>
+          <a class="cash"><div class="meat-info-icon cash-1-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>
@@ -1611,7 +1611,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-1"></div>
+          <a class="cash"><div class="meat-info-icon cash-1-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>
@@ -1892,7 +1892,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-1"></div>
+          <a class="cash"><div class="meat-info-icon cash-1-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>
@@ -1966,7 +1966,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-1"></div>
+          <a class="cash"><div class="meat-info-icon cash-1-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>
@@ -2121,7 +2121,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-1"></div>
+          <a class="cash"><div class="meat-info-icon cash-1-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>
@@ -2648,7 +2648,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-1"></div>
+          <a class="cash"><div class="meat-info-icon cash-1-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>
@@ -3282,7 +3282,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-1"></div>
+          <a class="cash"><div class="meat-info-icon cash-0-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>
@@ -3356,7 +3356,7 @@
         </div>
 
         <div class="meat-info-icon-bar cash-recepts-eshop">
-          <a class="cash"><div class="meat-info-icon cash-1"></div>
+          <a class="cash"><div class="meat-info-icon cash-0-5"></div>
             <div class="meat-info-text">
               <span>cena</span>
             </div>

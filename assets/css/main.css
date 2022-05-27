@@ -172,11 +172,20 @@ address{
 .cash-3{
 	background-image: url("svg/cash-3-icon.svg");
 }
+.cash-2-5{
+	background-image: url("svg/cash-2_5-icon.svg");
+}
 .cash-2{
 	background-image: url("svg/cash-2-icon.svg");
 }
+.cash-1-5{
+	background-image: url("svg/cash-1_5-icon.svg");
+}
 .cash-1{
 	background-image: url("svg/cash-1-icon.svg");
+}
+.cash-0-5{
+	background-image: url("svg/cash-0_5-icon.svg");
 }
 .e-shop-icon{
 	background-image: url("svg/Ehop_icon.svg");
