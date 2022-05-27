@@ -468,6 +468,7 @@ p, p a, .soc--desc p, .no-wrap{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 1000;
 }
+
 p a{
 	font-style: italic;
 	color: #F2A679;
@@ -496,6 +497,7 @@ p a{
 /*Nedělitené slovo např. e-mail*/
 .no-wrap{
 	white-space: nowrap;
+	color: white;
 }
 
 @media only screen and (max-width: 1280px) {
