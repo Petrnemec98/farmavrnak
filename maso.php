@@ -146,7 +146,7 @@
         </div>
         <div class="meat-navigation-icon-text"><span>DROBY</span></div>
         <div class="meat-navigation-content">
-          <p><a href="#">Játra</a>, <a href="">Srdce</a>, <a href="">Jazyk</a>, <a href="">Plíce</a>, <a href="">Slezina</a>, <a href="">Ledviny</a>, <a href=""> Býčí žlázy (varlata)</a>, <a href="">Dršťky</a></p>
+          <p><a href="#jatra">Játra</a>, <a href="#srdce">Srdce</a>, <a href="#jazyk">Jazyk</a>, <a href="#plice">Plíce</a>, <a href="#slezina">Slezina</a>, <a href="#ledviny">Ledviny</a>, <a href="#byci-zlazy"> Býčí žlázy (varlata)</a>, <a href="#drstky">Dršťky</a></p>
         </div>
       </div>
       <div class="meat-navigation-icon">
@@ -154,7 +154,7 @@
         </div>
         <div class="meat-navigation-icon-text"><span>OSTATNÍ</span></div>
         <div class="meat-navigation-content">
-          <p><a href="">Oso buko</a>, <a href="">Kost morková</a>, <a href="">Kost řídká</a>, <a href="">Harfy</a></p>
+          <p><a href="">Oso buko</a>, <a href="#kosti">Kost morková</a>, <a href="#kosti">Kost řídká</a>, <a href="#kosti">Harfy</a></p>
         </div>
       </div>
   </div>
@@ -214,12 +214,6 @@
       <div class="icon-info-bar">
         <div class="meat-info-icon-bar">
 
-             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
-                <div class="meat-info-text">
-                  <span>Minutky</span>
-                </div>
-            </a>
-
             <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
               <div class="meat-info-text">
                 <span>Pečení</span>
@@ -229,12 +223,6 @@
             <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
               <div class="meat-info-text">
                 <span>Dušení</span>
-              </div>
-            </a>
-
-            <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti"></div>
-              <div class="meat-info-text">
-                <span>mletí</span>
               </div>
             </a>
 
@@ -2230,6 +2218,1278 @@
   </div>
 </section>
 
+<!--Líčka-->
+<section id="licka" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Líčka</p>
+            </div>
+            
+              <h2 class="half-cir">cheeks</h2>
+
+            <div class="layout-description">
+              <p>
+              Líčka jsou žvýkacími svaly z vnější části lícních kostí skotu. Tento sval je nejvíce namáhaným svalem vůbec – je libový, ale obsahuje vysoký podíl vazivových tkání. U nás jsou líčka doposud hodně opomíjena, ačkoliv byla vždy opravdovými znalci považována za jedinečné maso na guláš. Díky kuchařským show se jejich popularita postupně zvyšuje a jsou žádaná hlavně na dušení. Jejich jemná svalová vlákna a jemný kolagen dodávají dušeným líčkům jedinečnou jemnou chuť a křehkost. V jednom kusu skotu je méně než 1 kg líček.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+                <div class="meat-info-text">
+                  <span>Pečení</span>
+                </div>
+            </a>
+              <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+                <div class="meat-info-text">
+                  <span>dušení</span>
+                </div>
+            </a>
+
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/licka.svg" data-lightbox="licka" data-title="Líčka">
+          <img src="assets/css/cow/licka.svg" alt="Líčka">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Veverka-->
+<section id="veverka" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Veverka</p>
+            </div>
+            
+              <h2 class="half-cir">hanger steak</h2>
+
+            <div class="layout-description">
+              <p>
+               Veverka neboli pilíř brániční je bohatě prokrvený sval, který visí u páteře v brániční oblasti před špičkou svíčkové nad játry. Má velmi jemné mramorování. Dříve se nazýval „teplé maso“, které se ihned po porážce za tepla dělalo jako dušená chuťovka na cibulce. Pokud veverku neupravujeme tímto způsobem, je nutné ji nechat, stejně jako ostatní druhy masa, vychladit a řádně vyzrát. Pak je velmi specifickým steakovým masem (hanger steak, onglet) s výraznou chutí. Jedná se o další příklad u nás stále neobjevené pochoutky, která je jedinečná i svou poměrně malou dostupností. V celém kusu skotu je pouze zhruba 400 g veverky.
+             </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+              <div class="meat-info-text">
+                <span>Minutky</span>
+              </div>
+            </a>
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/veverka.svg" data-lightbox="veverka" data-title="Veverka">
+          <img src="assets/css/cow/veverka.svg" alt="veverka">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Oponka-->
+<section id="oponka" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Oponka</p>
+            </div>
+            
+              <h2 class="half-cir">outside skirt steak</h2>
+
+            <div class="layout-description">
+              <p>
+              Oponka, také známá jako entraňa, je stejně jako veverka jeden ze svalů bránice. Asi 5 cm plochý proužek masa na levé i pravé straně zvířete slouží jako hlavní sval bránice a podílí se na jejím napínání. Po stržení silné vazivové blány se čistý sval požívá jako jedinečné maso na gril nebo na guláš.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>       
+             <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+                <div class="meat-info-text">
+                  <span>Pečení</span>
+                </div>
+            </a>
+              <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+                <div class="meat-info-text">
+                  <span>dušení</span>
+                </div>
+            </a>
+
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/oponka.svg" data-lightbox="oponka" data-title="Oponka">
+          <img src="assets/css/cow/oponka.svg" alt="Oponka">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Bok s kostí-->
+<section id="bok-s-kosti" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+            
+              <h2 class="half-cir">Bok s kostí</h2>
+
+            <div class="layout-description">
+              <p>
+               Jako bok s kostí nebo nízké žebro nazýváme bok s 9. až 13. žebrem. Nízké žebro z mladých kusů bývá krásně zmasilé. Hodí se na vývary. Po vykostění jej lze využít na rolády nebo na dušení.
+             </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/bok-s-kosti.svg" data-lightbox="bok-s-kosti" data-title="Bok s kostí">
+          <img src="assets/css/cow/bok-s-kosti.svg" alt="Bok s kostí">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Žebra-->
+<section id="zebra" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Žebra</p>
+            </div>
+            
+              <h2 class="half-cir">ribs</h2>
+
+            <div class="layout-description">
+              <p>
+              Oponka, také známá jako entraňa, je stejně jako veverka jeden ze svalů bránice. Asi 5 cm plochý proužek masa na levé i pravé straně zvířete slouží jako hlavní sval bránice a podílí se na jejím napínání. Po stržení silné vazivové blány se čistý sval požívá jako jedinečné maso na gril nebo na guláš.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+                <div class="meat-info-text">
+                  <span>Pečení</span>
+                </div>
+            </a>
+              <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+                <div class="meat-info-text">
+                  <span>dušení</span>
+                </div>
+            </a>
+
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/zebro-hole.svg" data-lightbox="zebra" data-title="Žebra">
+          <img src="assets/css/cow/zebro-hole.svg" alt="Žebra">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Hrudí-->
+<section id="hrudi" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Hrudí</p>
+            </div>
+            
+              <h2 class="half-cir">brisket</h2>
+
+            <div class="layout-description">
+              <p>
+               Hrudí je v Čechách nejčastěji používáno s kostí na polévku, ale pokud hrudí vykostíme, získáme z něj krásný kus masa. Hrudí je prorostlé a při tepelné úpravě si zachovává šťavnatost. Nejvyšší podíl masa má špička hrudí. Brisket, jak je hrudí nazýváno v USA, je hlavní surovinou pro pravé kansaské barbecue. Hodí se na dlouhé pečení nebo grilování v celku. Dá se z něj připravit skvělé trhané maso nebo vynikající burgery.
+             </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+           
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+             <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti"></div>
+              <div class="meat-info-text">
+                <span>Mletí</span>
+              </div>
+            </a>
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/hrudi.svg" data-lightbox="hrudi" data-title="Hrudí">
+          <img src="assets/css/cow/hrudi.svg" alt="Hrudí">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Oháňka-->
+<section id="ohanka" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Oháňka</p>
+            </div>
+            
+              <h2 class="half-cir">oxtail</h2>
+
+            <div class="layout-description">
+              <p>
+              Oháňka je nejoblíbenější část kravky našeho dědečka; jakmile se přiveze kravka z jatek, už volá, že oháňka je jeho. Oháňka je poněkud opomíjené přední maso s kostí, které je základem velmi silných vývarů jedinečné chuti. Skládá se z menších šťavnatých svalových celků znamenité chuti, velkého množství šlach a ocasních obratlů. Znalci si proto u řezníka nikdy nenechají oháňku ujít.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+              <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+                <div class="meat-info-text">
+                  <span>dušení</span>
+                </div>
+            </a>
+
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/zebro-hole.svg" data-lightbox="zebra" data-title="Žebra">
+          <img src="assets/css/cow/zebro-hole.svg" alt="Žebra">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Dark-box-->
+<section class="content-2-box dark">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+            <div class="box-h2-title half-cir maso-layout-other">
+              <p class="h1">Droby</p>
+            </div>
+
+              <h2 class="half-cir">hlavní dělení</h2>
+
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- KONEC - Dark box -->
+
+<!--Srdce-->
+<section id="srdce" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark-black">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Srdce</p>
+            </div>
+            
+              <h2 class="half-cir">heart</h2>
+
+            <div class="layout-description">
+              <p>
+                Hovězí srdce je zdrojem minerálních látek a vitamínu (PP a C). Svalovina srdce je velmi namáhána, proto se hodí především na dušení nebo vaření. Připravuje se z něj guláš, ale také se nakládá a restuje. Často se přidává do masných výrobků.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+             <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti"></div>
+                <div class="meat-info-text">
+                  <span>Mletí</span>
+                </div>
+            </a>
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/placeholder.svg" data-lightbox="srdce" data-title="Srdce">
+          <img src="assets/css/cow/placeholder.svg" alt="Srdce">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Jatra-->
+<section id="jatra" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Játra</p>
+            </div>
+            
+              <h2 class="half-cir">liver</h2>
+
+            <div class="layout-description">
+              <p>
+              Hovězí játra jsou biologicky nejhodnotnější potravinou, protože obsahují velké množství stopových prvků a vitamínů A a D. Před úpravou je potřeba játra namočit do vody nebo do mléka, aby se z nich vyplavila krev a škodlivé látky. Játra je třeba solit až po tepelné úpravě, jinak by ztvrdla. Připravují se z nich játrové knedlíčky, paštika nebo se restují na cibulce.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+              <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+                <div class="meat-info-text">
+                  <span>dušení</span>
+                </div>
+            </a>
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+                <div class="meat-info-text">
+                  <span>Pečení</span>
+                </div>
+            </a>
+            <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti"></div>
+                <div class="meat-info-text">
+                  <span>Mletí</span>
+                </div>
+            </a>
+
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/placeholder.svg" data-lightbox="placeholder" data-title="placeholder">
+          <img src="assets/css/cow/placeholder.svg" alt="placeholder">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Jazyk-->
+<section id="jazyk" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Jazyk</p>
+            </div>
+            
+              <h2 class="half-cir">tongue</h2>
+
+            <div class="layout-description">
+              <p>
+                Hovězí jazyk je velmi namáhaný sval, a proto vyžaduje delší tepelnou úpravu. Hodí se na dušení, vaření a často se používá do masných výrobků. Nejčastěji se připravuje s křenovou omáčkou.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/placeholder.svg" data-lightbox="placeholder" data-title="placeholder">
+          <img src="assets/css/cow/placeholder.svg" alt="placeholder">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Dršťky-->
+<section id="drstky" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Dršťky</p>
+            </div>
+            
+              <h2 class="half-cir">tripe</h2>
+
+            <div class="layout-description">
+              <p>
+              Hovězí dršťky se získávají z hovězích předžaludků. Obsahují malé množství purinů a tuku a jsou zdrojem vápníku a fosforu. Během vaření je potřeba několikrát vyměnit vodu dle znečištění drštěk. Nejčastěji se z nich připravuje dršťková polévka.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+              <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+                <div class="meat-info-text">
+                  <span>dušení</span>
+                </div>
+            </a>
+
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/placeholder.svg" data-lightbox="placeholder" data-title="placeholder">
+          <img src="assets/css/cow/placeholder.svg" alt="placeholder">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Býčí žlázy-->
+<section id="byci-zlazy" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Býčí žlázy</p>
+            </div>
+            
+              <h2 class="half-cir">beef testicles</h2>
+
+            <div class="layout-description">
+              <p>
+                Býčí žlázy jsou velice jemnou surovinou a jsou považovány za znovuobjevenou delikatesu. Před úpravou je potřeba žlázy dobře vyprat ve vlažné vodě a pak je naložit do mléka alespoň na 12 hodin. Nejčastěji se připravují v trojobalu jako řízky, ale hodí se také do guláše nebo se připravují opečené na másle.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+            <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+              <div class="meat-info-text">
+                <span>Minutky</span>
+              </div>
+            </a>
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/placeholder.svg" data-lightbox="placeholder" data-title="placeholder">
+          <img src="assets/css/cow/placeholder.svg" alt="placeholder">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Ledviny-->
+<section id="ledviny" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">ledviny</p>
+            </div>
+            
+              <h2 class="half-cir">kidneys</h2>
+
+            <div class="layout-description">
+              <p>
+              Hovězí ledviny obsahují velké množství purinových látek, železa a vitamínů B a C. Před tepelnou úpravou je potřeba odstranit ledvinové pánvičky, proprat ve vodě a alespoň na 12 hodin naložit do mléka, čímž se odstraní zápach moči. Používají se na dušení, smažení nebo na grilování.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+                <div class="meat-info-text">
+                  <span>pečení</span>
+                </div>
+            </a>
+
+              <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+                <div class="meat-info-text">
+                  <span>dušení</span>
+                </div>
+            </a>
+              <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>minutky</span>
+                </div>
+            </a>
+
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/placeholder.svg" data-lightbox="placeholder" data-title="placeholder">
+          <img src="assets/css/cow/placeholder.svg" alt="placeholder">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Slezina-->
+<section id="slezina" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Slezina</p>
+            </div>
+            
+              <h2 class="half-cir">spleen</h2>
+
+            <div class="layout-description">
+              <p>
+                Hovězí slezina obsahuje především železo a vitamín A a má velké množství purinových látek. Používá se mletá do nádivek nebo k zesílení vývaru a když se nakrájí na slabé plátky, lze ji i grilovat. Slezina má sladkou chuť.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+            <a data-id="mleti" onclick="onOverlay(this)"><div class="meat-info-icon mleti"></div>
+              <div class="meat-info-text">
+                <span>Mletí</span>
+              </div>
+            </a>
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/placeholder.svg" data-lightbox="placeholder" data-title="placeholder">
+          <img src="assets/css/cow/placeholder.svg" alt="placeholder">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Plíce-->
+<section id="plice" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule light">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Plíce</p>
+            </div>
+            
+              <h2 class="half-cir">lungs</h2>
+
+            <div class="layout-description">
+              <p>
+              Hovězí plíce obsahují vápník. Používají se na vaření, dušení a přidávají se do paštik. Nejčastěji se servírují se smetanovou omáčkou.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+              <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+                <div class="meat-info-text">
+                  <span>dušení</span>
+                </div>
+            </a>
+              <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>mletí</span>
+                </div>
+            </a>
+
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/placeholder.svg" data-lightbox="placeholder" data-title="placeholder">
+          <img src="assets/css/cow/placeholder.svg" alt="placeholder">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Dark-box-->
+<section class="content-2-box dark">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+            <div class="box-h2-title half-cir maso-layout-other">
+              <p class="h1">Ostatní</p>
+            </div>
+
+              <h2 class="half-cir">hlavní dělení</h2>
+
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- KONEC - Dark box -->
+
+<!--kosti-->
+<section id="kosti" class="content-2-box">
+  <div class="defaul-max-wight">
+    <div class="half-circule-positon">
+      <div class="half-circule dark-black">
+      </div>
+   </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">kosti</p>
+            </div>
+            
+              <h2 class="half-cir">bones</h2>
+
+            <div class="layout-description">
+              <p>
+                Samostatnou skupinou masa jsou kosti morkové, kosti řídké a harfy. Čerstvé kosti by měly patřit do každé dobré kuchyně. 
+              </p>
+              <p>
+                Morkové kosti jsou střední části dlouhých kostí (ramenní, holenní, a stehenní) a spolu s řídkými kostmi mohou být využity jako základ několikahodinových vývarů (demi-glace). Morek používáme ale také k přípravě morkových knedlíčků a můžeme jej dokonce ogrilovat (uprostřed nařezané morkové kosti).
+              </p>
+              <p>
+                Harfy jsou krční a bederní obratle, žebra a hrudní kosti, které nebyly vykostěny načisto a obsahují tudíž do 20 % zbytkového masa. Skvěle se tak hodí do pomalu tažených vývarů.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+
+            <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>minutky</span>
+                </div>
+            </a>
+
+        </div>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-1"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+      <div class="slideshow-container meat">
+      <div class="our-story-pics right">
+       <a href="assets/css/cow/placeholder.svg" data-lightbox="srdce" data-title="Srdce">
+          <img src="assets/css/cow/placeholder.svg" alt="Srdce">
+       </a>
+      </div>
+    </div>
+  </div>
+</section>
 
 <?php
 
