@@ -139,7 +139,7 @@
         </div>
         <div class="meat-navigation-icon-text"><span>STEAKOVÁ MASA</span></div>
 		    <div class="meat-navigation-content">
-          <p>Bryndáček, Holubička, Květová špička, Loupaná plec, Nízký roštěnec, Oponka, Pérko, Předkýtí, Svíčková pravá, Váleček, Veverka, Vysoký roštěnec, Zrcátko</p>
+          <p><a href = "#bryndacek">Bryndáček</a>, <a href="#holubicka">Holubička</a>, <a href="#kvetova-spicka">Květová špička</a>, <a href="#loupana-plec">Loupaná plec</a>, <a href="#nizky-rostenec">Nízký roštěnec</a>, <a href="#oponka">Oponka</a>, <a href="#perko">Pérko</a>, <a href="#predkyti">Předkýtí</a>, <a href="#svickova">Svíčková pravá</a>, <a href="#valecek">Váleček</a>, <a href="#veverka">Veverka</a>, <a href="#vysoky-rostenec">Vysoký roštěnec</a>, <a href="#zrcatko">Zrcátko</a></p>
 		    </div>
       </div>
       <div class="meat-navigation-icon">
@@ -147,7 +147,7 @@
         </div>
         <div class="meat-navigation-icon-text"><span>DROBY</span></div>
         <div class="meat-navigation-content">
-          <p>Játra, Srdce, Jazyk, Plíce, Slezina, Ledviny, Býčí žlázy (varlata), Dršťky</p>
+          <p><a href="#">Játra</a>, <a href="">Srdce</a>, <a href="">Jazyk</a>, <a href="">Plíce</a>, <a href="">Slezina</a>, <a href="">Ledviny</a>, <a href=""> Býčí žlázy (varlata)</a>, <a href="">Dršťky</a></p>
         </div>
       </div>
       <div class="meat-navigation-icon">
@@ -155,10 +155,9 @@
         </div>
         <div class="meat-navigation-icon-text"><span>OSTATNÍ</span></div>
         <div class="meat-navigation-content">
-          <p>Oso buko, Kost morková, Kost řídká, Harfy</p>
+          <p><a href="">Oso buko</a>, <a href="">Kost morková</a>, <a href="">Kost řídká</a>, <a href="">Harfy</a></p>
         </div>
       </div>
-
   </div>
 </section>
 

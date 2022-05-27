@@ -299,6 +299,16 @@ address{
 	padding-top: 15px;
 	width: 70%;
 }
+.meat-navigation-content a{
+	color: black;
+	text-decoration: none;
+	font-style: normal;
+}
+.meat-navigation-content a:hover{
+	color: black;
+	text-decoration: underline;
+	font-style: normal;
+}
 @media only screen and (max-width: 1280px) {
 	.meat-navigation-icon-svg{
 		width:76.23px;
@@ -388,7 +398,7 @@ address{
 
 
 /* Defaul value */
-#slideright, #slideleft, .meat-navigation-icon-text span, .layout-line, .circule--1680, 	.prev, .next, .icon--hover, .box--soc, #TopScrollBtn, .galery-bar-photo a, .shortcut-icon-svg, .shortcut-text span, g svg, .overlay-close, .overlay-box span{
+.meat-navigation-content a,#slideright, #slideleft, .meat-navigation-icon-text span, .layout-line, .circule--1680, 	.prev, .next, .icon--hover, .box--soc, #TopScrollBtn, .galery-bar-photo a, .shortcut-icon-svg, .shortcut-text span, g svg, .overlay-close, .overlay-box span{
 	transition: 0.3s ease;
 }
 

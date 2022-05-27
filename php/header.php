@@ -46,11 +46,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<title> 
 		<?php
 			if ( $page_name == 'index.php') echo 'Vítejte na Farma Vrňák';
-			if ( $page_name == 'nas-pribeh') echo 'Náš příbeh - Farma Vrňak';
-			if ( $page_name == 'maso') echo 'Maso - Farma Vrňák';
-			if ( $page_name == 'med') echo 'Med - Farma Vrňak';
-			if ( $page_name == 'kontakty') echo 'Kontakty - Farma Vrňak';
-			if ( $page_name == 'pripravujeme') echo 'Připravujeme - Farma Vrňak';
+			if ( $page_name == 'nas-pribeh') echo 'Náš příbeh';
+			if ( $page_name == 'maso') echo 'Maso';
+			if ( $page_name == 'med') echo 'Med';
+			if ( $page_name == 'kontakty') echo 'Kontakty';
+			if ( $page_name == 'pripravujeme') echo 'Připravujeme';
 	 	?>	
 	</title>
 		
