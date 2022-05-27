@@ -2745,8 +2745,8 @@
     </div>
   </div>
 </section>
+<!--
 
-<!--Dark-box-->
 <section class="content-2-box dark">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -2770,9 +2770,9 @@
     </div>
   </div>
 </section>
-<!-- KONEC - Dark box -->
 
-<!--Srdce-->
+
+
 <section id="srdce" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -2854,7 +2854,6 @@
   </div>
 </section>
 
-<!--Jatra-->
 <section id="jatra" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -2933,7 +2932,7 @@
   </div>
 </section>
 
-<!--Jazyk-->
+
 <section id="jazyk" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -3009,7 +3008,6 @@
   </div>
 </section>
 
-<!--Dršťky-->
 <section id="drstky" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -3078,7 +3076,7 @@
   </div>
 </section>
 
-<!--Býčí žlázy-->
+
 <section id="byci-zlazy" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -3159,7 +3157,6 @@
   </div>
 </section>
 
-<!--Ledviny-->
 <section id="ledviny" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -3238,7 +3235,6 @@
   </div>
 </section>
 
-<!--Slezina-->
 <section id="slezina" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -3311,7 +3307,6 @@
   </div>
 </section>
 
-<!--Plíce-->
 <section id="plice" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -3385,7 +3380,6 @@
   </div>
 </section>
 
-<!--Dark-box-->
 <section class="content-2-box dark">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -3409,9 +3403,7 @@
     </div>
   </div>
 </section>
-<!-- KONEC - Dark box -->
 
-<!--kosti-->
 <section id="kosti" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -3490,6 +3482,7 @@
     </div>
   </div>
 </section>
+-->
 
 <?php
 
