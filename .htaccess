@@ -6,6 +6,7 @@ RewriteRule ^maso$ maso.php [L]
 RewriteRule ^med$ med.php [L]
 RewriteRule ^nas-pribeh$ nas-pribeh.php [L]
 RewriteRule ^kontakty$ kontakty.php [L]
+RewriteRule ^pripravujeme$ pripravujeme.php [L]
 RewriteRule ^admin$ admin/index.php [L]
 
 
