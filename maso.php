@@ -460,31 +460,46 @@
           </article>
         </div>
       </div>
-      <div class="meat-info-icon-bar">
-        <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni">
+      <div class="icon-info-bar">
+        <div class="meat-info-icon-bar">
+
+             <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky"></div>
+                <div class="meat-info-text">
+                  <span>Minutky</span>
+                </div>
+            </a>
+
+            <a data-id="peceni" onclick="onOverlay(this)"><div class="meat-info-icon peceni"></div>
+              <div class="meat-info-text">
+                <span>Pečení</span>
+              </div>
+            </a>
+
+            <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni"></div>
+              <div class="meat-info-text">
+                <span>Dušení</span>
+              </div>
+            </a>
+
         </div>
-        <div class="meat-info-text">
-          <span>Pečení</span>
+
+        <div class="meat-info-icon-bar cash-recepts-eshop">
+          <a class="cash"><div class="meat-info-icon cash-2"></div>
+            <div class="meat-info-text">
+              <span>cena</span>
+            </div>
+          </a>
+          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+            <div class="meat-info-text">
+              <span>recepty</span>
+            </div>
+          </a>
+          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+            <div class="meat-info-text">
+              <span>E-shop</span>
+            </div>
+          </a>
         </div>
-      </a>
-      <a data-id="duseni" onclick="onOverlay(this)"><div class="meat-info-icon duseni">
-        </div>
-        <div class="meat-info-text">
-          <span>Dušení</span>
-        </div>
-      </a>
-      <a data-id="minutky" onclick="onOverlay(this)"><div class="meat-info-icon minutky">
-        </div>
-        <div class="meat-info-text">
-          <span>Minutky</span>
-        </div>
-      </a>
-      <a class="cash"><div class="meat-info-icon cash-2">
-        </div>
-        <div class="meat-info-text">
-          <span>cena</span>
-        </div>
-      </a>
       </div>
     </div>
       <div class="slideshow-container meat">

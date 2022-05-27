@@ -29,8 +29,6 @@
 <!DOCTYPE html>
 <html lang="cs">
 <head>
-
-<!-- cache ?v=1-->
 <!-- Google Tag Manager -->
 <!--SEONO
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -45,12 +43,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://www.googleoptimize.com/optimize.js?id=OPT-P5GVDR4"></script>
 -->
 
-	<title>
+	<title> 
 		<?php
-		//Title 
 			if ( $page_name == 'index.php') echo 'Vítejte na Farma Vrňák';
 			if ( $page_name == 'nas-pribeh') echo 'Náš příbeh - Farma Vrňak';
-			//if ( $page_name == 'maso') echo 'Maso - Farma Vrňák';
+			if ( $page_name == 'maso') echo 'Maso - Farma Vrňák';
+			if ( $page_name == 'med') echo 'Med - Farma Vrňak';
+			if ( $page_name == 'kontakty') echo 'Kontakty - Farma Vrňak';
+			if ( $page_name == 'pripravujeme') echo 'Připravujeme - Farma Vrňak';
 	 	?>	
 	</title>
 		
@@ -66,28 +66,55 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<meta property="og:description" content="Na Farmě Vrňák se zabýváme produkcí bio hovězího masa a včelího medu. Naším cílem je kvalitní život zvířat, naše krávy se pasou na loukách u slapské přehrady." />
 		<meta property="og:image" content="https://www.farmavrnak.cz/images/slider_hp_1.webp" />
 
-		<!-- SEO -->
+		<!-- Keywords, description, favicon, name-page -->
 		<?php
 		//Index
-		if ( $page_name == 'index.php') echo'
+				if ( $page_name == 'index.php') echo'
 				<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 				<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
 				<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
 				<link rel="manifest" href="/site.webmanifest" />
-				<!--SEONO <meta property="og:site_name" content="Farma Vrňák" />
+				<meta property="og:site_name" content="Farma Vrňák" />
 				<meta name="keywords" content="hovězí, maso, hovězí maso, ekofarma, maso z farmy, domácí, ekologické zemědělství, farma Vrňák, farma, Blaženice, med, bio hovězí, maso na steak, guláš, Slapská přehrada, Měřín, plemeno Limousine, skot, kráva, welfare, svíčková, vysoký roštěnec, kližka">
-				<meta name="description" content="Na Farmě Vrňák se zabýváme produkcí bio hovězího masa a včelího medu. Naším cílem je kvalitní život zvířat, naše krávy se pasou na loukách u slapské přehrady."> -->'
-				;
-
+				<meta name="description" content="Na Farmě Vrňák se zabýváme produkcí bio hovězího masa a včelího medu. Naším cílem je kvalitní život zvířat, naše krávy se pasou na loukách u slapské přehrady.">';
+		//NÁŠ-PŘÍBĚH
+				if ( $page_name == 'index.php') echo'
+				<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+				<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+				<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+				<link rel="manifest" href="/site.webmanifest" />
+				<meta property="og:site_name" content="Náš příběh - Farma Vrňák" />
+				<meta name="keywords" content="Rodinná farma, Vrňák, statek, Blaženice, Slapská přehrada, Limousine, skot, kráva, býk, domácí, bio, eko, Měřín, volný chov, zemědělství, hovězí">
+				<meta name="description" content="Hospodaření na rodinné Farmě Vrňák v Blaženicích jsme obnovili po roce 1989. Naším cílem je kvalitní život zvířat, naše krávy se pasou na loukách u slapské přehrady.">';
 		//MASO
-		//if ( $page_name == 'maso') echo'
-			//<link rel="icon" href="favicon1.svg" type="image/x-icon"  sizes="32x32" >
-				//<meta name="title" content="Maso - Farma Vrňák">
-				//<meta name="description" content="">
-				//;
+				if ( $page_name == 'index.php') echo'
+				<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+				<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+				<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+				<link rel="manifest" href="/site.webmanifest" />
+				<meta property="og:site_name" content="Maso - Farma Vrňák" />
+				<meta name="keywords" content="hovězí maso, bio hovězí, steakové maso, rozdělení hovězího masa, dělení hovězího masa, druhy hovězího masa, flank steak, rump steak, sirloin steak, tenderloin, ribeye, pupek, svíčková, roštěná, maso na gril, vyzrálé maso, burger, stařené maso, úprava hovězího masa, použití hovězího masa">
+				<meta name="description" content="Hovězí maso se nedělí pouze na přední, zadní a svíčkovou. Podívejte se na našeho průvodce hovězím masem a zkuste obohatit svůj jídelníček o něco netradičního.">';
+		//MED
+				if ( $page_name == 'index.php') echo'
+				<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+				<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+				<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+				<link rel="manifest" href="/site.webmanifest" />
+				<meta property="og:site_name" content="Med - Farma Vrňák" />
+				<meta name="keywords" content="český med, med od včelaře, domácí med, Blaženice, získávání medu, život včely, včelí med, květový med, šlehaný med, lesní med, oddělky, matečníky, prodej včelích matek, včela medonosná, včela kraňka, včela sklenář">
+				<meta name="description" content="V chovu včel navazujeme na tradici našeho pradědečka. Podívejte se na naši cestu za získáváním vlastního medu.">';
+		//MED
+				if ( $page_name == 'index.php') echo'
+				<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+				<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+				<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+				<link rel="manifest" href="/site.webmanifest" />
+				<meta property="og:site_name" content="Kontakty - Farma Vrňák" />
+				<meta name="keywords" content="Subaru Sedlčany, Karavany Sedlčany, Adria karavany, Měřín, Jablonná, Ekologické zemědělství, farma Vrňák, Blaženice, Pavel Vrňák, Volareza">
+				<meta name="description" content="Rodinná Farma Vrňák se nachází v Blaženicích poblíž slapské přehrady.">';
 		?>
 
-	
 	<!--Styly-->
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<link rel="stylesheet" href="assets/css/menu.css" />
