@@ -31,15 +31,6 @@
 <head>
 
 <!-- cache ?v=1-->
-
-<IfModule class="ifmodule"mod_expires.c>
-    ExpiresActive On
-    ExpiresDefault A600
-    ExpiresByType assets A2678400
-    ExpiresByType php A2678400
-</IfModule>
-
-
 <!-- Google Tag Manager -->
 <!--SEONO
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
