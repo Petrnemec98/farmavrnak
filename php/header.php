@@ -46,11 +46,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<title> 
 		<?php
 			if ( $page_name == 'index.php') echo 'Vítejte na Farma Vrňák';
-			if ( $page_name == 'nas-pribeh') echo 'Náš příbeh';
-			if ( $page_name == 'maso') echo 'Maso';
-			if ( $page_name == 'med') echo 'Med';
-			if ( $page_name == 'kontakty') echo 'Kontakty';
-			if ( $page_name == 'pripravujeme') echo 'Připravujeme';
+			if ( $page_name == 'nas-pribeh') echo 'Náš příbeh - Farma Vrňák';
+			if ( $page_name == 'maso') echo 'Maso - Farma Vrňák';
+			if ( $page_name == 'med') echo 'Med - Farma Vrňák';
+			if ( $page_name == 'kontakty') echo 'Kontakty - Farma Vrňák';
+			if ( $page_name == 'pripravujeme') echo 'Připravujeme - Farma Vrňák';
 	 	?>	
 	</title>
 		
@@ -78,7 +78,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<meta name="keywords" content="hovězí, maso, hovězí maso, ekofarma, maso z farmy, domácí, ekologické zemědělství, farma Vrňák, farma, Blaženice, med, bio hovězí, maso na steak, guláš, Slapská přehrada, Měřín, plemeno Limousine, skot, kráva, welfare, svíčková, vysoký roštěnec, kližka">
 				<meta name="description" content="Na Farmě Vrňák se zabýváme produkcí bio hovězího masa a včelího medu. Naším cílem je kvalitní život zvířat, naše krávy se pasou na loukách u slapské přehrady.">';
 		//NÁŠ-PŘÍBĚH
-				if ( $page_name == 'index.php') echo'
+				if ( $page_name == 'nas-pribeh') echo'
 				<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 				<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
 				<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
@@ -87,7 +87,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<meta name="keywords" content="Rodinná farma, Vrňák, statek, Blaženice, Slapská přehrada, Limousine, skot, kráva, býk, domácí, bio, eko, Měřín, volný chov, zemědělství, hovězí">
 				<meta name="description" content="Hospodaření na rodinné Farmě Vrňák v Blaženicích jsme obnovili po roce 1989. Naším cílem je kvalitní život zvířat, naše krávy se pasou na loukách u slapské přehrady.">';
 		//MASO
-				if ( $page_name == 'index.php') echo'
+				if ( $page_name == 'maso') echo'
 				<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 				<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
 				<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
@@ -96,7 +96,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<meta name="keywords" content="hovězí maso, bio hovězí, steakové maso, rozdělení hovězího masa, dělení hovězího masa, druhy hovězího masa, flank steak, rump steak, sirloin steak, tenderloin, ribeye, pupek, svíčková, roštěná, maso na gril, vyzrálé maso, burger, stařené maso, úprava hovězího masa, použití hovězího masa">
 				<meta name="description" content="Hovězí maso se nedělí pouze na přední, zadní a svíčkovou. Podívejte se na našeho průvodce hovězím masem a zkuste obohatit svůj jídelníček o něco netradičního.">';
 		//MED
-				if ( $page_name == 'index.php') echo'
+				if ( $page_name == 'med') echo'
 				<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 				<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
 				<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
@@ -105,7 +105,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<meta name="keywords" content="český med, med od včelaře, domácí med, Blaženice, získávání medu, život včely, včelí med, květový med, šlehaný med, lesní med, oddělky, matečníky, prodej včelích matek, včela medonosná, včela kraňka, včela sklenář">
 				<meta name="description" content="V chovu včel navazujeme na tradici našeho pradědečka. Podívejte se na naši cestu za získáváním vlastního medu.">';
 		//MED
-				if ( $page_name == 'index.php') echo'
+				if ( $page_name == 'kontakty') echo'
 				<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 				<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
 				<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
