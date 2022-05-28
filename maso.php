@@ -436,7 +436,7 @@
 
             <div class="layout-description">
               <p>
-                Horní trojúhelníkovitá část spodního šálu, také známá jako tafelspitz nebo picanha, se nechává u spodního šálu, nebo se řeže samostatně jako steakové maso, závitky či minutky.
+                Horní trojúhelníkovitá část spodního šálu, také známá jako tafelspitz nebo picanha, se nechává u spodního šálu, nebo se řeže samostatně jako steakové maso, závitky či minutky. V Jižní Americe patří k nejoblíbenějším steakovým masům. Díky tukové pokrývce získávají steaky silnou hovězí chuť. Tuk nikdy neodřezáváme. Nejčastěji se picanha griluje v celku.
               </p>
             </div>
           </article>
@@ -594,7 +594,7 @@
 
             <div class="layout-description">
               <p>
-               Holubička (plátek z kýty, pastorenstück, maminha) je sval ve tvaru nepravidelného trojúhelníku (při lepší představivosti připomíná křídlo holubice) na vnější části ořechu. Má povrchové krytí lojem a jemné mramorování, a proto je ideální pro grilování.
+               Holubička (plátek z kýty, pastorenstück, maminha) je sval ve tvaru nepravidelného trojúhelníku (při lepší představivosti připomíná křídlo holubice) na vnější části ořechu. Má povrchové krytí lojem a jemné mramorování, což zaručuje výraznou chuť a šťavnatost. Je ideální na grilování.
               </p>
             </div>
           </article>
@@ -1000,7 +1000,7 @@
 
             <div class="layout-description">
               <p>
-                Kulatá plec je známá též jako falešná svíčková. Má jemně vláknité maso a skutečně často nahrazuje pravou svíčkovou při přípravě svíčkové na smetaně. Kvůli své křehkosti se také používá na přípravu steaků.
+                Kulatá plec je známá též jako falešná svíčková. Má jemně vláknité maso, které je jemně protkané tukovými žilkami a jednou tenkou šlachou. Je velice křehká, a proto skutečně často nahrazuje pravou svíčkovou při přípravě svíčkové na smetaně. Velmi často se také používá na přípravu steaků.
               </p>
             </div>
           </article>
@@ -1500,7 +1500,7 @@
 
             <div class="layout-description">
               <p>
-               Podkrčí je namáhaná svalovina s hrubým vláknem a vysokým podílem vaziva. Vhodné je do mletých masových směsí, do gulášů, k dušení nebo i vaření vcelku. Používá se k výrobě uzenin.
+               Podkrčí je namáhaná svalovina s hrubým vláknem a vysokým podílem vaziva. Vhodné je do mletých masových směsí, do pomalu tažených ragú, do gulášů, ale i k vaření v celku. Používá se k výrobě uzenin, především k vytvoření spojky (jemná část v uzeninách, která spojuje hrubou složku).
               </p>
             </div>
           </article>
@@ -1728,7 +1728,7 @@
 
             <div class="layout-description">
               <p>
-               Bryndáček je prostřední část pupku, začíná u palce svíčkové. Je to krásný kus masa, který připomíná dětský bryndáček. Má výrazně silná vlákna a šťavnatou chuť. Hodí se na přípravu steaků, které po odpočinutí krájíme na tenká vlákna.
+               Bryndáček je prostřední část pupku, začíná u palce svíčkové. Je to krásný kus masa, který připomíná dětský bryndáček. Má výrazně silná vlákna a šťavnatou chuť. Hodí se na přípravu steaků, které po odpočinutí krájíme na tenká vlákna. Ideální úprava je medium rare.
               </p>
             </div>
           </article>
@@ -1796,7 +1796,7 @@
 
             <div class="layout-description">
               <p>
-              Oproti <a href="#oponka"> vnější oponce</a> je vnitřní oponka o něco tužší a širší.  Vlákna jsou výrazně hrubá, hodí se na přípravu steaků, které po odpočinutí krájíme na tenká vlákna.
+              Oproti <a href="#oponka"> vnější oponce</a> je vnitřní oponka o něco tužší a širší. Je to mramorovaný sval, který má výraznou chuť.  Vlákna jsou výrazně hrubá, hodí se na přípravu steaků, které po odpočinutí krájíme na tenká vlákna. Pro příprava steaků je potřeba minimálně 30denní zrání ve vakuu.
               </p>
             </div>
           </article>
@@ -1941,7 +1941,7 @@
 
             <div class="layout-description">
               <p>
-              Karabáček je libovým zástupcem kližek, je umístěn mezi zadním masem (spodním šálem kýty) a kližkou. Skladbou připomíná maso z plece a má i podobné využití.
+              Karabáček je libovým zástupcem kližek, je umístěn mezi zadním masem (spodním šálem kýty) a kližkou. Skladbou připomíná maso z plece. Má v sobě větší množství kolagenu, díky kterému získají vaše pomalu tažené omáčky užasnou chuť a sílu. Je to prvotřídní maso na guláš.
               </p>
             </div>
           </article>
@@ -2090,7 +2090,7 @@
 
             <div class="layout-description">
               <p>
-              Plátek lopatkový neboli plecový plátek je sval sejmutý z vrchní plochy lopatky při kostění plece. Má podobný charakter jako <a href="#loupana-plec"> loupaná plec</a> (vyšší podíl vazivových tkání) a rovněž podobné využití (marinování a pošírování).
+              Plátek lopatkový neboli plecový plátek je sval sejmutý z vrchní plochy lopatky při kostění plece. Má podobný charakter jako <a href="#loupana-plec"> loupaná plec</a> (vyšší podíl vazivových tkání) a rovněž podobné využití (marinování a pošírování). Tento sval je velice málo namáhaný, a proto vyniká svou křehkostí.
               </p>
             </div>
           </article>
@@ -2468,7 +2468,7 @@
 
             <div class="layout-description">
               <p>
-               Jako bok s kostí nebo nízké žebro nazýváme bok s 9. až 13. žebrem. Nízké žebro z mladých kusů bývá krásně zmasilé. Hodí se na vývary. Po vykostění jej lze využít na rolády nebo na dušení.
+              Jak říká naše babička „polévka je grunt“. Jako bok s kostí nebo nízké žebro nazýváme bok s 9. až 13. žebrem. Nízké žebro z mladých kusů bývá krásně zmasilé. Hodí se především na vývary. Po vykostění jej lze využít na rolády nebo na dušení. Dá se také využít na grilování.
              </p>
             </div>
           </article>

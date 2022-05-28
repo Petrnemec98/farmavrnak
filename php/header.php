@@ -51,6 +51,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			if ( $page_name == 'med') echo 'Med - Farma Vrňák';
 			if ( $page_name == 'kontakty') echo 'Kontakty - Farma Vrňák';
 			if ( $page_name == 'pripravujeme') echo 'Připravujeme - Farma Vrňák';
+			if ( $page_name == 'droby') echo 'Droby - Farma Vrňák';
+			if ( $page_name == 'kosti') echo 'Kosti - Farma Vrňák';
 	 	?>	
 	</title>
 		
