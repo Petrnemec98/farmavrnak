@@ -66,7 +66,7 @@ function offOverlay(element){
 	  document.getElementById(element.getAttribute("data-id")).style.display = "none";
 }
 
-//left right scrool
+//left right scrool - FOOTER
 
 
         var rightFunction = document.getElementById('slideright');
@@ -78,6 +78,19 @@ function offOverlay(element){
         back.onclick = function () {
             document.getElementById('slide-bar').scrollLeft -= 500;
         };
+
+//left right scrool
+var rightFunction = document.getElementById('sliderightMed');
+rightFunction.onclick = function () {
+  document.getElementById('slide-bar-med').scrollLeft += 500;
+};
+
+        var back = document.getElementById('slideleftMed');
+        back.onclick = function () {
+            document.getElementById('slide-bar-med').scrollLeft -= 500;
+        };
+
+
        
 
 //object SVGAElement

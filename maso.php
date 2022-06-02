@@ -1,6 +1,6 @@
 <?php
   include 'php/header.php';
-  include 'php/overlay.php';
+  
 ?>
 
 
@@ -3485,7 +3485,7 @@
 -->
 
 <?php
-
+include 'php/overlay.php';
 include 'php/footer.php';
 
 ?>

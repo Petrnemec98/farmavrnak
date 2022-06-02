@@ -188,8 +188,128 @@
   </div>
 </section>
 
-<?php
+<!-- Konec dark box-->
 
+<section id="podpleci" class="content-1-box">
+  <div class="defaul-max-wight">
+      <div class="half-circule-positon light">
+        <div class="half-circule dark-black">
+        </div>
+      </div>
+    <div class="content">
+      <div class="content-container ">
+        <div class="box-h1-prepered">
+          <article>
+
+              <div class="box-h2-title half-cir">
+              <p class="h1">Produkty</p>
+            </div>
+            
+              <h2 class="half-cir">Naše medy</h2>
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="defaul-max-wight">
+    <div class="med-slider-box">
+      <div class="slide-area-right">
+    <button onclick="rightFunction()" class="slide-button" id="sliderightMed" type="button"></button>
+  </div>
+
+  <div class="slide-area-left">
+    <button onclick="rightFunction()" class="slide-button" id="slideleftMed" type="button"></button>
+  </div>
+      <div id="slide-bar-med" class="med-slider">
+
+        <div id="slide-bar" class="med-box">
+          <div class="med-story-pics">
+            <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+          </div>
+          <div class="med-content">
+            <h3>Med Luční</h3>
+            <p>
+                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
+            </p>
+            <p>
+              <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
+            </p>
+          </div>
+        </div>
+
+                <div id="slide-bar" class="med-box">
+          <div class="med-story-pics">
+            <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+          </div>
+          <div class="med-content">
+            <h3>Med Luční</h3>
+            <p>
+                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
+            </p>
+            <p>
+              <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
+            </p>
+          </div>
+        </div>
+
+        <div id="slide-bar" class="med-box">
+          <div class="med-story-pics">
+            <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+          </div>
+          <div class="med-content">
+            <h3>Med Luční</h3>
+            <p>
+                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
+            </p>
+            <p>
+              <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
+            </p>
+          </div>
+        </div>
+
+        <div id="slide-bar" class="med-box">
+          <div class="med-story-pics">
+            <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+          </div>
+          <div class="med-content">
+            <h3>Med Luční</h3>
+            <p>
+                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
+            </p>
+            <p>
+              <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
+            </p>
+          </div>
+        </div>
+        
+        <div id="slide-bar" class="med-box">
+          <div class="med-story-pics">
+            <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+          </div>
+          <div class="med-content">
+            <h3>Med Luční</h3>
+            <p>
+                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
+            </p>
+            <p>
+              <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+</section>
+
+
+
+<?php
+include 'php/overlay.php';
 include 'php/footer.php';
 
 ?>

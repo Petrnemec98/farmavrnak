@@ -7,6 +7,58 @@ address{
 	visibility: hidden;
 }
 
+.med-slider-box{
+	max-width: 1580px;
+	margin: auto;
+}
+
+.med-slider{
+   display: flex;
+   overflow-y: hidden;
+   overflow-x: scroll;
+}
+
+.med-box{
+	min-width: 436px;
+	background-color: white;
+	border-radius: 20px;
+	margin: 40px;
+	overflow: scroll;
+}
+
+.med-story-pics{
+	width: 80%;
+	text-align: center;
+	padding-top: 36px;
+	margin: auto;
+}
+
+.med-story-pics img{
+	border-radius: 50%;
+   max-width: 100%;
+}
+
+.med-content{
+	width: 80%;
+	margin: auto;
+	padding-top: 36px;
+}
+
+@media only screen and (max-width: 1280px){
+.med-box{
+	min-width: 300px;
+}
+}
+@media only screen and (max-width: 1088px){
+	.med-box{
+	min-width:300px;
+}
+}
+@media only screen and (max-width: 881px){
+
+}
+
+
 /*Stránka med*/
 .sber-medu{
 	background-image: url("svg/sber-medu.svg");
@@ -49,7 +101,7 @@ address{
 }
 
 /*slide bar*/
-#slide-bar{
+#slide-bar, #slide-bar-med{
 	scroll-behavior: smooth;
 }
 .slide-area-left, .slide-area-right{
@@ -80,7 +132,7 @@ address{
 	-o-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 }
-#slideright{
+#slideright, #sliderightMed{
 	right: 10px;
    transform: rotate(90deg);
    -moz-transform: rotate(90deg); 
@@ -88,7 +140,7 @@ address{
 	-o-transform: rotate(90deg);
 	-ms-transform: rotate(90deg);
 }
-#slideright:hover{
+#slideright:hover, #sliderightMed:hover{
 	opacity: 100%;
 	-moz-transform: scale(1.1) rotate(90deg);
 	-webkit-transform: scale(1.1) rotate(90deg);
@@ -96,7 +148,7 @@ address{
 	-ms-transform: scale(1.1) rotate(90deg);
 	transform: scale(1.1) rotate(90deg);
 }
-#slideleft{
+#slideleft, #slideleftMed {
 	left: 10px;
    transform: rotate(270deg);
    -moz-transform: rotate(270deg); 
@@ -104,7 +156,7 @@ address{
 	-o-transform: rotate(270deg);
 	-ms-transform: rotate(270deg);
 }
-#slideleft:hover{
+#slideleft:hover, #slideleftMed: hover{
 	opacity: 100%;
 	-moz-transform: scale(1.1) rotate(270deg);
 	-webkit-transform: scale(1.1) rotate(270deg);
@@ -420,7 +472,7 @@ address{
 
 
 /* Defaul value */
-.meat-navigation-content a,#slideright, #slideleft, .meat-navigation-icon-text span, .layout-line, .circule--1680, 	.prev, .next, .icon--hover, .box--soc, #TopScrollBtn, .galery-bar-photo a, .shortcut-icon-svg, .shortcut-text span, g svg, .overlay-close, .overlay-box span{
+.meat-navigation-content a, #sliderightMed,#slideright, #slideleftMed, #slideleft, .meat-navigation-icon-text span, .layout-line, .circule--1680, 	.prev, .next, .icon--hover, .box--soc, #TopScrollBtn, .galery-bar-photo a, .shortcut-icon-svg, .shortcut-text span, g svg, .overlay-close, .overlay-box span{
 	transition: 0.3s ease;
 }
 
