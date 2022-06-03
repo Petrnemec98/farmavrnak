@@ -28,42 +28,6 @@
             <img src="images/slider_hp_3.webp" alt="Frama Vrňak - kráva se senem">
           </a>
         </div>
-
-        <div class="mySlides1">
-          <a href="images/slider_hp_2.jpg" data-lightbox="roadtrip" data-title="Farma Vrňák - s rohy">
-            <img src="images/slider_hp_2.webp" alt="Farma Vrňák - s rohy ">
-          </a>
-        </div>
-
-        <div class="mySlides1">
-          <a href="images/slider_hp_1.jpg" data-lightbox="roadtrip" data-title="Farma Vrňák - traktor">
-            <img src="images/slider_hp_1.webp" alt="Farma Vrňák - traktor">
-          </a>
-        </div>
-
-        <div class="mySlides1">
-          <a href="images/slider_hp_4.jpg" data-lightbox="roadtrip" data-title="Farma Vrňák - telátko">
-            <img src="images/slider_hp_4.webp" alt="Farma Vrňák - telátko">
-          </a>
-        </div>
-
-        <div class="mySlides1">
-          <a href="images/slider_hp_5.jpg" data-lightbox="roadtrip" data-title="Farma Vrňák - býk">
-            <img src="images/slider_hp_5.webp" alt="Farma Vrňák - býk">
-          </a>
-        </div>
-
-        <div class="mySlides1">
-          <a href="images/slider_hp_6.jpg" data-lightbox="roadtrip" data-title="Farma Vrňák - slepice">
-            <img src="images/slider_hp_6.webp" alt="Farma Vrňák - slepice">
-          </a>
-        </div>
-
-        <div class="mySlides1">
-          <a href="images/slider_hp_7.jpg" data-lightbox="roadtrip" data-title="Farma Vrňák - hovězí maso">
-            <img src="images/slider_hp_7.webp" alt="Farma Vrňák - hovězí maso">
-          </a>
-        </div>
         
         <a class="prev" onclick="plusSlides(-1, 0)"></a>
         <a class="next" onclick="plusSlides(1, 0)"></a>
@@ -80,7 +44,7 @@
       </div>
     </div>  
                 
-  <div class="product--box">
+  <div class="product--box med-product-box">
       <div class="product--icon"> 
           <a href="#">                              
             <div class="icon icon--hover maso">
@@ -119,7 +83,7 @@
 
     </div>
 
-  <div class="product--box">
+  <div class="product--box med-product-box second">
       <div class="product--icon"> 
           <a href="#">                              
             <div class="icon icon--hover maso">
@@ -158,8 +122,6 @@
 
     </div>
   </div>   
-
-</div>
 </section>
 
 <!--KONEC PRODUKY-->
@@ -214,12 +176,12 @@
 
   <div class="defaul-max-wight">
     <div class="med-slider-box">
-      <div class="slide-area-right">
-    <button onclick="rightFunction()" class="slide-button" id="sliderightMed" type="button"></button>
+      <div class="slide-area-right med-slider-btn">
+    <button onclick="rightFunction()" class="slide-button med-slider-btn" id="sliderightMed" type="button"></button>
   </div>
 
-  <div class="slide-area-left">
-    <button onclick="rightFunction()" class="slide-button" id="slideleftMed" type="button"></button>
+  <div class="slide-area-left med-slider-btn">
+    <button onclick="rightFunction()" class="slide-button med-slider-btn" id="slideleftMed" type="button"></button>
   </div>
       <div id="slide-bar-med" class="med-slider">
 
@@ -298,7 +260,9 @@
           </div>
         </div>
       </div>
+
     </div>
+
   </div>
 
 

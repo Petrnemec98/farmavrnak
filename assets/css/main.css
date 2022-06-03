@@ -10,12 +10,24 @@ address{
 .med-slider-box{
 	max-width: 1580px;
 	margin: auto;
+
 }
+
+.slide-area-left.med-slider-btn, .slide-area-right.med-slider-btn{
+height: 60%;
+}
+
+
+
+
 
 .med-slider{
    display: flex;
    overflow-y: hidden;
    overflow-x: scroll;
+}
+.med-slider::-webkit-scrollbar{
+	display: none;
 }
 
 .med-box{
@@ -23,7 +35,6 @@ address{
 	background-color: white;
 	border-radius: 20px;
 	margin: 40px;
-	overflow: scroll;
 }
 
 .med-story-pics{
@@ -43,11 +54,20 @@ address{
 	margin: auto;
 	padding-top: 36px;
 }
+@media only screen and (max-width: 1596px){
+	.med-slider-box{
+		max-width: 1280px;
+	}
+
+}
 
 @media only screen and (max-width: 1280px){
-.med-box{
+	.med-box{
 	min-width: 300px;
-}
+	}
+	.med-slider-box{
+	max-width: 1088px;
+	}
 }
 @media only screen and (max-width: 1088px){
 	.med-box{
@@ -55,11 +75,33 @@ address{
 }
 }
 @media only screen and (max-width: 881px){
+	.med-product-box .icon{
+		margin: unset;
+	}
 
-}
+	.med-product-box .product--icon{
+		display: flex;
+	}
+
+	.med-product-box .porduct-desc-h3.maso-desc{
+		padding-left: 50px;
+		padding-right: 20px;
+	}
+	.product--box.med-product-box.second{
+		padding-top: 0px;
+	}
+} 
 
 
 /*Stránka med*/
+.porduct-desc-h3.maso-desc{
+	padding-left: 150px;
+}
+
+.product--box.med-product-box{
+    margin-left: 146px;
+}
+
 .sber-medu{
 	background-image: url("svg/sber-medu.svg");
 	background-repeat: no-repeat;
@@ -99,6 +141,18 @@ address{
 	width: 100%;
 	height: 100%;
 }
+
+@media only screen and (max-width: 881px){
+	.product--box.med-product-box{
+    margin-left: 0px;
+    padding-top: 70px;
+	}
+	.porduct-desc-h3.maso-desc h3{
+		text-align: left;
+	}
+
+}
+
 
 /*slide bar*/
 #slide-bar, #slide-bar-med{
