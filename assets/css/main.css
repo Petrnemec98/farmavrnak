@@ -7,6 +7,36 @@ address{
 	visibility: hidden;
 }
 
+.eco-icon-box{
+	 max-width: 1680px;
+    margin: auto;
+    DISPLAY: FLEX;
+    margin-bottom: 20px;
+    padding-left: 127px;
+}
+
+.eco-icon{
+	background-repeat: no-repeat;
+	width: 66px;
+	height: 44px;
+}
+
+.eu-bio-logo{
+	background-image: url("svg/eu-bio-logo.svg");
+}
+.cz-bio-logo{
+	background-image: url("svg/cz-bio-logo.svg");
+	margin-left: 30px;
+}
+
+@media only screen and (max-width: 881px){
+	.eco-icon-box{
+		padding-left: 55px;
+		margin-bottom: 10px;
+	}
+}
+
+
 .med-slider-box{
 	max-width: 1580px;
 	margin: auto;
@@ -1337,7 +1367,7 @@ p a{
 
 	.footer-box{
 		max-height: none;
-		min-height: 50vh;
+		min-height: 0vh;
 	}
 
 

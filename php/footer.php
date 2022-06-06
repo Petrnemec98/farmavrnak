@@ -115,6 +115,16 @@
 	                  Rabyně, 257 44
 	      </address>
 	    </article>
+
+
+	</div>
+		    <div class="eco-icon-box">
+		   		<a href="https://www.bezpecnostpotravin.cz/az/termin/91999.aspx" target="_blank">
+	    			<div class="eco-icon eu-bio-logo"></div>
+	    		</a>
+	    		<a href="https://www.bezpecnostpotravin.cz/az/termin/91999.aspx" target="_blank">
+	    			<div class="eco-icon cz-bio-logo"></div>
+	    		</a>
 		</div>
 
 		<div class="author">
