@@ -39,9 +39,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 -->
 <!-- End Google Tag Manager -->
 
-<!--SEONO
-<script src="https://www.googleoptimize.com/optimize.js?id=OPT-P5GVDR4"></script>
--->
 
 	<title> 
 		<?php
@@ -123,32 +120,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<link rel="stylesheet" href="assets/css/lightbox.css" />
 	<!--Scripty-->
 	
-
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<!--SEONO
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-JX8XSFP2JF"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'G-JX8XSFP2JF');
-	</script>
-	-->
-
-	<!-- Hotjar Tracking Code for https://farmavrnak.cz -->
-	<!--SEONO
-	<script>
-	    (function(h,o,t,j,a,r){
-	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-	        h._hjSettings={hjid:2906354,hjsv:6};
-	        a=o.getElementsByTagName('head')[0];
-	        r=o.createElement('script');r.async=1;
-	        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-	        a.appendChild(r);
-	    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-	</script>
-	-->
 
 </head>
 

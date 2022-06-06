@@ -1,5 +1,11 @@
 TODO
 - Opravit Oponku
+- doplnit alt, ke všem obrázkům
+- opravit slider na medu 
+- sjednotit odsazení stránku po stránce (raketa práce)
+- doplnit foto
+- otestovat GTM jeslti fungují jak mají 
+
 
 DONE
 - Smazat pedding u krávy 70px - done

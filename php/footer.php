@@ -9,29 +9,45 @@
 
 	<div id="slide-bar" class="galery-bar-positon">
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_2.webp"></a>
-			<div class="galery-bar-instagram"></div>
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
+				<img src="images/slider_hp_2.webp" alt="">
+			</a>
 		</div>
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_1.webp"></a>
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
+				<img src="images/slider_hp_1.webp" alt="">
+			</a>
 		</div>
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_3.webp"></a>
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
+				<img src="images/slider_hp_3.webp" alt="">
+			</a>
+		</div>
+
+		<div class="galery-bar-photo">
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
+				<img src="images/slider_hp_6.webp" alt="">
+			</a>
 		</div>
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_6.webp"></a>
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
+				<img src="images/slider_hp_4.webp" alt="">
+			</a>
 		</div>
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_4.webp"></a>
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
+				<img src="images/slider_hp_5.webp" alt="">
+			</a>
 		</div>
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_5.webp"></a>
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
+				<img src="images/slider_hp_7.webp" alt="">
+			</a>
 		</div>
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_7.webp"></a>
-		</div>
-		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/"><img src="images/slider_hp_1.webp"></a>
+			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
+				<img src="images/slider_hp_1.webp" alt="">
+			</a>
 		</div>
 	</div>
 </section>
@@ -103,7 +119,7 @@
 
 		<div class="author">
 		    <a href="https://www.instagram.com/petrnemeec/" target="_blank" >
-	    	<p>© <?php echo date("Y");?> Petr Němec</p>
+	    	<p><?php echo date("Y");?> Petr Němec</p>
 	   	 </a>
 	  </div>
 	</footer>
