@@ -6,6 +6,8 @@
 address{
 	visibility: hidden;
 }
+/*Read-more*/
+#more {display: none;}
 
 .eco-icon-box{
 	 max-width: 1680px;

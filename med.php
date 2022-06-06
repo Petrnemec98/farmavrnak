@@ -9,7 +9,7 @@
         <div class="box-h1-prepered">
           
             <div class="box-h2-title">
-              <h1>med</h1>
+              <h1>Med</h1>
             </div>
               <h2>o našem medu</h2>
             <article>
@@ -29,7 +29,9 @@
                   </br>
                   Včelaření je podle mého názoru poezie zemědělství, takže je vcelku přirozené, že jsme se při našem farmaření v Blaženicích postupem času začali zabývat i chovem včel.
                </span></p>
-               <button onclick="myFunction()" id="myBtn">Read more</button>
+               <p>
+                <a onclick="myFunction()" id="myBtn">Zjistit více</a>
+               </p>
             </div>
           </article>
         </div>

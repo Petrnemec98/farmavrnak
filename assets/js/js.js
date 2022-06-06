@@ -91,7 +91,6 @@ rightFunctionMed.onclick = function () {
         };
 
 
-
 //read-more
 function myFunction() {
   var dots = document.getElementById("dots");
@@ -100,11 +99,11 @@ function myFunction() {
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
-    btnText.innerHTML = "Read more"; 
+    btnText.innerHTML = "Zjisti více"; 
     moreText.style.display = "none";
   } else {
     dots.style.display = "none";
-    btnText.innerHTML = "Read less"; 
+    btnText.innerHTML = "Zobrazit méně"; 
     moreText.style.display = "inline";
   }
 }
