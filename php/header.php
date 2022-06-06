@@ -29,6 +29,9 @@
 <!DOCTYPE html>
 <html lang="cs">
 <head>
+
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="5de99f0d-15ee-4a6a-b8e9-2163a0531a42" data-blockingmode="auto" type="text/javascript"></script>
+
 <!-- Google Tag Manager -->
 <!--SEONO
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -125,7 +128,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <body>
 
-	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?theme=minimal&tracking=1&thirdparty=1&always=1&scrolling=1&remember=100&privacyPage=https%3A%2F%2Fwww.farmavrnak.cz"></script>
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/5de99f0d-15ee-4a6a-b8e9-2163a0531a42/cd.js" type="text/javascript" async></script>
 
 <!-- Google Tag Manager (noscript) -->
 <!--SEONO
