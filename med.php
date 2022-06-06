@@ -15,8 +15,21 @@
             <article>
             <div class="layout-description">
                 <p>
-                  V roce 2020 jsme se rozhodli, že v rámci našeho hospodaření navážeme na pradědečkovu tradici chovu včel.  Je to velmi zajímavé odvětví, které přispívá přírodě opylováním a zároveň produkuje pro člověka užitečné a zdraví prospěšné produkty. Zatím se zaměřujeme pouze na produkci domácího medu, ale do budoucna plánujeme rozšíření o další včelí produkty.
+                  O začátcích se včelařením vypráví <bold>Pavel Vrňák</bold>
                 </p>
+                <p>
+                  Se včelami jsem se poprvé blíže setkal, když mi byly asi 4 roky. Tehdy jsem trávil prázdniny u svého dědečka, který včelařil a měl úly na zahradě před domem. Moje maminka byla zrovna na obědě, když za ní přišla sousedka, že malý hošík pláče na zahradě. Ve své mladické všetečnosti jsem totiž nepozorovaně šťoural do úlu a včelky se na mě vrhly. Prý jsem tehdy utržil asi třicet žihadel.<span id="dots">...</span><span id="more">
+                  </br>
+                  </br>
+                  Později jsem začal chodit ke včelám s dědou. Chtěl jsem mu pomáhat, ale spíš jsem jen pozoroval a když bylo třeba, podržel jsem nějaký ten rámek, pomáhal jsem odvíčkovávat plástve a vytáčet med. Dodnes si pamatuji na vůni v medárně, ve včelíně i v dílně – dědeček měl totiž i truhlářskou dílnu, kde vyráběl věci potřebné pro chov včel.
+                  </br>
+                  </br>
+                  Když jsem byl starší, docházel jsem do školního včelařského kroužku, se kterým jsem se účastnil i různých okresních soutěží, na příklad Zlaté včely.
+                   </br>
+                  </br>
+                  Včelaření je podle mého názoru poezie zemědělství, takže je vcelku přirozené, že jsme se při našem farmaření v Blaženicích postupem času začali zabývat i chovem včel.
+               </span></p>
+               <button onclick="myFunction()" id="myBtn">Read more</button>
             </div>
           </article>
         </div>

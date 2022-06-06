@@ -80,16 +80,34 @@ function offOverlay(element){
         };
 
 //left right scrool
-var rightFunction = document.getElementById('sliderightMed');
-rightFunction.onclick = function () {
+var rightFunctionMed = document.getElementById('sliderightMed');
+rightFunctionMed.onclick = function () {
   document.getElementById('slide-bar-med').scrollLeft += 500;
 };
 
-        var back = document.getElementById('slideleftMed');
-        back.onclick = function () {
+        var backMed = document.getElementById('slideleftMed');
+        backMed.onclick = function () {
             document.getElementById('slide-bar-med').scrollLeft -= 500;
         };
 
+
+
+//read-more
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
 
        
 
