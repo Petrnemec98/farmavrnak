@@ -7,7 +7,10 @@ address{
 	visibility: hidden;
 }
 /*Read-more*/
-#more {display: none;}
+#more {
+	display: none;
+	font-family: 'Montserrat', sans-serif;
+}
 
 .eco-icon-box{
 	 max-width: 1680px;

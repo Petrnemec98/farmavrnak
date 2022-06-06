@@ -15,7 +15,7 @@
             <article>
             <div class="layout-description">
                 <p>
-                  O začátcích se včelařením vypráví <bold>Pavel Vrňák</bold>
+                  O začátcích se včelařením vypráví <span>Pavel Vrňák</span>
                 </p>
                 <p>
                   Se včelami jsem se poprvé blíže setkal, když mi byly asi 4 roky. Tehdy jsem trávil prázdniny u svého dědečka, který včelařil a měl úly na zahradě před domem. Moje maminka byla zrovna na obědě, když za ní přišla sousedka, že malý hošík pláče na zahradě. Ve své mladické všetečnosti jsem totiž nepozorovaně šťoural do úlu a včelky se na mě vrhly. Prý jsem tehdy utržil asi třicet žihadel.<span id="dots">...</span><span id="more">
