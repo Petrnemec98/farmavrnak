@@ -105,8 +105,9 @@
         </div>
       </div>
       <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green"></div></a>
-        <a href="#"><div class="bio-icon cow"></div></a>
+        <a href="#"><div class="bio-icon green-icon"></div></a>
+        <a href="#"><div class="bio-icon cow-icon"></div></a>
+        <a href="#"><div class="bio-icon meat-icon"></div></a>
       </div>                
     </div>
 

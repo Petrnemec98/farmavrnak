@@ -1487,16 +1487,28 @@ button{
 .bio-icon.cow-icon{
 	background-image: url("svg/CowFree.svg");
 	display: flex;
+	margin-right: 30px;
 }
-.bio-icon.green{
+.bio-icon.green-icon{
 	background-image: url("svg/BioIcon.svg");
 	display: flex;
 	margin-right: 30px;
 }
-.bio-icon.meat{
+.bio-icon.meat-icon{
 	background-image: url("svg/Meat_color.svg");
 	display: flex;
 	margin-right: 30px;
+}
+.bio-icon.info-med-icon{
+	background-image: url("svg/info-med-icon.svg");
+	display: flex;
+	margin-right: 30px;
+}
+.bio-icon.info-vcela-icon{
+	background-image: url("svg/info-vcela-icon.svg");
+	display: flex;
+	margin-right: 30px;
+	width: 80px;
 }
 @media only screen and (max-width: 881px) {
  .bio-icon-bar{

@@ -21,6 +21,11 @@
           </article>
         </div>
       </div>
+      <div class="bio-icon-bar">
+        <a href="#"><div class="bio-icon green-icon"></div></a>
+        <a href="#"><div class="bio-icon info-med-icon"></div></a>
+        <a href="#"><div class="bio-icon info-vcela-icon"></div></a>
+      </div>
     </div >
     <div class="slideshow-container">
         <div class="mySlides1">
