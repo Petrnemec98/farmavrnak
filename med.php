@@ -45,22 +45,22 @@
     <div class="slideshow-container">
         <div class="mySlides1">
           <a href="images/slider-med_uly.jpg" data-lightbox="med" data-title="Frama Vrňak - Úly">
-            <img src="images/webp/slider-med_uly.jpg" alt="Frama Vrňak - Úly">
+            <img src="images/webp/slider-med_uly.webp" alt="Frama Vrňak - Úly">
           </a>
         </div>
         <div class="mySlides1">
           <a href="images/slider-med_vcely-detail.jpg" data-lightbox="med" data-title="Frama Vrňak - Včela">
-            <img src="images/webp/slider-med_vcely-detail.jpg" alt="Frama Vrňak - vcela">
+            <img src="images/webp/slider-med_vcely-detail.webp" alt="Frama Vrňak - vcela">
           </a>
         </div>
         <div class="mySlides1">
           <a href="images/slider-med_vcely-u-cesna.jpg" data-lightbox="med" data-title="Frama Vrňak - Včely">
-            <img src="images/webp/slider-med_vcely-u-cesna.jpg" alt="Frama Vrňak - vcely">
+            <img src="images/webp/slider-med_vcely-u-cesna.webp" alt="Frama Vrňak - vcely">
           </a>
         </div>
         <div class="mySlides1">
           <a href="images/slider-med_uly-z-dalky.jpg" data-lightbox="med" data-title="Frama Vrňak - úly z dálky">
-            <img src="images/webp/slider-med_uly-z-dalky.jpg" alt="Frama Vrňak - úly z dálky">
+            <img src="images/webp/slider-med_uly-z-dalky.webp" alt="Frama Vrňak - úly z dálky">
           </a>
         </div>
         
@@ -225,7 +225,7 @@
 
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/webp/slider-med_uly.jpg" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/slider-med_uly.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med Luční</h3>
@@ -240,7 +240,7 @@
 
                 <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/webp/slider-med_vcely-detail.jpg" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/slider-med_vcely-detail.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med Luční</h3>
@@ -255,7 +255,7 @@
 
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/webp/slider-med_vcely-u-cesna.jpg" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/slider-med_vcely-u-cesna.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med Luční</h3>
@@ -270,7 +270,7 @@
 
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/webp/slider-med_uly.jpg" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/slider-med_uly.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med Luční</h3>
@@ -285,7 +285,7 @@
         
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/webp/slider-med_vcely-detail.jpg" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/slider-med_vcely-detail.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med Luční</h3>

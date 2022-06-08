@@ -26,7 +26,7 @@
     <div class="slideshow-container">
       <div class="our-story-1pics">
         <a href="images/nas-pribeh_spolecne-foto.jpg" data-lightbox="rodina" data-title="Rodina">
-          <img src="images/webp/nas-pribeh_spolecne-foto.jpg" alt="Rodina">
+          <img src="images/webp/nas-pribeh_spolecne-foto.webp" alt="Rodina">
         </a>
       </div>
     </div>
@@ -60,7 +60,7 @@
       <div class="slideshow-container">
       <div class="our-story-pics right">
        <a href="images/nas-pribeh_chov-na-pastve.jpg" data-lightbox="volny chov" data-title="Volný chov">
-          <img src="images/webp/nas-pribeh_chov-na-pastve.jpg" alt="Volný chov">
+          <img src="images/webp/nas-pribeh_chov-na-pastve.webp" alt="Volný chov">
        </a>
       </div>
     </div>
@@ -90,7 +90,7 @@
     <div class="slideshow-container">
       <div class="our-story-pics right">
        <a href="images/nas-pribeh_krava-limousine.jpg" data-lightbox="limousine" data-title="limousine">
-          <img src="images/webp/nas-pribeh_krava-limousine.jpg" alt="limousine">
+          <img src="images/webp/nas-pribeh_krava-limousine.webp" alt="limousine">
        </a>
       </div>
     </div>
@@ -127,7 +127,7 @@
       <div class="slideshow-container">
       <div class="our-story-pics right">
         <a href="images/nas-pribeh_slechteni.jpg" data-lightbox="slechteni" data-title="Šlechtění">
-          <img src="images/webp/nas-pribeh_slechteni.jpg" alt="Šlechtění">
+          <img src="images/webp/nas-pribeh_slechteni.webp" alt="Šlechtění">
        </a>
       </div>
     </div>
@@ -158,7 +158,7 @@
     <div class="slideshow-container">
       <div class="our-story-pics right">
         <a href="images/nas-pribeh_cedule-ekofarma.jpg" data-lightbox="ekofarma" data-title="Eko farma">
-          <img src="images/webp/nas-pribeh_cedule-ekofarma.jpg" alt="Eko farma">
+          <img src="images/webp/nas-pribeh_cedule-ekofarma.webp" alt="Eko farma">
        </a>
       </div>
     </div>

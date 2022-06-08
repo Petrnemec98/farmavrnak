@@ -31,32 +31,32 @@
     <div class="slideshow-container">
         <div class="mySlides1">
           <a href="images/slider-uvod_krava-zere.jpg" data-lightbox="slider" data-title="Frama Vrňak - kráva se senem">
-            <img src="images/webp/slider-uvod_krava-zere.jpg" alt="Frama Vrňak - kráva se senem">
+            <img src="images/webp/slider-uvod_krava-zere.webp" alt="Frama Vrňak - kráva se senem">
           </a>
         </div>
         <div class="mySlides1">
           <a href="images/slider-uvod_krava-limousine.jpg" data-lightbox="slider" data-title="Frama Vrňak - kráva limousine">
-            <img src="images/webp/slider-uvod_krava-limousine.jpg" alt="Frama Vrňak - kráva limousine">
+            <img src="images/webp/slider-uvod_krava-limousine.webp" alt="Frama Vrňak - kráva limousine">
           </a>
         </div>
         <div class="mySlides1">
           <a href="images/slider-uvod_bulicci.jpg" data-lightbox="slider" data-title="Frama Vrňak - kráva">
-            <img src="images/webp/slider-uvod_bulicci.jpg" alt="Frama Vrňak - kráva">
+            <img src="images/webp/slider-uvod_bulicci.webp" alt="Frama Vrňak - kráva">
           </a>
         </div>
         <div class="mySlides1">
           <a href="images/slider-uvod_traktor-john-deere.jpg" data-lightbox="slider" data-title="Frama Vrňak - traktor">
-            <img src="images/webp/slider-uvod_traktor-john-deere.jpg" alt="Frama Vrňak - traktor">
+            <img src="images/webp/slider-uvod_traktor-john-deere.webp" alt="Frama Vrňak - traktor">
           </a>
         </div>
         <div class="mySlides1">
           <a href="images/slider-uvod_tele.jpg" data-lightbox="slider" data-title="Frama Vrňak - Tele">
-            <img src="images/webp/slider-uvod_tele.jpg" alt="Frama Vrňak - Tele">
+            <img src="images/webp/slider-uvod_tele.webp" alt="Frama Vrňak - Tele">
           </a>
         </div>
         <div class="mySlides1">
           <a href="images/slider-uvod_tele-limousine.jpg" data-lightbox="slider" data-title="Frama Vrňak - Tele limousine">
-            <img src="images/webp/slider-uvod_tele-limousine.jpg" alt="Frama Vrňak - Tele limousine">
+            <img src="images/webp/slider-uvod_tele-limousine.webp" alt="Frama Vrňak - Tele limousine">
           </a>
         </div>
         <a class="prev" onclick="plusSlides(-1, 0)"></a>
