@@ -92,7 +92,7 @@ rightFunctionMed.onclick = function () {
 
 
 //read-more
-function myFunction() {
+function readmorefirst() {
   var dots = document.getElementById("dots");
   var moreText = document.getElementById("more");
   var btnText = document.getElementById("myBtn");
@@ -105,6 +105,22 @@ function myFunction() {
     dots.style.display = "none";
     btnText.innerHTML = "Zobrazit méně"; 
     moreText.style.display = "inline";
+  }
+}
+
+function readMoreSecond() {
+  var dots2 = document.getElementById("dots2");
+  var moreText2 = document.getElementById("more2");
+  var btnText2 = document.getElementById("myBtn2");
+
+  if (dots2.style.display === "none") {
+    dots2.style.display = "inline";
+    btnText2.innerHTML = "Zjistěte více o činnosti včel i o práci včelaře během roku"; 
+    moreText2.style.display = "none";
+  } else {
+    dots2.style.display = "none";
+    btnText2.innerHTML = "Zobrazit méně"; 
+    moreText2.style.display = "inline";
   }
 }
 

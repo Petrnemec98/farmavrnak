@@ -30,7 +30,7 @@
                   Včelaření je poezie zemědělství, takže je vcelku přirozené, že jsme se při našem farmaření vBlaženicích postupem času začali zabývat i chovem včel.
                </span></p>
                <p>
-                <a onclick="myFunction()" id="myBtn">Zjistit více</a>
+                <a onclick="readmorefirst()" id="myBtn">Zjistit více</a>
                </p>
             </div>
           </article>
@@ -80,7 +80,7 @@
       </div>
     </div>  
                 
-  <div class="product--box med-product-box">
+    <div class="product--box med-product-box">
       <div class="product--icon"> 
           <a href="#">                              
             <div class="icon icon--hover maso">
@@ -88,8 +88,8 @@
             </div>
           </a>
             <div class="porduct-desc-h3 maso-desc">
-              <h3><a href="#">1. SBĚR MEDU</a></h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+              <h3><a href="#">1. SBĚR NEKTARU</a></h3>
+              <p>Vše začíná tím, že včela nasaje sladké šťávy (nektar a medovici) z květů rostlin do medového váčku. Nektar pochází přímo z květů rostlin, kdežto medovice je vylučovaná hmyzem, nejčastěji mšicemi.</p>
             </div>  
       </div>
 
@@ -100,8 +100,8 @@
             </div>
           </a>
             <div class="porduct-desc-h3 maso-desc">
-              <h3><a href="#">2. VČELI V ÚLU</a></h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+              <h3><a href="#">2. CESTA Z ÚLU</a></h3>
+              <p>V medovém váčku smíchá včela sebrané sladké šťávy s vlastními enzymy, čímž začíná přeměna nektaru na med. Včelka donese nektar do úlu a předá ho jiným včelám.</p>
             </div>  
       </div>
 
@@ -112,14 +112,14 @@
             </div>
           </a>
             <div class="porduct-desc-h3 maso-desc">
-              <h3><a href="#">3.PLASTVE</a></h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+              <h3><a href="#">3. ULOŽENÍ MEDU</a></h3>
+              <p>Včely uloží nektar do buňky plástu, kde je v nektaru snižován podíl vody tím, že včelky prostor úlu klimatizují. Když je med zralý (podíl vody v medu je nižší než 20 %), včelky plástev zavíčkují voskovým víčkem.</p>
             </div>  
       </div>   
 
     </div>
 
-  <div class="product--box med-product-box second">
+    <div class="product--box med-product-box second">
       <div class="product--icon"> 
           <a href="#">                              
             <div class="icon icon--hover maso">
@@ -127,8 +127,8 @@
             </div>
           </a>
             <div class="porduct-desc-h3 maso-desc">
-              <h3><a href="#">4. VYTAČENÍ MEDU</a></h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+              <h3><a href="#">4. ODEBRÁNÍ RÁMKŮ</a></h3>
+              <p>Když jsou plásty zavíčkované, je to signál pro včelaře, že už je med vhodný k vytáčení. Plásty plné medu včelař odebere z úlu a odvíčkuje je.</p>
             </div>  
       </div>
 
@@ -139,8 +139,8 @@
             </div>
           </a>
             <div class="porduct-desc-h3 maso-desc">
-              <h3><a href="#">5. SLÉVÁNÍ MEDU</a></h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+              <h3><a href="#">5. STÁČENÍ MEDU</a></h3>
+              <p>Rámky s plásty se umístí do medometu, kde se z nich odstředivou silou vymetá med, který se dále cedí přes síta. Následně včelař stočí med do sklenic.</p>
             </div>  
       </div>
 
@@ -151,15 +151,35 @@
             </div>
           </a>
             <div class="porduct-desc-h3 maso-desc">
-              <h3><a href="#">6. SKLENICE MEDU</a></h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+              <h3><a href="#">6. HOTOVÝ MED</a></h3>
+              <p>Takto se dostává med z naší farmy až na Váš stůl. Díky vysokému obsahu cukrů má med samokonzervační účinky. Přirozenou vlastností medu je krystalizace, kterou med neztrácí svou hodnotu.</p>
             </div>  
       </div>   
 
     </div>
-
-    
-  </div>   
+  </div> 
+  <article>
+            <div class="layout-description">
+                <p>
+                  <span id="dots2"></span><span id="more2">Včelí společenství je naprosto dokonale organizovaná továrna, která má svá jasně daná pravidla. Jedná se o dokonalý řád stvořený stvořitelem. Včelař sice může při své práci.provádět jisté zásahy, ale odpověď, zda bylo dané opatření chovu prospěšné či nikoli, dávají samy včelky. 
+                  </br>
+                  </br>
+                  Proces získávání medu je vrcholem včelařské sezóny. Čas medobraní nastává většinou v červnu a červenci. Nejvyšší aktivita včel začíná počátkem března, kdy při oteplení a sluneční aktivitě začíná matka masivně klást vajíčka (zhruba 2 500 vajíček za den). Ke konci dubna je už úl plný včel.
+                  </br>
+                  </br>
+                  Podmínkou dobré snůšky je příznivé letové počasí. V příznivých dnech jsou včelky schopné zanést do úlu 3 až 4 kilogramy nektaru. Včely v úlu topí a větrají, čímž klimatizují vnitřní prostor. V medu tak klesá obsah vody – med musí mít obsah vody nižší než 20 %, jinak hrozí zkvašení medu. Buňky s medem včely zavíčkují. Plásty se zralým medem se odeberou z úlu medometu se odstředivou silou z rámků (plástů) vymetá med. 
+                   </br>
+                  </br>
+                  Med se liší svým složením podle toho, na jaké rostliny včely létají (tedy jaké rostliny v daném období a prostředí rostou). Existuje med květový (luční), med s přívlastkem (akátový, lipový či řepkový), med medovicový (lesní), ale velmi často je med smíšený.
+                  </br>
+                  </br>
+                  Po vytočení medu nastává období krmení. Odebráním medu totiž včelkám vlastně sebereme jejich zásoby na zimu. Proto je třeba včely krmit, aby měly z čeho vyhřívat úl v zimním období. Toto období trvá od září do února. Včelař během této doby renovuje úly a rámky, natavuje mezistěny a chystá další příslušenství, které není zrovna obsazené včelami. Přes zimu je včelí společenství co do počtu jedinců zhruba poloviční.
+               </span></p>
+               <p class="readmoresecond">
+                <a onclick="readMoreSecond()" class="readmoresecond" id="myBtn2">Zjistěte více o činnosti včel i o práci včelaře během roku</a>
+               </p>
+            </div>
+          </article>  
 </section>
 
 <!--KONEC PRODUKY-->
@@ -228,9 +248,9 @@
             <img src="images/webp/slider-med_uly.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
-            <h3>Med Luční</h3>
+            <h3>Med květový</h3>
             <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
+                Jako med květový či luční nazýváme první jarní snůšku z květů ovocných stromů, řepky a luk. Díky obsahu jednoduchých cukrů (glukózy a fruktózy) je snadno stravitelný a umožňuje rychlé energetické posílení organismu...
             </p>
             <p>
               <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
@@ -243,9 +263,9 @@
             <img src="images/webp/slider-med_vcely-detail.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
-            <h3>Med Luční</h3>
+            <h3>Med květový pastovaný</h3>
             <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
+                Charakteristickou vlastností květových medů je rychlá krystalizace, které se dá zabránit pouze pastováním. Jedná se o specifický způsob zpracování medu, při které je med pomalu míchán, čímž je řízena přirozená krystalizace a zmenšuje se...
             </p>
             <p>
               <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
@@ -258,9 +278,9 @@
             <img src="images/webp/slider-med_vcely-u-cesna.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
-            <h3>Med Luční</h3>
+            <h3>Med panenský</h3>
             <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
+                Panenský květový med je vytáčen z panenských medových pláství, tedy z čerstvě vystavěných pláství, které matka ještě nezakladla. Tyto plástve mají proto velmi světlou žlutou barvu. Panenský med má specifickou jemnou chuť.
             </p>
             <p>
               <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
@@ -273,9 +293,9 @@
             <img src="images/webp/slider-med_uly.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
-            <h3>Med Luční</h3>
+            <h3>Med s přívlastkem</h3>
             <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
+                Jako med s přívlastkem nazýváme takový med, u kterého lze na základě jeho chuti a doby sběru nektaru říci, že V něm převažuje druh nektaru určité rostliny, např. akátu, lípy, řepky atd...
             </p>
             <p>
               <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
@@ -288,15 +308,31 @@
             <img src="images/webp/slider-med_vcely-detail.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
-            <h3>Med Luční</h3>
+            <h3>Med medovicový (lesní)</h3>
             <p>
-                Chovat kravky chtěli v souladu s přírodou volně na pastvě. To nebylo v té době vůbec běžné, protože většina chovů byla tehdy ve velkých družstevních kravínech, kde byly krávy nejčastěji chovány ve vazném ustájení, což jim neumožňovalo žádný větší pohyb. Tehdy bylo populární například plemeno Charollais, které ale není příliš vhodné pro chov na pastvě bez dalšího přikrmování.
+                Medovice je sladká tekutina tvořená z rostlinných šťáv, která tvoří lepkavé povlaky či kapky na listech a jiných částech rostlin. Producenti medovice (např. mšice) nasávají rostlinné šťávy, ze kterých pro sebe oddělí dusíkaté látky...
             </p>
             <p>
               <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
             </p>
           </div>
         </div>
+
+        <div id="slide-bar" class="med-box">
+          <div class="med-story-pics">
+            <img src="images/webp/slider-med_vcely-detail.webp" alt="Frama Vrňak - kráva s rohy">
+          </div>
+          <div class="med-content">
+            <h3>Med smíšený</h3>
+            <p>
+                Med smíšený vzniká jako směs medů nektarových (květových) a medovicových (lesních). Mísení různých druhů medu je přirozené už při zpracování samotnými včelami v úlu. Složení medu...
+            </p>
+            <p>
+              <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
+            </p>
+          </div>
+        </div>
+
       </div>
 
     </div>
