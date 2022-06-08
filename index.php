@@ -30,47 +30,35 @@
     </div >
     <div class="slideshow-container">
         <div class="mySlides1">
-          <a href="images/slider_hp_3.jpg" data-lightbox="roadtrip" data-title="Frama Vrňak - kráva se senem">
-            <img src="images/slider_hp_3.webp" alt="Frama Vrňak - kráva se senem">
+          <a href="images/slider-uvod_krava-zere.jpg" data-lightbox="slider" data-title="Frama Vrňak - kráva se senem">
+            <img src="images/webp/slider-uvod_krava-zere.jpg" alt="Frama Vrňak - kráva se senem">
           </a>
         </div>
-
         <div class="mySlides1">
-          <a href="images/slider_hp_2.jpg" data-lightbox="roadtrip" data-title="Farma Vrňák - s rohy">
-            <img src="images/slider_hp_2.webp" alt="Farma Vrňák - s rohy ">
+          <a href="images/slider-uvod_krava-limousine.jpg" data-lightbox="slider" data-title="Frama Vrňak - kráva limousine">
+            <img src="images/webp/slider-uvod_krava-limousine.jpg" alt="Frama Vrňak - kráva limousine">
           </a>
         </div>
-
         <div class="mySlides1">
-          <a href="images/slider_hp_1.jpg" data-lightbox="roadtrip" data-title="Farma Vrňák - traktor">
-            <img src="images/slider_hp_1.webp" alt="Farma Vrňák - traktor">
+          <a href="images/slider-uvod_bulicci.jpg" data-lightbox="slider" data-title="Frama Vrňak - kráva">
+            <img src="images/webp/slider-uvod_bulicci.jpg" alt="Frama Vrňak - kráva">
           </a>
         </div>
-
         <div class="mySlides1">
-          <a href="images/slider_hp_4.jpg" data-lightbox="roadtrip" data-title="Farma Vrňák - telátko">
-            <img src="images/slider_hp_4.webp" alt="Farma Vrňák - telátko">
+          <a href="images/slider-uvod_traktor-john-deere.jpg" data-lightbox="slider" data-title="Frama Vrňak - traktor">
+            <img src="images/webp/slider-uvod_traktor-john-deere.jpg" alt="Frama Vrňak - traktor">
           </a>
         </div>
-
         <div class="mySlides1">
-          <a href="images/slider_hp_5.jpg" data-lightbox="roadtrip" data-title="Farma Vrňák - býk">
-            <img src="images/slider_hp_5.webp" alt="Farma Vrňák - býk">
+          <a href="images/slider-uvod_tele.jpg" data-lightbox="slider" data-title="Frama Vrňak - Tele">
+            <img src="images/webp/slider-uvod_tele.jpg" alt="Frama Vrňak - Tele">
           </a>
         </div>
-
         <div class="mySlides1">
-          <a href="images/slider_hp_6.jpg" data-lightbox="roadtrip" data-title="Farma Vrňák - slepice">
-            <img src="images/slider_hp_6.webp" alt="Farma Vrňák - slepice">
+          <a href="images/slider-uvod_tele-limousine.jpg" data-lightbox="slider" data-title="Frama Vrňak - Tele limousine">
+            <img src="images/webp/slider-uvod_tele-limousine.jpg" alt="Frama Vrňak - Tele limousine">
           </a>
         </div>
-
-        <div class="mySlides1">
-          <a href="images/slider_hp_7.jpg" data-lightbox="roadtrip" data-title="Farma Vrňák - hovězí maso">
-            <img src="images/slider_hp_7.webp" alt="Farma Vrňák - hovězí maso">
-          </a>
-        </div>
-        
         <a class="prev" onclick="plusSlides(-1, 0)"></a>
         <a class="next" onclick="plusSlides(1, 0)"></a>
     </div>

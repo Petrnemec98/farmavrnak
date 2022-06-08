@@ -10,43 +10,33 @@
 	<div id="slide-bar" class="galery-bar-positon">
 		<div class="galery-bar-photo">
 			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/slider_hp_2.webp" alt="">
+				<img src="images/webp/slider-med_uly.jpg" alt="instagram">
 			</a>
 		</div>
 		<div class="galery-bar-photo">
 			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/slider_hp_1.webp" alt="">
+				<img src="images/webp/slider-uvod_krava-zere.jpg" alt="instagram">
 			</a>
 		</div>
 		<div class="galery-bar-photo">
 			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/slider_hp_3.webp" alt="">
+				<img src="images/webp/slider-uvod_traktor-john-deere.jpg" alt="instagram">
 			</a>
 		</div>
 
 		<div class="galery-bar-photo">
 			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/slider_hp_6.webp" alt="">
+				<img src="images/webp/slider-med_vcely-detail.jpg" alt="instagram">
 			</a>
 		</div>
 		<div class="galery-bar-photo">
 			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/slider_hp_4.webp" alt="">
+				<img src="images/webp/slider-med_uly-z-dalky.jpg" alt="instagram">
 			</a>
 		</div>
 		<div class="galery-bar-photo">
 			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/slider_hp_5.webp" alt="">
-			</a>
-		</div>
-		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/slider_hp_7.webp" alt="">
-			</a>
-		</div>
-		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/slider_hp_1.webp" alt="">
+				<img src="images/webp/slider-uvod_tele.jpg" alt="instagram">
 			</a>
 		</div>
 	</div>

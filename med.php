@@ -27,7 +27,7 @@
                   Když jsem byl starší, docházel jsem do školního včelařského kroužku, se kterým jsem se účastnil i různých okresních soutěží, na příklad Zlaté včely.
                    </br>
                   </br>
-                  Včelaření je podle mého názoru poezie zemědělství, takže je vcelku přirozené, že jsme se při našem farmaření v Blaženicích postupem času začali zabývat i chovem včel.
+                  Včelaření je poezie zemědělství, takže je vcelku přirozené, že jsme se při našem farmaření vBlaženicích postupem času začali zabývat i chovem včel.
                </span></p>
                <p>
                 <a onclick="myFunction()" id="myBtn">Zjistit více</a>
@@ -44,10 +44,26 @@
     </div >
     <div class="slideshow-container">
         <div class="mySlides1">
-          <a href="images/slider_hp_3.jpg" data-lightbox="roadtrip" data-title="Frama Vrňak - kráva se senem">
-            <img src="images/slider_hp_3.webp" alt="Frama Vrňak - kráva se senem">
+          <a href="images/slider-med_uly.jpg" data-lightbox="med" data-title="Frama Vrňak - Úly">
+            <img src="images/webp/slider-med_uly.jpg" alt="Frama Vrňak - Úly">
           </a>
         </div>
+        <div class="mySlides1">
+          <a href="images/slider-med_vcely-detail.jpg" data-lightbox="med" data-title="Frama Vrňak - Včela">
+            <img src="images/webp/slider-med_vcely-detail.jpg" alt="Frama Vrňak - vcela">
+          </a>
+        </div>
+        <div class="mySlides1">
+          <a href="images/slider-med_vcely-u-cesna.jpg" data-lightbox="med" data-title="Frama Vrňak - Včely">
+            <img src="images/webp/slider-med_vcely-u-cesna.jpg" alt="Frama Vrňak - vcely">
+          </a>
+        </div>
+        <div class="mySlides1">
+          <a href="images/slider-med_uly-z-dalky.jpg" data-lightbox="med" data-title="Frama Vrňak - úly z dálky">
+            <img src="images/webp/slider-med_uly-z-dalky.jpg" alt="Frama Vrňak - úly z dálky">
+          </a>
+        </div>
+        
         
         <a class="prev" onclick="plusSlides(-1, 0)"></a>
         <a class="next" onclick="plusSlides(1, 0)"></a>
@@ -141,6 +157,8 @@
       </div>   
 
     </div>
+
+    
   </div>   
 </section>
 
@@ -207,7 +225,7 @@
 
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/slider-med_uly.jpg" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med Luční</h3>
@@ -222,7 +240,7 @@
 
                 <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/slider-med_vcely-detail.jpg" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med Luční</h3>
@@ -237,7 +255,7 @@
 
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/slider-med_vcely-u-cesna.jpg" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med Luční</h3>
@@ -252,7 +270,7 @@
 
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/slider-med_uly.jpg" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med Luční</h3>
@@ -267,7 +285,7 @@
         
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/slider-med_vcely-detail.jpg" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med Luční</h3>

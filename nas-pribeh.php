@@ -25,8 +25,8 @@
     </div >
     <div class="slideshow-container">
       <div class="our-story-1pics">
-        <a href="images/slider_hp_3.jpg" data-lightbox="image-1" data-title="Foto">
-          <img src="images/slider_hp_3.webp" alt="Frama Vrňak - kráva s rohy">
+        <a href="images/nas-pribeh_spolecne-foto.jpg" data-lightbox="rodina" data-title="Rodina">
+          <img src="images/webp/nas-pribeh_spolecne-foto.jpg" alt="Rodina">
         </a>
       </div>
     </div>
@@ -59,8 +59,8 @@
     </div>
       <div class="slideshow-container">
       <div class="our-story-pics right">
-       <a href="images/slider_hp_5.jpg" data-lightbox="image-1" data-title="My caption">
-          <img src="images/slider_hp_5.webp" alt="Frama Vrňak - kráva s rohy">
+       <a href="images/nas-pribeh_chov-na-pastve.jpg" data-lightbox="volny chov" data-title="Volný chov">
+          <img src="images/webp/nas-pribeh_chov-na-pastve.jpg" alt="Volný chov">
        </a>
       </div>
     </div>
@@ -89,7 +89,9 @@
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-       
+       <a href="images/nas-pribeh_krava-limousine.jpg" data-lightbox="limousine" data-title="limousine">
+          <img src="images/webp/nas-pribeh_krava-limousine.jpg" alt="limousine">
+       </a>
       </div>
     </div>
   </div>
@@ -124,7 +126,9 @@
 
       <div class="slideshow-container">
       <div class="our-story-pics right">
-        <img src="images/slider_hp_1.webp" alt="Frama Vrňak - kráva s rohy">
+        <a href="images/nas-pribeh_slechteni.jpg" data-lightbox="slechteni" data-title="Šlechtění">
+          <img src="images/webp/nas-pribeh_slechteni.jpg" alt="Šlechtění">
+       </a>
       </div>
     </div>
 
@@ -153,7 +157,9 @@
     </div >
     <div class="slideshow-container">
       <div class="our-story-pics right">
-        <img src="images/slider_hp_6.webp" alt="Frama Vrňak - kráva s rohy">
+        <a href="images/nas-pribeh_cedule-ekofarma.jpg" data-lightbox="ekofarma" data-title="Eko farma">
+          <img src="images/webp/nas-pribeh_cedule-ekofarma.jpg" alt="Eko farma">
+       </a>
       </div>
     </div>
   </div>

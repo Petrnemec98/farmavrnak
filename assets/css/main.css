@@ -183,7 +183,7 @@ height: 60%;
 @media only screen and (max-width: 881px){
 	.product--box.med-product-box{
     margin-left: 0px;
-    padding-top: 70px;
+    padding-top: 30px;
 	}
 	.med-product-box .porduct-desc-h3.maso-desc h3{
 		text-align: left;

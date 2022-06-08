@@ -5,6 +5,7 @@ TODO
 - sjednotit odsazení stránku po stránce (raketa práce)
 - doplnit foto
 - otestovat GTM jeslti fungují jak mají 
+- Read more > uělat podle data-id 
 
 
 DONE
