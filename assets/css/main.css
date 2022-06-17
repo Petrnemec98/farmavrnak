@@ -121,9 +121,7 @@ article.med-p .bio-icon-bar{
 	padding-bottom: 30px;
 }
 
-.med-product-box .product--icon.first-product{
-	padding-top: 30px;
-}
+
 
 .med-slider-box{
 	max-width: 1580px;
@@ -201,6 +199,9 @@ height: 60%;
 @media only screen and (max-width: 881px){
 	.med-product-box .icon{
 		margin: unset;
+	}
+	.med-product-box .product--icon.first-product{
+	padding-top: 30px;
 	}
 
 	.med-product-box .product--icon{

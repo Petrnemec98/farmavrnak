@@ -319,8 +319,8 @@
               Jako med květový či luční nazýváme první jarní snůšku z květů ovocných stromů, řepky a luk. Díky obsahu jednoduchých cukrů (glukózy a fruktózy) je snadno stravitelný a umožňuje rychlé energetické posílení organismu. Obsahuje pylová zrna jarních rostlin a jeho pravidelná konzumace může snížit projevy pylových alergií.
             </p>
             <div class="bio-icon-bar">
-              <a href="#"><div class="bio-icon green-icon"></div></a>
-              <a href="#"><div class="bio-icon info-vcela-icon"></div></a>
+              <div class="bio-icon green-icon"></div>
+              <div class="bio-icon info-vcela-icon"></div>
             </div>
         </article>
 
