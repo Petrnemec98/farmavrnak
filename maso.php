@@ -1,6 +1,5 @@
 <?php
   include 'php/header.php';
-  
 ?>
 
 
@@ -60,7 +59,9 @@
   </div> 
 
 
-
+<?php
+include 'php/overlay.php';
+?>
 
   <div class="defaul-max-wight">
     <!-- Overlay icon-->
@@ -3485,7 +3486,5 @@
 -->
 
 <?php
-include 'php/overlay.php';
 include 'php/footer.php';
-
 ?>

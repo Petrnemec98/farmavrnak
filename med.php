@@ -1,7 +1,7 @@
 <?php
   include 'php/header.php';
 
-include 'php/overlay.php'; 
+
 ?>
 
 
@@ -40,9 +40,9 @@ include 'php/overlay.php';
         </div>
       </div>
       <div class="bio-icon-bar">
-        <a href="#"><div class="bio-icon green-icon"></div></a>
-        <a href="#"><div class="bio-icon info-med-icon"></div></a>
-        <a href="#"><div class="bio-icon info-vcela-icon"></div></a>
+        <div class="bio-icon green-icon"></div>
+        <div class="bio-icon info-med-icon"></div>
+        <div class="bio-icon info-vcela-icon"></div>
       </div>
     </div >
     <div class="slideshow-container">
@@ -76,7 +76,9 @@ include 'php/overlay.php';
 
 <!--KONEC PRVNÍ BLOK-->
 
-
+<?php
+  include 'php/overlay.php'; 
+?>
 
 <section class="content-2-box">
   <div class="defaul-max-wight">
@@ -86,38 +88,35 @@ include 'php/overlay.php';
     </div>  
                 
     <div class="product--box med-product-box">
-      <div class="product--icon"> 
-          <a href="#">                              
-            <div class="icon icon--hover maso">
+      <div class="product--icon first-product"> 
+                                       
+            <div class="icon maso">
               <div class="sber-medu"></div>
             </div>
-          </a>
+      
             <div class="porduct-desc-h3 maso-desc">
-              <h3><a href="#">1. SBĚR NEKTARU</a></h3>
+              <h3>1. SBĚR NEKTARU</h3>
               <p>Vše začíná tím, že včela nasaje sladké šťávy (nektar a medovici) z květů rostlin do medového váčku. Nektar pochází přímo z květů rostlin, kdežto medovice je vylučovaná hmyzem, nejčastěji mšicemi.</p>
             </div>  
       </div>
 
-      <div class="product--icon"> 
-        <a href="#">                              
-            <div class="icon icon--hover maso">
+      <div class="product--icon">                            
+            <div class="icon maso">
               <div class="ul-icon"></div>
             </div>
-          </a>
             <div class="porduct-desc-h3 maso-desc">
-              <h3><a href="#">2. CESTA Z ÚLU</a></h3>
+              <h3>2. CESTA Z ÚLU</h3>
               <p>V medovém váčku smíchá včela sebrané sladké šťávy s vlastními enzymy, čímž začíná přeměna nektaru na med. Včelka donese nektar do úlu a předá ho jiným včelám.</p>
             </div>  
       </div>
 
-      <div class="product--icon"> 
-        <a href="#">                              
-            <div class="icon icon--hover maso">
+      <div class="product--icon">                               
+            <div class="icon maso">
               <div class="plastve"></div>
             </div>
-          </a>
+
             <div class="porduct-desc-h3 maso-desc">
-              <h3><a href="#">3. ULOŽENÍ MEDU</a></h3>
+              <h3>3. ULOŽENÍ MEDU</h3>
               <p>Včely uloží nektar do buňky plástu, kde je v nektaru snižován podíl vody tím, že včelky prostor úlu klimatizují. Když je med zralý (podíl vody v medu je nižší než 20 %), včelky plástev zavíčkují voskovým víčkem.</p>
             </div>  
       </div>   
@@ -125,46 +124,43 @@ include 'php/overlay.php';
     </div>
 
     <div class="product--box med-product-box second">
-      <div class="product--icon"> 
-          <a href="#">                              
-            <div class="icon icon--hover maso">
+      <div class="product--icon">                             
+            <div class="icon maso">
               <div class="vytaceni-medu"></div>
             </div>
-          </a>
             <div class="porduct-desc-h3 maso-desc">
-              <h3><a href="#">4. ODEBRÁNÍ RÁMKŮ</a></h3>
+              <h3>4. ODEBRÁNÍ RÁMKŮ</h3>
               <p>Když jsou plásty zavíčkované, je to signál pro včelaře, že už je med vhodný k vytáčení. Plásty plné medu včelař odebere z úlu a odvíčkuje je.</p>
             </div>  
       </div>
 
-      <div class="product--icon"> 
-        <a href="#">                              
-            <div class="icon icon--hover maso">
+      <div class="product--icon">                            
+            <div class="icon maso">
               <div class="slevani-medu"></div>
             </div>
-          </a>
+
             <div class="porduct-desc-h3 maso-desc">
-              <h3><a href="#">5. STÁČENÍ MEDU</a></h3>
+              <h3>5. STÁČENÍ MEDU</h3>
               <p>Rámky s plásty se umístí do medometu, kde se z nich odstředivou silou vymetá med, který se dále cedí přes síta. Následně včelař stočí med do sklenic.</p>
             </div>  
       </div>
 
-      <div class="product--icon"> 
-        <a href="#">                              
-            <div class="icon icon--hover maso">
+      <div class="product--icon">                              
+            <div class="icon maso">
               <div class="sklenice-medu"></div>
             </div>
-          </a>
+
             <div class="porduct-desc-h3 maso-desc">
-              <h3><a href="#">6. HOTOVÝ MED</a></h3>
+              <h3>6. HOTOVÝ MED</h3>
               <p>Takto se dostává med z naší farmy až na Váš stůl. Díky vysokému obsahu cukrů má med samokonzervační účinky. Přirozenou vlastností medu je krystalizace, kterou med neztrácí svou hodnotu.</p>
             </div>  
       </div>   
 
     </div>
   </div> 
+  <div class="defaul-max-wight">
   <article>
-            <div class="layout-description">
+            <div class="content-container">
                 <p>
                   <span id="dots2"></span><span id="more2">Včelí společenství je naprosto dokonale organizovaná továrna, která má svá jasně daná pravidla. Jedná se o dokonalý řád stvořený stvořitelem. Včelař sice může při své práci.provádět jisté zásahy, ale odpověď, zda bylo dané opatření chovu prospěšné či nikoli, dávají samy včelky. 
                   </br>
@@ -185,6 +181,7 @@ include 'php/overlay.php';
                </p>
             </div>
           </article>  
+        </div>
 </section>
 
 <!--KONEC PRODUKY-->
