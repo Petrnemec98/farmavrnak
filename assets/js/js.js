@@ -57,13 +57,15 @@ function topFunction() {
 //Overlay
 //open
 function onOverlay(element) {
- document.getElementById(element.getAttribute("data-id")).style.display = "block";
+ document.getElementById(element.getAttribute("data-id")).classList.add('overlay-active');
+ document.getElementById(element.getAttribute("data-id")).classList.remove('overlay-noactive');
 }
 
 //close 
 function offOverlay(element){
 
-	  document.getElementById(element.getAttribute("data-id")).style.display = "none";
+	  document.getElementById(element.getAttribute("data-id")).classList.add('overlay-noactive');
+    document.getElementById(element.getAttribute("data-id")).classList.remove('overlay-active');
 }
 
 //left right scrool - FOOTER

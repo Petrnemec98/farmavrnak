@@ -21,25 +21,21 @@
 ?>
 
 
-<?php
-  include 'logo.php';
-?>
-
 
 <!DOCTYPE html>
 <html lang="cs">
 <head>
 
+<!--Cookiebot-->
 <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="5de99f0d-15ee-4a6a-b8e9-2163a0531a42" data-blockingmode="auto" type="text/javascript"></script>
+<!--END - Cookiebot-->
 
 <!-- Google Tag Manager -->
-<!--SEONO
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WZNPGTK');</script>
--->
 <!-- End Google Tag Manager -->
 
 
@@ -56,14 +52,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	 	?>	
 	</title>
 		
-		<!-- technické parametry -->
+		<!-- Tech. spec-->
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="author" content="Petr Němec" />
-		<!--SEONO <meta name="robots" content="index, follow" /> -->
+		<meta name="robots" content="index, follow" />
 		<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
 
-		<!--Facebook-->
+		<!--Facebook - SEO-->
 		<meta property="og:title" content="Farma Vrňák" />
 		<meta property="og:description" content="Na Farmě Vrňák se zabýváme produkcí bio hovězího masa a včelího medu. Naším cílem je kvalitní život zvířat, naše krávy se pasou na loukách u slapské přehrady." />
 		<meta property="og:image" content="https://www.farmavrnak.cz/images/slider_hp_1.webp" />

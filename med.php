@@ -1,6 +1,9 @@
 <?php
   include 'php/header.php';
+
+include 'php/overlay.php'; 
 ?>
+
 
 <section class="section-1box-hp">
   <div class="defaul-max-wight">                       
@@ -72,6 +75,8 @@
 </section>
 
 <!--KONEC PRVNÍ BLOK-->
+
+
 
 <section class="content-2-box">
   <div class="defaul-max-wight">
@@ -245,7 +250,7 @@
 
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/webp/slider-med_uly.webp" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/Med_Kvetovy.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med květový</h3>
@@ -253,14 +258,14 @@
                 Jako med květový či luční nazýváme první jarní snůšku z květů ovocných stromů, řepky a luk. Díky obsahu jednoduchých cukrů (glukózy a fruktózy) je snadno stravitelný a umožňuje rychlé energetické posílení organismu...
             </p>
             <p>
-              <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
+              <a data-id="med-kvetovy" onclick="onOverlay(this)">Zjistit více</a>
             </p>
           </div>
         </div>
 
                 <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/webp/slider-med_vcely-detail.webp" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/Med_Pastovany.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med květový pastovaný</h3>
@@ -275,7 +280,7 @@
 
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/webp/slider-med_vcely-u-cesna.webp" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/Med_Panensky.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med panenský</h3>
@@ -290,7 +295,7 @@
 
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/webp/slider-med_uly.webp" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/Med_S-privlastkem.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med s přívlastkem</h3>
@@ -305,7 +310,7 @@
         
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/webp/slider-med_vcely-detail.webp" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/Med_Medovicovy.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med medovicový (lesní)</h3>
@@ -320,7 +325,7 @@
 
         <div id="slide-bar" class="med-box">
           <div class="med-story-pics">
-            <img src="images/webp/slider-med_vcely-detail.webp" alt="Frama Vrňak - kráva s rohy">
+            <img src="images/webp/Med_Smiseny.webp" alt="Frama Vrňak - kráva s rohy">
           </div>
           <div class="med-content">
             <h3>Med smíšený</h3>
@@ -347,7 +352,7 @@
 
 
 <?php
-include 'php/overlay.php';
+
 include 'php/footer.php';
 
 ?>
