@@ -148,10 +148,6 @@
             <p>
               Medovice je sladká tekutina tvořená z rostlinných šťáv, která tvoří lepkavé povlaky či kapky na listech a jiných částech rostlin. Producenti medovice (např. mšice) nasávají rostlinné šťávy, ze kterých pro sebe oddělí dusíkaté látky a cukrové látky poté vypustí ven právě v podobě medovice. Medovicový či lesní med je zpravidla tmavší, má charakteristickou vůni a ostřejší chuť. Oproti květovému medu obsahuje méně glukózy a fruktózy, ale naopak více sacharózy či prospěšných minerálních látek.
             </p>
-            <div class="bio-icon-bar">
-              <div class="bio-icon green-icon"></div>
-              <div class="bio-icon info-vcela-icon"></div>
-            </div>
         </article>
 
         <div class="overly-med-img-box">
