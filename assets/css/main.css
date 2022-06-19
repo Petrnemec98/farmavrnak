@@ -649,6 +649,7 @@ height: 60%;
 	width: 200px;
 	position: relative;
 	margin-left: 228px;
+	top: -1px;
 }
 
 .half-circule.dark{

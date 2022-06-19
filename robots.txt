@@ -1,4 +1,5 @@
 User-Agent: *
-Disallow: /
-
-
+Disallow: /php/
+Disallow: /devtest/
+Disallow: /assets/
+Disallow: /.git/

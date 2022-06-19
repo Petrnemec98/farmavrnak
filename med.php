@@ -20,7 +20,7 @@
                 <p>
                   O začátcích se včelařením vypráví <span>Pavel Vrňák</span>
                 </p>
-                <p>
+                <p id="o-medu">
                   Se včelami jsem se poprvé blíže setkal, když mi byly asi 4 roky. Tehdy jsem trávil prázdniny u svého dědečka, který včelařil a měl úly na zahradě před domem. Moje maminka byla zrovna na obědě, když za ní přišla sousedka, že malý hošík pláče na zahradě. Ve své mladické všetečnosti jsem totiž nepozorovaně šťoural do úlu a včelky se na mě vrhly. Prý jsem tehdy utržil asi třicet žihadel.<span id="dots">...</span><span id="more">
                   </br>
                   </br>
@@ -33,7 +33,7 @@
                   Včelaření je poezie zemědělství, takže je vcelku přirozené, že jsme se při našem farmaření vBlaženicích postupem času začali zabývat i chovem včel.
                </span></p>
                <p>
-                <a onclick="readmorefirst()" id="myBtn">Zjistit více</a>
+                <a href="#o-med" onclick="readmorefirst()" id="myBtn">Zjistit více</a>
                </p>
             </div>
           </article>
@@ -161,7 +161,7 @@
   <div class="defaul-max-wight">
   <article>
             <div class="content-container">
-                <p>
+                <p id="medy">
                   <span id="dots2"></span><span id="more2">Včelí společenství je naprosto dokonale organizovaná továrna, která má svá jasně daná pravidla. Jedná se o dokonalý řád stvořený stvořitelem. Včelař sice může při své práci.provádět jisté zásahy, ale odpověď, zda bylo dané opatření chovu prospěšné či nikoli, dávají samy včelky. 
                   </br>
                   </br>
@@ -177,7 +177,7 @@
                   Po vytočení medu nastává období krmení. Odebráním medu totiž včelkám vlastně sebereme jejich zásoby na zimu. Proto je třeba včely krmit, aby měly z čeho vyhřívat úl v zimním období. Toto období trvá od září do února. Včelař během této doby renovuje úly a rámky, natavuje mezistěny a chystá další příslušenství, které není zrovna obsazené včelami. Přes zimu je včelí společenství co do počtu jedinců zhruba poloviční.
                </span></p>
                <p class="readmoresecond">
-                <a onclick="readMoreSecond()" class="readmoresecond" id="myBtn2">Zjistěte více o činnosti včel i o práci včelaře během roku</a>
+                <a href="#medy" onclick="readMoreSecond()" class="readmoresecond" id="myBtn2">Zjistěte více o činnosti včel i o práci včelaře během roku</a>
                </p>
             </div>
           </article>  
