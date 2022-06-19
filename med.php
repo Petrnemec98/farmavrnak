@@ -264,7 +264,7 @@
                 Charakteristickou vlastností květových medů je rychlá krystalizace, které se dá zabránit pouze pastováním. Jedná se o specifický způsob zpracování medu, při které je med pomalu míchán, čímž je řízena přirozená krystalizace a zmenšuje se...
             </p>
             <p>
-              <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
+              <a data-id="med-kvetovy-pastovany" onclick="onOverlay(this)">Zjistit více</a>
             </p>
           </div>
         </div>
@@ -279,7 +279,7 @@
                 Panenský květový med je vytáčen z panenských medových pláství, tedy z čerstvě vystavěných pláství, které matka ještě nezakladla. Tyto plástve mají proto velmi světlou žlutou barvu. Panenský med má specifickou jemnou chuť.
             </p>
             <p>
-              <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
+              <a data-id="med-panensky" onclick="onOverlay(this)">Zjistit více</a>
             </p>
           </div>
         </div>
@@ -294,7 +294,7 @@
                 Jako med s přívlastkem nazýváme takový med, u kterého lze na základě jeho chuti a doby sběru nektaru říci, že V něm převažuje druh nektaru určité rostliny, např. akátu, lípy, řepky atd...
             </p>
             <p>
-              <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
+              <a data-id="med-s-privlastkem" onclick="onOverlay(this)">Zjistit více</a>
             </p>
           </div>
         </div>
@@ -309,7 +309,7 @@
                 Medovice je sladká tekutina tvořená z rostlinných šťáv, která tvoří lepkavé povlaky či kapky na listech a jiných částech rostlin. Producenti medovice (např. mšice) nasávají rostlinné šťávy, ze kterých pro sebe oddělí dusíkaté látky...
             </p>
             <p>
-              <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
+              <a data-id="med-medovicovy" onclick="onOverlay(this)">Zjistit více</a>
             </p>
           </div>
         </div>
@@ -324,7 +324,7 @@
                 Med smíšený vzniká jako směs medů nektarových (květových) a medovicových (lesních). Mísení různých druhů medu je přirozené už při zpracování samotnými včelami v úlu. Složení medu...
             </p>
             <p>
-              <a data-id="tatarak" onclick="onOverlay(this)">Zjistit více</a>
+              <a data-id="med-smiseny" onclick="onOverlay(this)">Zjistit více</a>
             </p>
           </div>
         </div>

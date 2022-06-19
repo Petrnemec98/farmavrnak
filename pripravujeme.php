@@ -2,7 +2,7 @@
   include 'php/header.php';
 ?>
 
-<section class="section-1box-hp">
+<section class="section-1box-hp" id="pripravujeme">
   <div class="defaul-max-wight">                       
     <div class="content">   
       <div class="content-container first">                     

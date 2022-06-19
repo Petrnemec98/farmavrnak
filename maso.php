@@ -241,12 +241,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -314,12 +314,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -394,12 +394,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -472,12 +472,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -551,12 +551,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -631,12 +631,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -717,12 +717,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -798,12 +798,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -871,12 +871,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -957,12 +957,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1037,12 +1037,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1111,12 +1111,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1191,12 +1191,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1297,12 +1297,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1377,12 +1377,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1457,12 +1457,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1537,12 +1537,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1617,12 +1617,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1685,12 +1685,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1753,12 +1753,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1821,12 +1821,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1898,12 +1898,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -1972,12 +1972,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2047,12 +2047,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2127,12 +2127,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2195,12 +2195,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2269,12 +2269,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2349,12 +2349,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2428,12 +2428,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2499,12 +2499,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2573,12 +2573,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2654,12 +2654,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2723,12 +2723,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2831,12 +2831,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2909,12 +2909,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -2985,12 +2985,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -3053,12 +3053,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -3134,12 +3134,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -3212,12 +3212,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -3284,12 +3284,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -3357,12 +3357,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>
@@ -3460,12 +3460,12 @@ include 'php/overlay-maso.php';
               <span>cena</span>
             </div>
           </a>
-          <a href="pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
+          <a href="kontakty#pripravujeme" class="recepty"><div class="meat-info-icon recepty-icon"></div>
             <div class="meat-info-text">
               <span>recepty</span>
             </div>
           </a>
-          <a href="pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
+          <a href="kontakty#pripravujeme"><div class="meat-info-icon e-shop-icon"></div>
             <div class="meat-info-text">
               <span>E-shop</span>
             </div>

@@ -7,6 +7,31 @@ address{
 	visibility: hidden;
 }
 
+.kontaky-icon .soc{
+	padding-top: 0px;
+}
+.box--soc.kontaky-icon{
+	padding-top: 30px;
+}
+.kontaky-icon .soc--desc p{
+	color: black;
+}
+
+@media only screen and (max-width: 881px){
+
+.our-story-pics img.update{
+	width: unset;
+}
+
+#pripravujeme .our-story-pics{
+	text-align: center;
+}
+#pripravujeme .box-h1-prepered{
+padding-top: 30px;
+}
+}
+
+
 /*Med-overlay*/
 .ovelay-med-content-box{
 	display: flex;
@@ -61,6 +86,7 @@ article.med-p .bio-icon-bar{
 	.overlay-box a.med-button{
 		position: relative;
 		left: 10%;
+		height: 60px;
 	}
 	.overlay-box article.med-p{
 		margin-top: 30px;
@@ -70,6 +96,14 @@ article.med-p .bio-icon-bar{
 	}
 	.overly-med-img-box{
 		text-align: center;
+	}
+	.med-button .meat-info-text{
+		margin-top: -55px;
+	}
+}
+@media only screen and (max-width: 881px){
+	.med-button .meat-info-text{
+		margin-top: -32px;
 	}
 }
 
@@ -1871,7 +1905,7 @@ g svg.light:hover .svg-text{
 .overlay-box span:hover{
 	color: #F2A67966;
 }
-#minutky, #peceni, #duseni, #mleti, #tatarak, #med-kvetovy{
+#minutky, #peceni, #duseni, #mleti, #tatarak, #med-kvetovy, #med-kvetovy-pastovany, #med-panensky, #med-s-privlastkem, #med-medovicovy, #med-smiseny{
 	position: fixed; /* Sit on top of the page content */
   	top: 0;
   	left: 0;
