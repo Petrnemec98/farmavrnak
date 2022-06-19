@@ -58,6 +58,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<meta name="author" content="Petr Němec" />
 		<meta name="robots" content="index, follow" />
 		<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width">
 
 		<!--Facebook - SEO-->
 		<meta property="og:title" content="Farma Vrňák" />
@@ -73,7 +74,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
 				<link rel="manifest" href="/site.webmanifest" />
 				<meta property="og:site_name" content="Farma Vrňák" />
-				<meta name="keywords" content="hovězí, maso, hovězí maso, ekofarma, maso z farmy, domácí, ekologické zemědělství, farma Vrňák, farma, Blaženice, med, bio hovězí, maso na steak, guláš, Slapská přehrada, Měřín, plemeno Limousine, skot, kráva, welfare, svíčková, vysoký roštěnec, kližka">
+				<meta name="keywords" content="vítejte, farma, vrňák, hovězí, maso, hovězí maso, ekofarma, maso z farmy, domácí, ekologické zemědělství, farma Vrňák, farma, Blaženice, med, bio hovězí, maso na steak, guláš, Slapská přehrada, Měřín, plemeno Limousine, skot, kráva, welfare, svíčková, vysoký roštěnec, kližka">
 				<meta name="description" content="Na Farmě Vrňák se zabýváme produkcí bio hovězího masa a včelího medu. Naším cílem je kvalitní život zvířat, naše krávy se pasou na loukách u slapské přehrady.">';
 		//NÁŠ-PŘÍBĚH
 				if ( $page_name == 'nas-pribeh') echo'

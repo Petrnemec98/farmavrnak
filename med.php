@@ -77,7 +77,7 @@
 <!--KONEC PRVNÍ BLOK-->
 
 <?php
-  include 'php/overlay.php'; 
+  include 'php/overlay-med.php'; 
 ?>
 
 <section class="content-2-box">
@@ -222,12 +222,6 @@
       <div class="content-container ">
         <div class="box-h1-prepered">
           <article>
-
-              <div class="box-h2-title half-cir">
-              <p class="h1">Produkty</p>
-            </div>
-            
-              <h2 class="half-cir">Naše medy</h2>
           </article>
         </div>
       </div>

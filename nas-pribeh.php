@@ -80,7 +80,7 @@
             <article>
             <div class="layout-description">
                 <p>
-                 Děda s babičkou pro základ chovu nakonec zvolili plemeno Limousine, které je odolné, má výtečnou zmasilost zadních částí a je vhodné pro volný chov na pastvinách a krmení senem. Dalším důvodem pro volbu byl fakt, že plemeno má bezproblémové porody, které probíhají bez zásahu člověka – 96 % telat se rodí samovolně. Babičce se také moc líbila hnědá barva těchto kraviček a jejich vznešené jméno. Hlavně nechtěla kravky s bílou hlavou, na které byla zvyklá u tehdy běžného masného simentálu.
+                 Děda s babičkou pro základ chovu nakonec zvolili plemeno Limousine, které je odolné, má výtečnou zmasilost zadních částí a je vhodné pro volný chov na pastvinách a krmení senem. Dalším důvodem pro volbu byl fakt, že plemeno má bezproblémové porody, které probíhají bez zásahu člověka – 96 % telat se rodí samovolně. Babičce se také moc líbila hnědá barva těchto kraviček a jejich vznešené jméno. Hlavně nechtěla kravky s bílou hlavou, na které byla zvyklá u tehdy běžného plemene Hereford.
                 </p>
             </div>
           </article>
@@ -116,7 +116,7 @@
                 Děda poté započal šlechtitelskou práci pomocí převodného křížení. Po určité době takového křížení, kdy kravičky vždy zabřeznou s čistokrevným býkem plemene Limousine, se stádo stane postupně čistokrevným. A tak z původních 8 krav holštýnského skotu bylo pomocí převodného křížení po 15 letech vyšlechtěno čistokrevné stádo plemene Limousine.
               </p>
               <p>
-                V roce 2018 se již naše kravičky s kořeny ve Francii zdály být přešlechtěné. Telata se začala rodit s nepatrnými vadami. Proto bylo potřeba obohatit stádo novým genem. A tak dědeček sehnal německého bezrohého býka plemene Limousine. Touto bezrohou linií z Německa se krev našich kraviček znovu oživila a začala se nám opět rodit krásná zdravá telátka.
+                V roce 2018 se již naše kravičky s kořeny ve Francii zdály být přešlechtěné a bylo potřeba obohatit stádo novým genem. Proto dědeček sehnal bezrohého plemenného býkaz Německa. Touto bezrohou linií Limousine se krev našich kraviček znovu oživila.
               </p>
             </div>
           </article>

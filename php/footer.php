@@ -9,34 +9,52 @@
 
 	<div id="slide-bar" class="galery-bar-positon">
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/webp/slider-med_uly.webp" alt="instagram">
+			<a href="https://www.instagram.com/p/CWY16QFr8VQ/" target="_blank">
+				<img src="images/webp/1.webp" alt="IG - tele se líže">
 			</a>
 		</div>
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/webp/slider-uvod_krava-zere.webp" alt="instagram">
+			<a href="https://www.instagram.com/p/Cd-qCNEoJR8/" target="_blank">
+				<img src="images/webp/2.webp" alt="IG - kohout">
 			</a>
 		</div>
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/webp/slider-uvod_traktor-john-deere.webp" alt="instagram">
+			<a href="https://www.instagram.com/p/CX3l2UKoKob/" target="_blank">
+				<img src="images/webp/3.webp" alt="IG - maso">
 			</a>
 		</div>
 
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/webp/slider-med_vcely-detail.webp" alt="instagram">
+			<a href="https://www.instagram.com/p/CdK9UBdoRla/" target="_blank">
+				<img src="images/webp/slider-uvod_tele.webp" alt="IG-tele">
 			</a>
 		</div>
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/webp/slider-med_uly-z-dalky.webp" alt="instagram">
+			<a href="https://www.instagram.com/p/CeldREHobDA/" target="_blank">
+				<img src="images/webp/5.webp" alt="IG - kombajn">
 			</a>
 		</div>
 		<div class="galery-bar-photo">
-			<a href="https://www.instagram.com/p/CX6B3MHoplN/">
-				<img src="images/webp/slider-uvod_tele.webp" alt="instagram">
+			<a href="https://www.instagram.com/p/Cei6HHFIW0G/" target="_blank">
+				<img src="images/webp/6.webp" alt="IG - úly">
+			</a>
+		</div>
+
+		<div class="galery-bar-photo">
+			<a href="https://www.instagram.com/p/Cd0PlnVIg4K/" target="_blank">
+				<img src="images/webp/7.webp" alt="IG - kráva">
+			</a>
+		</div>
+
+		<div class="galery-bar-photo">
+			<a href="https://www.instagram.com/p/CdTWCfYoxQT/" target="_blank">
+				<img src="images/webp/8.webp" alt="IG - tele v seně">
+			</a>
+		</div>
+
+		<div class="galery-bar-photo">
+			<a href="https://www.instagram.com/p/CX0acSzIDXb/" target="_blank">
+				<img src="images/webp/9.webp" alt="IG - maso">
 			</a>
 		</div>
 	</div>

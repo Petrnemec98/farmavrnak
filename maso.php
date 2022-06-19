@@ -19,7 +19,7 @@
                   Námi chované plemeno Limousine je masný typ skotu. Pochází z oblasti Haut ve Francii, kde je druhým nejčastěji chovaným plemenem. Vyniká výtečnou zmasilostí a jatečnou výtěžností.
                 </p>
                 <p>
-                  Kravky u nás žijí celý svůj život na volné pastvě, kde mají volný pohyb během celého dne. Snažíme se tak co nejvíce napodobit přirozený život zvířat. Takové životní podmínky se pozitivně projevují rovněž na vysoké kvalitě našich masných produktů. Stravu kraviček zajišťuje stálá pastva a během zimy seno z našich luk. Traviny našich luk pochopitelně nejsou zasaženy pesticidy ani umělými hnojivy. Naše produkty tímto způsobem hospodaření dosahuje certifikace bio.
+                  Kravky u nás žijí celý svůj život na volné pastvě, kde mají volný pohyb během celého dne. Snažíme se tak co nejvíce napodobit přirozený život zvířat. Takové životní podmínky se pozitivně projevují rovněž na vysoké kvalitě našich masných produktů. Stravu kraviček zajišťuje stálá pastva a během zimy seno z našich luk. Traviny našich luk pochopitelně nejsou zasaženy pesticidy ani umělými hnojivy. Naše produkty tímto způsobem hospodaření dosahují certifikace bio.
 
                 </p>
             </div>
@@ -60,7 +60,7 @@
 
 
 <?php
-include 'php/overlay.php';
+include 'php/overlay-maso.php';
 ?>
 
   <div class="defaul-max-wight">
