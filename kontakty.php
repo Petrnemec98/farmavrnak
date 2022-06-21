@@ -88,7 +88,7 @@
             <article>
             <div class="layout-description">
                 <p>
-                  Na e-shopu a receptech na našem webu ještě pracujeme. V případě požadavku, nebo jakéhokliv dotazu nás kunktatuje na sociálních sítích nebo emailem. 
+                  Na e-shopu a receptech na našem webu ještě pracujeme. V případě požadavku, nebo jakéhokliv dotazu nás kontaktujte na sociálních sítích nebo e-mailem. 
                 </p>
 
                 <p>

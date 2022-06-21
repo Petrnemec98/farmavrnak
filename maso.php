@@ -65,10 +65,10 @@ include 'php/overlay-maso.php';
 
   <div class="defaul-max-wight">
     <!-- Overlay icon-->
-    <div class="shortcut-box">
+    <div  class="shortcut-box">
 
-    <div data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
-      <a>
+    <div id="shortcut" data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
+      <a href="#shortcut">
         <div class="shortcut-icon-svg minutky ">
         </div>
         <div class="shortcut-text">

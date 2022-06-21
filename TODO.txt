@@ -6,6 +6,7 @@ TODO
 - doplnit foto
 - otestovat GTM jeslti fungují jak mají 
 - Read more > uělat podle data-id 
+- Spojit csska manu a main (problém s pozadím/přeskakováním)
 
 
 DONE

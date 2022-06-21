@@ -1,7 +1,7 @@
 # mujweb.cz/index.php > mujweb.cz/
 RewriteEngine On
 
-RewriteRule ^index.php$ http://www.farmavrnak.cz/devtest$1 [R=301]
+RewriteRule ^index.php$ http://www.farmavrnak.cz$1 [R=301]
 RewriteRule ^maso$ maso.php [L]
 RewriteRule ^med$ med.php [L]
 RewriteRule ^nas-pribeh$ nas-pribeh.php [L]

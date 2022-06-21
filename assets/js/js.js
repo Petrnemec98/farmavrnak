@@ -124,7 +124,7 @@ function readMoreSecond() {
     btnText2.innerHTML = "Zobrazit méně"; 
     moreText2.style.display = "inline";
   }
-}
+};
 
        
 

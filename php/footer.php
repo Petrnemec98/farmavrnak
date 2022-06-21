@@ -144,5 +144,6 @@
 
 		<script src="assets/js/lightbox-plus-jquery.js"></script>
 		<script src="assets/js/js.js"></script>
+		
 	</body>
 </html>
