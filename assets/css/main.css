@@ -2,18 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&family=Montserrat:wght@100&display=swap');
 
-/*Cookie-lišta*/
-#CybotCookiebotDialogNav .CybotCookiebotDialogNavItemLink.CybotCookiebotDialogActive{
-	border-bottom: 1px solid #f2a679;
-	color: #f2a679;
-}
-#CybotCookiebotDialogPoweredbyCybot{
-	display: none;
-}
 
-#CybotCookiebotDialog .CybotCookiebotDialogBodyBottomWrapper{
-	display: none;
-}
 
 
 /*Menu*/

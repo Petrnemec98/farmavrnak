@@ -1,0 +1,12 @@
+/*Cookie-lišta*/
+#CybotCookiebotDialogNav .CybotCookiebotDialogNavItemLink.CybotCookiebotDialogActive{
+	border-bottom: 1px solid #f2a679;
+	color: #f2a679;
+}
+#CybotCookiebotDialogPoweredbyCybot{
+	display: none;
+}
+
+#CybotCookiebotDialog .CybotCookiebotDialogBodyBottomWrapper{
+	display: none;
+}

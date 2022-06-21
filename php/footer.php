@@ -144,6 +144,7 @@
 
 		<script src="assets/js/lightbox-plus-jquery.js"></script>
 		<script src="assets/js/js.js"></script>
+		<link rel="stylesheet" href="assets/css/cookie-bar.css" />
 		
 	</body>
 </html>
