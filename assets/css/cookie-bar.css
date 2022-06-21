@@ -10,3 +10,16 @@
 #CybotCookiebotDialog .CybotCookiebotDialogBodyBottomWrapper{
 	display: none;
 }
+
+#CybotCookiebotDialogFooter #CybotCookiebotDialogBodyButtonAccept, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonAccept, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll {
+	background-color: #f2a679;
+    border-color: #f2a679;
+}
+
+#CybotCookiebotDialogFooter .CybotCookiebotDialogBodyButton{
+	border: 2px solid #f2a679;
+}
+
+#CybotCookiebotDialogNav .CybotCookiebotDialogNavItemLink:hover{
+	color: #f2a679;
+}
