@@ -83,13 +83,17 @@ function offOverlay(element){
 
 //left right scrool
 var rightFunctionMed = document.getElementById('sliderightMed');
-rightFunctionMed.onclick = function () {
+if(rightFunctionMed !== null){
+  rightFunctionMed.onclick = function () {
   document.getElementById('slide-bar-med').scrollLeft += 500;
+  }
 };
 
-        var backMed = document.getElementById('slideleftMed');
-        backMed.onclick = function () {
-            document.getElementById('slide-bar-med').scrollLeft -= 500;
+var backMed = document.getElementById('slideleftMed');
+if(rightFunctionMed !== null){
+backMed.onclick = function () {
+document.getElementById('slide-bar-med').scrollLeft -= 500;
+       } 
         };
 
 
