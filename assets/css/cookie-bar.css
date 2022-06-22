@@ -23,3 +23,7 @@
 #CybotCookiebotDialogNav .CybotCookiebotDialogNavItemLink:hover{
 	color: #f2a679;
 }
+
+#CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonCustomize, #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection{
+	border-color: #f2a679;
+}
