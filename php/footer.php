@@ -137,6 +137,9 @@
 
 		<div class="author">
 			<a href="javascript: Cookiebot.show()"><p> Souhlas s cookies</p></a>
+			      <a href="cookies">
+        <p>Zásady používání cookies: </p>
+      </a>
 		    <a href="https://www.instagram.com/petrnemeec/" target="_blank" >
 	    	<p><?php echo date("Y");?> Petr Němec</p>
 
