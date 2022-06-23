@@ -26,18 +26,13 @@
 <html lang="cs">
 <head>
 
-<!--Cookiebot-->
 <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="5de99f0d-15ee-4a6a-b8e9-2163a0531a42" data-blockingmode="auto" type="text/javascript"></script>
-<!--END - Cookiebot-->
 
-<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WZNPGTK');</script>
-<!-- End Google Tag Manager -->
-
 
 	<title> 
 		<?php
@@ -52,20 +47,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	 	?>	
 	</title>
 		
-		<!-- Tech. spec-->
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="author" content="Petr Němec" />
 		<meta name="robots" content="index, follow" />
 		<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
 		<meta name="viewport" content="width=device-width">
-
-		<!--Facebook - SEO-->
 		<meta property="og:title" content="Farma Vrňák" />
 		<meta property="og:description" content="Na Farmě Vrňák se zabýváme produkcí bio hovězího masa a včelího medu. Naším cílem je kvalitní život zvířat, naše krávy se pasou na loukách u slapské přehrady." />
 		<meta property="og:image" content="https://www.farmavrnak.cz/images/slider_hp_1.webp" />
-
-		<!-- Keywords, description, favicon, name-page -->
 		<?php
 		//Index
 				if ( $page_name == 'index.php') echo'
@@ -114,13 +104,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<meta name="description" content="Rodinná Farma Vrňák se nachází v Blaženicích poblíž slapské přehrady.">';
 		?>
 
-	<!--Styly-->
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<link rel="stylesheet" href="assets/css/lightbox.css" />
-	<!--Scripty-->
-	
-
-
 
 </head>
 
@@ -128,14 +113,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script id="CookieDeclaration" src="https://consent.cookiebot.com/5de99f0d-15ee-4a6a-b8e9-2163a0531a42/cd.js" type="text/javascript" async></script>
 
-<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZNPGTK"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 
-<!-- End Google Tag Manager (noscript) -->
-
-<!--Button up-->
 <button onclick="topFunction()" id="TopScrollBtn" title="Go to top"></button>
 
 	<header>
@@ -143,8 +123,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<svg class="circule--1680" id="circule" xmlns="http://www.w3.org/2000/svg" width="362" height="262" fill="none" viewBox="0 0 362 262">
 		  		<path d="M361.15 0v135.88a51.158 51.158 0 00-47.73 32.07c-21.72 55-72.84 93.56-132.46 93.56-59.62 0-110.75-38.6-132.46-93.56A51.158 51.158 0 00.81 135.88V0h360.34z"/>
 			</svg>
-
-			<!--Menu-com-->
 			
 				<ul id="nav" class="nav--bar nav--left">
 				<?php
@@ -167,7 +145,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</a>
 			</div>
-		<!--Menu-com-->
 		<div class="menu" id="menu">
 		  	<span></span>
 

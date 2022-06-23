@@ -1,6 +1,5 @@
 <svg fill="none" viewBox="0 0 1540 976">
 
-<!-- Zadní kližka -->
 <g>
   <a href="#klizka">
     <svg>
@@ -10,7 +9,6 @@
   </a>
 </g>
 
-<!-- Květová špička-->
 
 <g>
   <a href="#kvetova-spicka">
@@ -21,8 +19,6 @@
   </a>
 </g>
 
-
-<!--Tabulová špička-->
 <g>
   <a href="#tabulova-spicka">
     <svg>
@@ -32,7 +28,6 @@
   </a>
 </g>
 
-<!--holubička-->
 <g>
   <a href="#holubicka">
     <svg>
@@ -42,7 +37,6 @@
   </a>
 </g>
 
-<!--Předkýtí-->
 <g>
   <a href="#predkyti">
     <svg>
@@ -52,7 +46,6 @@
   </a>
 </g>
 
-<!--hruška-->
 <g>
   <a href="#hruska">
     <svg class="light">
@@ -62,7 +55,6 @@
   </a>
 </g>
 
-<!--Spodní šála-->
 <g>
   <a href="#spodni-sala">
     <svg>
@@ -72,7 +64,6 @@
   </a>
 </g>
 
-<!--Krabáček-->
 <g>
   <a href="#karabacek">
     <svg>
@@ -91,7 +82,6 @@
 </g>
 
 
-<!--Váleček-->
 <g>
   <a href="#valecek">
     <svg>
@@ -101,7 +91,6 @@
   </a>
 </g>
 
-<!--Ohanka-->
 <g>
   <a href="#ohanka">
     <svg>
@@ -111,7 +100,6 @@
   </a>
 </g>
 
-<!-- Vrchní šál-->
 <g>
   <a href="#vrchni-sal">
     <svg class="light">
@@ -125,7 +113,6 @@
   </a>
 </g>
 
-<!--Pavouček-->
 <g>
   <a href="#pavoucek">
     <svg class="light">
@@ -135,7 +122,6 @@
   </a>
 </g>
 
-<!-- Přední kližka-->
 <g>
   <a href="#klizka">
     <svg>    
@@ -145,7 +131,6 @@
   </a>
 </g>
 
-<!--Husička-->
 <g>
   <a href="#husicka">
     <svg>
@@ -155,7 +140,6 @@
   </a>
 </g>
 
-<!-- Kulatá plec-->
 <g>
   <a href="#kulata-plec">
     <svg>
@@ -164,8 +148,6 @@
     </svg>
   </a>
 </g>
-
-<!--Plecový plátek-->
 <g>
   <a href="#plecovy-platek">
     <svg class="light">
@@ -185,7 +167,7 @@
     </svg>
   </a>
 </g>
-<!-- loupaná plec-->
+
 <g>
   <a href="#loupana-plec">
     <svg>
@@ -195,7 +177,6 @@
   </a>
 </g>
 
-<!--Velka plec-->
 <g>
   <a href="#velka-plec">
     <svg>
@@ -207,7 +188,6 @@
  </g>
 
 
-<!--Podkrčí-->
 <g>
   <a href="#podkrci">
     <svg>
@@ -218,7 +198,6 @@
   </a>
 </g>
 
-<!-- Špička krku-->
 <g>
   <a href="#krk">
     <svg>
@@ -228,7 +207,6 @@
     </svg>
   </a>
 </g>
-<!--Krk-->
 <g>
   <a href="#krk">
     <svg>
@@ -238,7 +216,6 @@
   </a>
 </g>
 
-<!--Podplečí-->
 <g>
   <a href="#podpleci">
     <svg>
@@ -248,7 +225,6 @@
  </a>
 </g>
 
-<!-- Vysoký roštěnec-->
 <g>
   <a href="#velky-rostenec">
     <svg>
@@ -258,7 +234,6 @@
    </a>
  </g>
 
- <!--Svíčková-->
  <g>
   <a href="#svickova">
     <svg class="light">
@@ -281,7 +256,6 @@
 </a>
 </g>
 
-<!-- Nízký roštěnec-->
 <g>
   <a href="#nizky-rostenec">
     <svg>
@@ -292,7 +266,6 @@
   </a>
 </g>
 
-<!--Hrudí-->
 <g>
   <a href="#hrudi">
     <svg>
@@ -302,7 +275,6 @@
   </a>
 </g>
 
-<!--Žebro holé-->
 
 <g>
   <a href="#zebro-hole">
@@ -313,7 +285,7 @@
   </a>
 </g>
 
-<!-- žebro vysoké-->
+
 <g>
   <a href="#zebro-vysoke">
     <svg>
@@ -324,7 +296,6 @@
   </a>
 </g>
 
-<!--oponka-->
 <g>
   <a href="#oponka">
     <svg class="light">
@@ -358,7 +329,6 @@
 </a>
 </g>
 
-<!--Bryndáček-->
 <g>
   <a href="#bryndacek">
     <svg>
@@ -368,7 +338,6 @@
   </a>
 </g>
 
-<!--Vnitřní oponka-->
 <g>
   <a href="#vnitrni-oponka">
     <svg>
@@ -379,7 +348,6 @@
   </a>
 </g>
 
-<!--Zrdcátko-->
 <g>
   <a href="#zrcatko">
     <svg>
@@ -391,7 +359,6 @@
   </g>
   <path fill="#F2A679" d="M822.684 265.864c-.105.959-.2 1.94-.274 2.962-2.382 30.987-9.678 105.633-25.883 128.195a226.572 226.572 0 0 0-12.041 19.674l-5.661-.274a1272.466 1272.466 0 0 0 15.593-51.367c9.183-32.684 17.238-66.116 23.996-99.222l4.27.032Z" opacity=".4"/>
 
-  <!-- bok s kostí-->
   <g>
     <a href="#bok-s-kosti">
       <svg>
@@ -403,7 +370,6 @@
   </g>
   <path fill="#F2A679" d="m777.106 421.681 4.513.222c-4.418 8.076-9.204 17.322-13.959 27.096a1244.446 1244.446 0 0 0 9.446-27.318Z" opacity=".4"/>
 
-<!-- bok bez kosti-->
   <g>
     <a href="#bok-bez-kosti">
       <svg>
@@ -414,7 +380,6 @@
     </a>
   </g>
 
-  <!-- líčka-->
   <g>
     <a href="#licka">
       <svg>
@@ -424,7 +389,6 @@
   </a>
 </g>
 
-<!--veverka-->
 <g>
   <a href="#veverka">
     <svg class="light">

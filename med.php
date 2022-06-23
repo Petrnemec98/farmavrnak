@@ -1,9 +1,6 @@
 <?php
   include 'php/header.php';
-
-
 ?>
-
 
 <section class="section-1box-hp">
   <div class="defaul-max-wight">                       
@@ -73,8 +70,6 @@
     </div>
   </div>
 </section>
-
-<!--KONEC PRVNÍ BLOK-->
 
 <?php
   include 'php/overlay-med.php'; 
@@ -184,8 +179,6 @@
         </div>
 </section>
 
-<!--KONEC PRODUKY-->
-
 <section class="content-2-box dark">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -209,8 +202,6 @@
     </div>
   </div>
 </section>
-
-<!-- Konec dark box-->
 
 <section id="podpleci" class="content-1-box">
   <div class="defaul-max-wight">
@@ -334,16 +325,8 @@
     </div>
 
   </div>
-
-
-
-
 </section>
 
-
-
 <?php
-
-include 'php/footer.php';
-
+  include 'php/footer.php';
 ?>

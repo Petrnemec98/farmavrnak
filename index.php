@@ -65,10 +65,7 @@
   </div>
 </section>
 
-<!--KONEC PRVNÍ BLOK-->
-
 <section class="content-2-box">
-
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
       <div class="half-circule dark">
@@ -138,10 +135,6 @@
   </div>  
 </section>
 
-<!--KONEC PRODUKY-->
-
 <?php
-
-include 'php/footer.php';
-
+  include 'php/footer.php';
 ?>

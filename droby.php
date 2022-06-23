@@ -1,8 +1,7 @@
- <?php
+<?php
   include 'php/header.php';
 ?>
 
-<!--Srdce-->
 <section id="srdce" class="section-1box-hp">
   <div class="defaul-max-wight">
     <div class="content">
@@ -18,7 +17,7 @@
 
             <div class="layout-description">
               <p>
-                Hovězí srdce je zdrojem minerálních látek a vitamínu (PP a C). Svalovina srdce je velmi namáhána, proto se hodí především na dušení nebo vaření. Připravuje se z něj guláš, ale také se nakládá a restuje. Často se přidává do masných výrobků.
+                Hovězí srdce je zdrojem minerálních látek a vitamínu (PP a C). Svalovina srdce je velmi namáhána, proto se hodí především na dušení nebo vaření. Připravuje se z něj guláš, ale také se nakládá a restuje. Často se přidává do masných výrobků.
               </p>
             </div>
           </article>
@@ -80,7 +79,6 @@
   </div>
 </section>
 
-<!--Jatra-->
 <section id="jatra" class="content-2-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -159,7 +157,6 @@
   </div>
 </section>
 
-<!--Jazyk-->
 <section id="jazyk" class="content-1-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -235,7 +232,6 @@
   </div>
 </section>
 
-<!--Dršťky-->
 <section id="drstky" class="content-2-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -304,7 +300,6 @@
   </div>
 </section>
 
-<!--Býčí žlázy-->
 <section id="byci-zlazy" class="content-1-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -385,7 +380,6 @@
   </div>
 </section>
 
-<!--Ledviny-->
 <section id="ledviny" class="content-2-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -464,7 +458,6 @@
   </div>
 </section>
 
-<!--Slezina-->
 <section id="slezina" class="content-1-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -537,7 +530,6 @@
   </div>
 </section>
 
-<!--Plíce-->
 <section id="plice" class="content-2-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -611,11 +603,6 @@
   </div>
 </section>
 
-
-<!--KONEC PRODUKY-->
-
 <?php
-
-include 'php/footer.php';
-
+  include 'php/footer.php';
 ?>

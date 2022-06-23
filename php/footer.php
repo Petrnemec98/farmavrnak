@@ -60,7 +60,6 @@
 	</div>
 </section>
 
-
 <footer class="footer-box">
 		<div class="defaul-max-wight"> 
 				<div class="content">        

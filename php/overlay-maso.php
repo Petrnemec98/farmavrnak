@@ -1,4 +1,4 @@
-<!--Maso-->
+
 <div id="minutky" class="overlay-noactive">
  <div class="overlay-background">
     <section class="overlay-box">

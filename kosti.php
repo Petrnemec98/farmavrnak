@@ -1,8 +1,7 @@
- <?php
+<?php
   include 'php/header.php';
 ?>
 
-<!--kosti-->
 <section id="kosti" class="section-1box-hp">
   <div class="defaul-max-wight">
     <div class="content">
@@ -80,13 +79,6 @@
   </div>
 </section>
 
-
-
-
-<!--KONEC PRODUKY-->
-
 <?php
-
-include 'php/footer.php';
-
+  include 'php/footer.php';
 ?>

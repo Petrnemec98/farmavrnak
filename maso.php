@@ -2,7 +2,6 @@
   include 'php/header.php';
 ?>
 
-
 <section class="section-1box-hp">
   <section class="defaul-max-wight">
 
@@ -20,7 +19,6 @@
                 </p>
                 <p>
                   Kravky u nás žijí celý svůj život na volné pastvě, kde mají volný pohyb během celého dne. Snažíme se tak co nejvíce napodobit přirozený život zvířat. Takové životní podmínky se pozitivně projevují rovněž na vysoké kvalitě našich masných produktů. Stravu kraviček zajišťuje stálá pastva a během zimy seno z našich luk. Traviny našich luk pochopitelně nejsou zasaženy pesticidy ani umělými hnojivy. Naše produkty tímto způsobem hospodaření dosahují certifikace bio.
-
                 </p>
             </div>
           </article>
@@ -30,7 +28,6 @@
 </section>
 
 <section id="interaktivni-pruvodce" class="content-2-box">
-  <!--Shortcut-->
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
       <div class="half-circule dark">
@@ -57,14 +54,11 @@
       </div>               
     </div>
   </div> 
-
-
-<?php
-include 'php/overlay-maso.php';
-?>
-
+      <?php
+        include 'php/overlay-maso.php';
+      ?>
   <div class="defaul-max-wight">
-    <!-- Overlay icon-->
+    
     <div  class="shortcut-box">
 
     <div id="shortcut" data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
@@ -120,7 +114,6 @@ include 'php/overlay-maso.php';
     </div>
   </div>
 
-  <!--Cow-->
   <div class="defaul-max-wight">
     <div class="cow">
       <div class="cow-svg">
@@ -131,7 +124,6 @@ include 'php/overlay-maso.php';
     </div>
   </div>
 
-  <!--Meat-navigation-->
   <div class="defaul-max-wight">
     <div class="meat-navigation-box">
       <div class="meat-navigation-icon">
@@ -161,7 +153,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Dark-box-->
 <section class="content-2-box dark">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -186,9 +177,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!-- KONEC - Dark box -->
-
-<!--Vrchni sal-->
 <section id="vrchni-sal" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -211,7 +199,6 @@ include 'php/overlay-maso.php';
           </article>
         </div>
       </div>
-      <!--ikony-->
       <div class="icon-info-bar">
         <div class="meat-info-icon-bar">
 
@@ -265,7 +252,6 @@ include 'php/overlay-maso.php';
       </div>
 </section>
 
-<!--Hruška-->
 <section id="hruska" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -337,7 +323,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Spodní šál-->
 <section id="spodni-sal" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -417,7 +402,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Tabulová špička-->
 <section id="tabulova-spicka" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -495,7 +479,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Předkýtí-->
 <section id="predkyti" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -575,7 +558,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Holubička-->
 <section id="holubicka" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -655,7 +637,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Květová špička -->
 <section id="kvetova-spicka" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -741,7 +722,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Váleček-->
 <section id="valecek" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -821,7 +801,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Velká plec -->
 <section id="velka-plec" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -895,7 +874,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Loupaná plec-->
 <section id="loupana-plec" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -981,7 +959,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Kulatá plec -->
 <section id="kulata-plec" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -1061,7 +1038,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Pravá svíčková-->
 <section id="svickova" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -1135,7 +1111,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Nízký roštěnec  -->
 <section id="nizky-rostenec" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -1215,7 +1190,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Dark-box-->
 <section class="content-2-box dark">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -1239,9 +1213,7 @@ include 'php/overlay-maso.php';
     </div>
   </div>
 </section>
-<!-- KONEC - Dark box -->
 
-<!--Vysoký roštěnec-->
 <section id="vysoky-rostenec" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -1321,7 +1293,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Podplečí-->
 <section id="podpleci" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -1401,7 +1372,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Krk-->
 <section id="krk" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -1481,7 +1451,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--podkrci-->
 <section id="podkrci" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -1561,7 +1530,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Bok bez kosti-->
 <section id="bok-bez-kosti" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -1641,7 +1609,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Zrcátko-->
 <section id="zrcatko" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -1709,7 +1676,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Bryndáček-->
 <section id="bryndacek" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -1777,7 +1743,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Vnitřní oponka-->
 <section id="vnitrni-oponka" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -1845,7 +1810,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Kližka-->
 <section id="klizka" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -1922,7 +1886,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Karabáček-->
 <section id="karabacek" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -1996,7 +1959,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Husička-->
 <section id="husicka" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -2071,7 +2033,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Plátek lopatkový-->
 <section id="plecovy-platek" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -2151,7 +2112,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Pavouček-->
 <section id="pavoucek" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -2219,7 +2179,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Líčka-->
 <section id="licka" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -2293,7 +2252,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Veverka-->
 <section id="veverka" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -2373,7 +2331,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Oponka-->
 <section id="oponka" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -2452,7 +2409,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Bok s kostí-->
 <section id="bok-s-kosti" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -2523,7 +2479,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Žebra-->
 <section id="zebra" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -2597,7 +2552,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Hrudí-->
 <section id="hrudi" class="content-2-box">
   <div class="defaul-max-wight">
     <div class="half-circule-positon">
@@ -2678,7 +2632,6 @@ include 'php/overlay-maso.php';
   </div>
 </section>
 
-<!--Oháňka-->
 <section id="ohanka" class="content-1-box">
   <div class="defaul-max-wight">
       <div class="half-circule-positon light">
@@ -2748,5 +2701,5 @@ include 'php/overlay-maso.php';
 </section>
 
 <?php
-include 'php/footer.php';
+  include 'php/footer.php';
 ?>

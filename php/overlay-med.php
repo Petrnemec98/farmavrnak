@@ -1,4 +1,4 @@
-<!-- Med -->
+
 <div id="med-kvetovy" class="overlay-noactive">
  <div class="overlay-background">
     <section class="overlay-box">
