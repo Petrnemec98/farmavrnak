@@ -69,7 +69,7 @@
 		        <article>
 		            <div class="layout-description">
 		             <p class="footer--desc">
-		             Pro více informací nás můžete kontaktovat <span class="no-wrap">e-mailem</span> nebo na našich sociálních sítích.
+		             Pro více informací nás můžete kontaktovat <span class="no-wrap-black">e-mailem</span> nebo na našich sociálních sítích.
 		           	</p>
 		            </div>
 	            </article>

@@ -88,11 +88,11 @@
             <article>
             <div class="layout-description">
                 <p>
-                  Na e-shopu a receptech na našem webu ještě pracujeme. V případě požadavku, nebo jakéhokliv dotazu nás kontaktujte na sociálních sítích nebo e-mailem. 
+                  Na našich webových stránkách stále pracujeme. Můžete se těšit na stránku s recepty, ve kterých se dozvíte, jak nejlépe připravit hovězí maso. Do budoucna plánujeme také vlastní <span class="no-wrap-black">e-shop</span> s domácími produkty.
                 </p>
 
                 <p>
-                  Zatím si můžete prohlídnout co vše děláme, nebo si přečíst náš příběh. 
+                  Pro více informací nás můžete kontaktovat e-mailem nebo na sociálních sítích.
                 </p>
             </div>
           </article>
