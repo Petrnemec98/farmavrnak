@@ -61,58 +61,48 @@
     
     <div  class="shortcut-box">
 
-    <div id="shortcut" data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
-      <a href="#shortcut">
+    <button data-id="minutky" class="shortcut-icon" onclick="onOverlay(this)">
         <div class="shortcut-icon-svg minutky ">
         </div>
         <div class="shortcut-text">
           <span>Minutky</span>
         </div>
-      </a>
-    </div>
+    </button>
 
-    <div data-id="peceni" class="shortcut-icon" onclick="onOverlay(this)">
-      <a>
+    <button data-id="peceni" class="shortcut-icon" onclick="onOverlay(this)">
         <div class="shortcut-icon-svg peceni ">
         </div>
         <div class="shortcut-text">
           <span>Pečení</span>
         </div>
-      </a>
-    </div>
+    </button>
 
-    <div data-id="duseni" class="shortcut-icon" onclick="onOverlay(this)">
-      <a>
+    <button data-id="duseni" class="shortcut-icon" onclick="onOverlay(this)">
         <div class="shortcut-icon-svg duseni ">
         </div>
         <div class="shortcut-text">
           <span>Dušení</span>
         </div>
-      </a>
-    </div>
+    </button>
 
-    <div data-id="mleti" class="shortcut-icon" onclick="onOverlay(this)">
-      <a>
+    <button data-id="mleti" class="shortcut-icon" onclick="onOverlay(this)">
         <div class="shortcut-icon-svg mleti ">
         </div>
         <div class="shortcut-text">
           <span>Mletí</span>
         </div>
-      </a>
-    </div>
+    </button>
 
 
-    <div data-id="tatarak" class="shortcut-icon" onclick="onOverlay(this)">
-      <a>
+    <button data-id="tatarak" class="shortcut-icon" onclick="onOverlay(this)">
         <div class="shortcut-icon-svg tatarak ">
         </div>
         <div class="shortcut-text">
           <span>Tatarák</span>
         </div>
-      </a>
     </div>
     </div>
-  </div>
+  </button>
 
   <div class="defaul-max-wight">
     <div class="cow">
@@ -137,7 +127,7 @@
       <div class="meat-navigation-icon">
         <div class="meat-navigation-icon-svg droby-icon">
         </div>
-        <div class="meat-navigation-icon-text"><a href="droby"><span>DROBY</span></a></div>
+        <div class="meat-navigation-icon-text"><button href="droby"><span>DROBY</span></button></div>
         <div class="meat-navigation-content">
           <p><a href="droby#jatra">Játra</a>, <a href="droby#srdce">Srdce</a>, <a href="droby#jazyk">Jazyk</a>, <a href="droby#plice">Plíce</a>, <a href="droby#slezina">Slezina</a>, <a href="droby#ledviny">Ledviny</a>, <a href="droby#byci-zlazy"> Býčí žlázy (varlata)</a>, <a href="droby#drstky">Dršťky</a></p>
         </div>

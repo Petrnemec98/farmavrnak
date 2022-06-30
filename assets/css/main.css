@@ -1,12 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&family=Montserrat:wght@100&display=swap');
-
-
-
+html{
+	scroll-behavior: smooth;
+}
 
 /*Menu*/
-
 :root {
   --nav-bg: #F2E4D8;
 }
@@ -14,7 +13,6 @@
   width: 362px;
   margin-right: 60px;
 }
-
 nav {
   display: flex;
   align-items: center;
@@ -24,7 +22,6 @@ nav {
   background: #F2E4D8;
   box-shadow: var(--nav-shadow);
 }
-
 nav .logo {
   color: #fff;
   text-decoration-color: var(--main-clr);
@@ -32,7 +29,6 @@ nav .logo {
   font-family: "Playfair Display", serif;
   font-weight: 100;0px 3px var(--main-clr)
 }
-
 nav ul {
   --padding: 20px;
   --font-size: 17px;
@@ -45,7 +41,6 @@ nav ul {
   box-shadow: var(--nav-shadow);
   z-index: 2;
 }
-
 nav ul li {
   padding: var(--padding);
   margin-left: 15px;
@@ -211,6 +206,9 @@ padding-top: 30px;
 
 
 /*Med-overlay*/
+.overlay-box{
+	overflow-y: scroll;
+}
 .ovelay-med-content-box{
 	display: flex;
 }
@@ -1713,6 +1711,8 @@ p a{
 }
 button{
 	background-color:transparent;
+	border: none;
+	cursor: pointer;
 }
 #TopScrollBtn:hover {
 	-moz-transform: scale(1.1);
