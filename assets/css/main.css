@@ -426,7 +426,7 @@ height: 60%;
 	.product--box.med-product-box.second{
 		padding-top: 0px;
 	}
-} 
+}
 
 
 /*Stránka med*/
@@ -514,16 +514,16 @@ height: 60%;
 	top: 50%;
    opacity: 80%;
    transform: translateY(-50%);
-   -moz-transform: translateY(-50%); 
-	-webkit-transform: translateY(-50%); 
+   -moz-transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
 	-o-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
 }
 #slideright, #sliderightMed{
 	right: 10px;
    transform: rotate(90deg);
-   -moz-transform: rotate(90deg); 
-	-webkit-transform: rotate(90deg); 
+   -moz-transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
 	-o-transform: rotate(90deg);
 	-ms-transform: rotate(90deg);
 }
@@ -538,8 +538,8 @@ height: 60%;
 #slideleft, #slideleftMed {
 	left: 10px;
    transform: rotate(270deg);
-   -moz-transform: rotate(270deg); 
-	-webkit-transform: rotate(270deg); 
+   -moz-transform: rotate(270deg);
+	-webkit-transform: rotate(270deg);
 	-o-transform: rotate(270deg);
 	-ms-transform: rotate(270deg);
 }
@@ -674,7 +674,7 @@ height: 60%;
 	}
 	.meat-info-icon{
 		width: 47.15px;
-		height: 38.43px;	
+		height: 38.43px;
 	}
 	.meat-info-text span{
 		font-size: 0.7rem;
@@ -684,11 +684,11 @@ height: 60%;
 	margin-left: 30px;
 	padding-left: 40px;
 
-	}	
+	}
 	.slideshow-container.meat .our-story-pics img{
 		height: 100%;
 	}
-	
+
 }
 
 
@@ -1184,8 +1184,8 @@ p a{
 	  	right: 0;
 	  	margin-right: -30px;
 	  	transform: rotate(90deg);
-	  	-moz-transform: rotate(90deg); 
-		-webkit-transform: rotate(90deg); 
+	  	-moz-transform: rotate(90deg);
+		-webkit-transform: rotate(90deg);
 		-o-transform: rotate(90deg);
 		-ms-transform: rotate(90deg);
 
@@ -1194,7 +1194,7 @@ p a{
 	.prev{
 		margin-left: -50px;
 		-moz-transform: rotate(270deg);
-		-webkit-transform: rotate(270deg); 
+		-webkit-transform: rotate(270deg);
 		-o-transform: rotate(270deg);
 		-ms-transform: rotate(270deg);
 		transform: rotate(270deg);
@@ -1884,6 +1884,7 @@ button{
    justify-content: space-evenly;
    flex-wrap: wrap;
    margin-left: 127px;
+	height: 110px;
 }
 .shortcut-icon{
 	display: block;
@@ -1938,6 +1939,7 @@ button{
 @media only screen and (max-width: 881px) {
 	.shortcut-box{
 		margin-top: 40px;
+		height: auto;
 	}
 
 	.shortcut-icon{
@@ -2023,7 +2025,7 @@ g svg.light:hover .svg-text{
 	background-color: #F7F0EB;
 	opacity: 100%;
 	z-index: 8;
-	-webkit-box-shadow: 0px 0px 21px 12px rgba(0,0,0,0.27); 
+	-webkit-box-shadow: 0px 0px 21px 12px rgba(0,0,0,0.27);
 	box-shadow: 0px 0px 21px 12px rgba(0,0,0,0.27);
   	border-radius: 25px;
 	margin: 0;
